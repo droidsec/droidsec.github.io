@@ -1,0 +1,15 @@
+body {
+  font-family:Roboto,sans-serif;
+}
+div.mid {
+  margin-left:auto;
+  margin-right:auto;
+  width:50%;
+  vertical-align:middle;
+}
+div.announce {
+  font-size:16pt;
+  font-weight:bold;
+}
+
+
