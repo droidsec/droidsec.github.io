@@ -1,0 +1,25 @@
+name: droidsec.org
+markdown: redcarpet
+pygments: true
+redcarpet:
+  extensions: ["no_intra_emphasis"]
+title: droidsec.org News
+production_url: http://www.droidsec.org
+atom_path: atom.xml
+rss_path: rss.xml
+
+
+#
+# If you want to become a member, contact: join (dot) droidsec (at) qoop (dot) org
+#
+members:
+  jduck:
+    name: Joshua J. Drake
+    display_name: jduck
+    gravatar: 0fa6f5c062dc47e825d9bf7a2b40711d
+    email: jduck.droidsec@qoop.org
+    web: http://qoop.org/
+    twitter: jduck
+    github: jduck
+    title: Group Founder
+    bio: Joshua J. Drake is a Director of Research Science at Accuvant LABS and lead author of the Android Hacker's Handbook. Joshua focuses on original research such as reverse engineering and the analysis, discovery, and exploitation of security vulnerabilities. He has over 10 years of experience auditing and exploiting a wide range of application and operating system software with a focus on Android since early 2012. In prior roles, he served at Metasploit and VeriSign’s iDefense Labs. Joshua previously spoke at BlackHat, RSA, CanSecWest, REcon, Ruxcon/Breakpoint, Toorcon, and DerbyCon. Other notable accomplishments include exploiting Oracle's JVM for a win at Pwn2Own 2013, successfully compromising the Android browser via NFC with Georg Wicherski at BlackHat USA 2012, and winning the DefCon 18 CTF with the ACME Pharm team in 2010.
