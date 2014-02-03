@@ -182,3 +182,7 @@ span.post_summary {
   font-size: 14px;
 }
 
+img.feed {
+  vertical-align: middle;
+}
+
