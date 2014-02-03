@@ -5,8 +5,8 @@ layout: default
 {% assign author = site.members[page.author] %}
 <h2>{{ page.title }}</h2>
 <span class="post_meta">
-<span class="post_date">{{ page.date | date_to_string }}</span>
-<span class="post_author">by {{ author.display_name }}</span>
+<span class="post_date">{{ page.date | date_to_string }}</span> by
+<span class="post_author">{{ author.display_name }}</span>
 </span>
 
 <div class="post">
