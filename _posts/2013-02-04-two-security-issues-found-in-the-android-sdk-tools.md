@@ -217,9 +217,9 @@ Timeline
 --------
 <p>
 <ul>
-<li>2014-12-02 - Issue #1 discovered
-<li>2014-12-05 - Issue #2 discovered
-<li>2014-12-08 - Patches and advisory created and submitted to the Android Security Team
+<li>2013-12-02 - Issue #1 discovered
+<li>2013-12-05 - Issue #2 discovered
+<li>2013-12-08 - Patches and advisory created and submitted to the Android Security Team
 <li>2014-01-24 - Tweet announcing upcoming disclosure
 <li>2014-01-24 - Follow up sent, no human response
 <li>2014-02-04 - Public disclosure
