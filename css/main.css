@@ -197,3 +197,7 @@ div.highlight {
   margin-bottom: 20px;
 }
 
+div.member {
+  overflow: hidden;
+}
+
