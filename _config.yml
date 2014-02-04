@@ -7,10 +7,11 @@ title: droidsec.org News
 production_url: http://www.droidsec.org
 atom_path: atom.xml
 rss_path: rss.xml
+join_email: "join (dot) droidsec (at) qoop (dot) org"
 
 
 #
-# If you want to become a member, contact: join (dot) droidsec (at) qoop (dot) org
+# If you want to become a member, contact the address in "join_email" above or visit /join/
 #
 members:
   jduck:

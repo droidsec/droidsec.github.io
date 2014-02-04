@@ -1,0 +1,38 @@
+---
+layout: default
+title: Join | droidsec.org
+---
+
+<div id="join">
+  <h2>Join the Team!</h2>
+  <hr>
+  <p>
+  If you're actively interested in developing security related tools, auditing Android code, or writing exploits for Android vulnerabilities &#8212; this is the group for you.
+  </p>
+
+  <p>
+  Joining the group is easy. The process starts by introducing yourself at: {{ site.join_email }}.
+  </p>
+
+  <p>
+  NOTE: You can still contribute content via pull request, even if you don't have commit access!
+  </p>
+
+  <p>
+  The next step is adding yourself to the 
+  <a href="https://github.com/droidsec/droidsec.github.io/blob/master/_config.yml">_config.yml</a> file in the web site repository. You can probably even edit it right from the web site!
+  If not, fork the project and checkout a copy locally:
+
+{% highlight sh %}
+$ git clone https://github.com/droidsec/droidsec.github.io.git droidsec
+$ cd droidsec
+$ $EDITOR _config.yml
+$ git add _config.yml
+$ git commit -m 'Add myself to the members list'
+$ git push origin master
+{% endhighlight %}
+
+  Once you've made your commit, go over to the GitHub web interface and make a pull request. We'll merge it and then you'll appear on the members list!
+  </p>
+</div>
+
