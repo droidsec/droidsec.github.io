@@ -24,3 +24,14 @@ members:
     github: jduck
     title: Group Founder
     bio: Joshua J. Drake is a Director of Research Science at Accuvant LABS and lead author of the Android Hacker's Handbook. Joshua focuses on original research such as reverse engineering and the analysis, discovery, and exploitation of security vulnerabilities. He has over 10 years of experience auditing and exploiting a wide range of application and operating system software with a focus on Android since early 2012. In prior roles, he served at Metasploit and VeriSign’s iDefense Labs. Joshua previously spoke at BlackHat, RSA, CanSecWest, REcon, Ruxcon/Breakpoint, Toorcon, and DerbyCon. Other notable accomplishments include exploiting Oracle's JVM for a win at Pwn2Own 2013, successfully compromising the Android browser via NFC with Georg Wicherski at BlackHat USA 2012, and winning the DefCon 18 CTF with the ACME Pharm team in 2010.
+
+  Gunther:
+    name: Jacob Soo
+    display_name: Gunther
+    gravatar: 
+    email: deviant[dot]beta[at]gmail[dot]com
+    web: http://xchg.info
+    twitter: Gunther_AR
+    github: jacobsoo
+    title: couch potato
+    bio: 
