@@ -25,6 +25,17 @@ members:
     title: Group Founder
     bio: Joshua J. Drake is a Director of Research Science at Accuvant LABS and lead author of the Android Hacker's Handbook. Joshua focuses on original research such as reverse engineering and the analysis, discovery, and exploitation of security vulnerabilities. He has over 10 years of experience auditing and exploiting a wide range of application and operating system software with a focus on Android since early 2012. In prior roles, he served at Metasploit and VeriSign’s iDefense Labs. Joshua previously spoke at BlackHat, RSA, CanSecWest, REcon, Ruxcon/Breakpoint, Toorcon, and DerbyCon. Other notable accomplishments include exploiting Oracle's JVM for a win at Pwn2Own 2013, successfully compromising the Android browser via NFC with Georg Wicherski at BlackHat USA 2012, and winning the DefCon 18 CTF with the ACME Pharm team in 2010.
 
+  quine:
+    name: Zach Lanier
+    display_name: quine
+    gravatar:
+    email: zach[at]n0where[dot]org
+    web: https://n0where.org/
+    twitter: quine
+    github: quine
+    title: Security Researcher
+    bio: Zach Lanier is a Senior Security Researcher at Duo Security and a co-author of the "Android Hacker's Handbook". Zach has been researching mobile and embedded device security since 2009, ranging from app security, to platform security (especially Android); to device, network, and carrier security. He has presented at various public and private industry conferences, such as BlackHat, DEFCON, INFILTRATE, EUSecWest, ShmooCon, RSA, Amazon ZonCon, and more. Most recently, he worked as a Senior Research Scientist at Accuvant LABS.
+
   Gunther:
     name: Jacob Soo
     display_name: Gunther
@@ -36,13 +47,13 @@ members:
     title: couch potato
     bio: 
 
-  quine:
-    name: Zach Lanier
-    display_name: quine
-    gravatar:
-    email: zach[at]n0where[dot]org
-    web: https://n0where.org/
-    twitter: quine
-    github: quine
-    title: Security Researcher
-    bio: Zach Lanier is a Senior Security Researcher at Duo Security and a co-author of the "Android Hacker's Handbook". Zach has been researching mobile and embedded device security since 2009, ranging from app security, to platform security (especially Android); to device, network, and carrier security. He has presented at various public and private industry conferences, such as BlackHat, DEFCON, INFILTRATE, EUSecWest, ShmooCon, RSA, Amazon ZonCon, and more. Most recently, he worked as a Senior Research Scientist at Accuvant LABS.
+  anwarelmakrahy:
+    name: Anwar Mohamed
+    display_name: anwarelmakrahy
+    gravatar: b6660f74a947f3ad51963a33c8635146
+    email: anwarelmakrahy[at]gmail[dot]com
+    web: http://anwarelmakrahy.blogspot.com
+    twitter: anwarelmakrahy
+    github: AnwarMohamed
+    title: VulnMiner
+    bio: 21-year-old security researcher, gained his experience over nine years working on security-related tools and frameworks. In this time he has become skilled with a number of languages including C/C++, Java, Python & Assembly. His qualifications includes reverse engineering and detailed knowledge of security tools, technologies and best practices.
