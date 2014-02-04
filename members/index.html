@@ -24,10 +24,15 @@ title: Members | droidsec.org
       <li>Email: <a href="mailto:{{ member.email }}">{{ member.email }}</a></li>
       <li>Github: <a href="https://github.com/{{ member.github }}">{{ member.github }}</a></li>
     </ul>
+    {% if member.bio == blank or member.bio == nil %}
+    {% else %}
     <p>{{ member.bio }}</p>
+    {% endif %}
   </div>
   {% endfor %}
   </div>
+
+  <p></p>
 
   <h2>Alumni</h2>
 
