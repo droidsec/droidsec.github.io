@@ -93,6 +93,11 @@ list-style-position: inside;
   color: #000;
 }
 
+form.donate {
+  display: inline;
+  vertical-align: middle;
+}
+
 .meta {
   color: #aaa;
 }
