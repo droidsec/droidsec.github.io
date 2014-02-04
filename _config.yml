@@ -35,3 +35,14 @@ members:
     github: jacobsoo
     title: couch potato
     bio: 
+
+  anwarelmakrahy:
+    name: Anwar Mohamed
+    display_name: anwarelmakrahy
+    gravatar: b6660f74a947f3ad51963a33c8635146
+    email: anwarelmakrahy[at]gmail[dot]com
+    web: http://anwarelmakrahy.blogspot.com
+    twitter: anwarelmakrahy
+    github: AnwarMohamed
+    title: VulnMiner
+    bio: 21-year-old security researcher, gained his experience over nine years working on security-related tools and frameworks. In this time he has become skilled with a number of languages including C/C++, Java, Python & Assembly. His qualifications includes reverse engineering and detailed knowledge of security tools, technologies and best practices.
