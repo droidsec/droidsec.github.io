@@ -35,3 +35,14 @@ members:
     github: jacobsoo
     title: couch potato
     bio: 
+
+  quine:
+    name: Zach Lanier
+    display_name: quine
+    gravatar:
+    email: zach[at]n0where[dot]org
+    web: https://n0where.org/
+    twitter: quine
+    github: quine
+    title: Security Researcher
+    bio: Zach Lanier is a Senior Security Researcher at Duo Security and a co-author of the "Android Hacker's Handbook". Zach has been researching mobile and embedded device security since 2009, ranging from app security, to platform security (especially Android); to device, network, and carrier security. He has presented at various public and private industry conferences, such as BlackHat, DEFCON, INFILTRATE, EUSecWest, ShmooCon, RSA, Amazon ZonCon, and more. Most recently, he worked as a Senior Research Scientist at Accuvant LABS.
