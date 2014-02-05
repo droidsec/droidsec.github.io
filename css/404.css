@@ -1,0 +1,46 @@
+/*
+ * sad tab 404 message
+ */
+
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body { height: 100%; }
+
+body {
+  background-color: #233040;
+  font-family: Roboto,sans-serif;
+  font-size: 12px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+a         { color: #ffffff; }
+a:hover   { color: #ffffff; }
+a:visited { color: #ffffff; }
+
+div.sadtab {
+  color: white;
+}
+
+div.st_aww {
+  font-size: 15px;
+  margin: 30px 0 20px 0;
+}
+
+div.st_reg {
+  margin: 0 0 20px 0;
+}
+
+input.st_btn {
+  height: 30px;
+  width: 65px;
+  margin: 0 0 20px 0;
+}
+
+.sadtab p {
+  height: 35%;
+}
