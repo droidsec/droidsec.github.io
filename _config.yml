@@ -69,7 +69,6 @@ members:
     title: Vuln Miner
     bio: 21-year-old security researcher, gained his experience over nine years working on security-related tools and frameworks. In this time he has become skilled with a number of languages including C/C++, Java, Python & Assembly. His qualifications includes reverse engineering and detailed knowledge of security tools, technologies and best practices.
 
-
   0xroot: 
     name: Sebastián Guerrero 
     display_name: 0xroot 
@@ -80,3 +79,14 @@ members:
     github: 0xroot 
     title: Security Researcher 
     bio: I like to break things.
+    
+  vesh:
+    name: Angelo Vescio IV
+    display_name: vesh
+    gravatar: 80f5f9816070e1bbc3eb95e137c7e8d1
+    email: vesh[at]satxhackers[dot]org
+    web: http://satxhackers.org/
+    twitter: angelovescio
+    github: darkparticlelabs
+    title: Chimney Sweep
+    bio: Angelo Vescio spends most of his time trying to figure out how to get obscure devices in places they aren't supposed to be...also wolfman
