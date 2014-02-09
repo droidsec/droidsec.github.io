@@ -101,3 +101,14 @@ members:
     github: saidelike
     title: Security Researcher
     bio: Passionate
+
+  thomc:
+    name: Thomas Cannon
+    display_name: thomc
+    gravatar: c6a2d0bf364b80a01ab150a3e3c7e571
+    email: mail[at]thomascannon[dot]net
+    web: http://thomascannon.net
+    twitter: thomas_cannon
+    github: thomascannon
+    title: Security Researcher
+    bio: Thomas is Dir. of R&D at viaForensics and spends his time developing mobile security research into products, services, OSS and training. Thomas has performed mobile security assessments for clients in banking, network, government, medical and OEM markets. He has presented at international conferences including DEF CON and has a solid track record in corporate security and startup environments.
