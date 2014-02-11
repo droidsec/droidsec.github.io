@@ -112,3 +112,14 @@ members:
     github: thomascannon
     title: Security Researcher
     bio: Thomas is Dir. of R&D at viaForensics and spends his time developing mobile security research into products, services, OSS and training. Thomas has performed mobile security assessments for clients in banking, network, government, medical and OEM markets. He has presented at international conferences including DEF CON and has a solid track record in corporate security and startup environments.
+
+  diff:
+    name: Tim Strazzere
+    display_name: diff
+    gravatar: 6a4b43066d19111e850cb14b45eacf93
+    email: diff[at]lookout[dot].com
+    web: http://www.strazzere.com/blog
+    twitter: timstrazz
+    github: strazzere
+    title: Security Researcher
+    bio: Tim Strazzere is a Lead Research and Response Engineer at Lookout Mobile Security. Along with writing security software, he specializes in reverse engineering and malware analysis. Some interesting past projects include having reversing the Android Market protocol, Dalvik decompilers and memory manipulation on mobile devices. Past speaking engagements have included DEFCON, BlackHat, SyScan, HiTCON and EICAR.
