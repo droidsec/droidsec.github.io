@@ -123,3 +123,15 @@ members:
     github: strazzere
     title: Security Researcher
     bio: Tim Strazzere is a Lead Research and Response Engineer at Lookout Mobile Security. Along with writing security software, he specializes in reverse engineering and malware analysis. Some interesting past projects include having reversing the Android Market protocol, Dalvik decompilers and memory manipulation on mobile devices. Past speaking engagements have included DEFCON, BlackHat, SyScan, HiTCON and EICAR.
+    
+  nanotechz9l:
+    name: Rick Flores
+    display_name: nanotechz9l
+    gravatar: bec95b5640474b27e965961c7b55eb1c
+    email: 0xnanoquetz9l[at]gmail[dot].com
+    web:
+    twitter: nanotechz9l
+    github: nanotechz9l
+    title: Free Diver
+    bio: Rick is a Software security test engineer, and penetration tester at a software company. His focuses in both hardware/software security to include vuln research, exploit dev, malware analysis, and detection/intell automation. He's a student of ruby, c, and x86/x64/arm asm. He's also an avid follower of metasploit-framework, nanoelectronics, and embedded systems. Rick has presented his exploit dev workshop at ToorCON 13 in San Diego, and BSidesLV 2012 in Las Vegas.
+    
