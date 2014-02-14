@@ -51,24 +51,34 @@ function go() {
 }
 
 function show_detail() {
+  document.getElementById('clickme').style.display = 'none';
   logel.style.display = 'block';
 }
 </script>
 </head>
 
 <body onload='go();'>
+
 <p>
 The script in this page will test if the WebView it's loaded from is vulnerable to any Javascript bridge issues stemming from insecure use of addJavascriptInterface.
 </p>
+
 <p id=result>
 Vulnerable status: UNKNOWN (test running)
 </p>
-<p>Click <a href=# onclick='show_detail()'>here</a> to show details.</p>
+
+<p id=clickme>
+Click <a href=# onclick='show_detail()'>here</a> to show details.
+</p>
+
+<p>
 &copy; 2014 droidsec by Joshua J. Drake. Shout outs to MWR, Metasploit, FireEye, etc.
+</p>
+
 <div id=wrap>
 <textarea id=log>
 </textarea>
 </div>
+
 </body>
 </html>
-
