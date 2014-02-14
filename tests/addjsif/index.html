@@ -22,8 +22,9 @@ function log(str) {
 }
 
 function go() {
-  logel = document.getElementById('log');
-  vulnerable = false;
+  logel = document.getElementById('log_text');
+  vulnerable = [];
+
   for (i in top) {
     el = top[i];
     if (el == null) { continue; };
@@ -33,7 +34,7 @@ function go() {
     try {
         top[i].getClass().forName('java.lang.Runtime');
         log('top[' + i + ']: ' + top[i] + ' - VULNERABLE!');
-        vulnerable = true;
+        vulnerable.push(i);
     } catch(e) {
         log('top[' + i + ']: ' + top[i] + ' - error: ' + e.message);
     }
@@ -41,11 +42,11 @@ function go() {
 
   res = document.getElementById('result');
   res.innerHTML = 'Vulnerable status: ';
-  if (vulnerable) {
-      log('BROWSER IS VULNERABLE!');
-      res.innerHTML += '<font color=red>VULNERABLE</font>';
+  if (vulnerable.length > 0) {
+      log('BROWSER IS VULNERABLE: ' + navigator.userAgent + ' via ' + vulnerable.join());
+      res.innerHTML += '<font color=red>VULNERABLE: ' + vulnerable.join() + '</font>';
   } else {
-      log('Browser is safe.');
+      log('Browser is safe: ' + navigator.userAgent);
       res.innerHTML += '<font color=green>NOT VULNERABLE</font>';
   }
 }
@@ -76,7 +77,7 @@ Click <a href=# onclick='show_detail()'>here</a> to show details.
 </p>
 
 <div id=wrap>
-<textarea id=log>
+<textarea id=log_text>
 </textarea>
 </div>
 
