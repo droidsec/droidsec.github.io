@@ -1,0 +1,74 @@
+<html>
+<head>
+<style>
+  textarea {
+    width: 100%;
+    height: 80%;
+    display: none;
+  }
+  .wrap {
+    border: 1px solid black;
+    margin: 5px 0;
+    padding: 3px;
+  }
+</style>
+
+<script>
+var logel = null;
+
+function log(str) {
+  logel.value += str + '\n';
+  console.log(str);
+}
+
+function go() {
+  logel = document.getElementById('log');
+  vulnerable = false;
+  for (i in top) {
+    el = top[i];
+    if (el == null) { continue; };
+    if (typeof(el) === 'function') { continue; }
+
+    //log('trying top[' + i + ']: ' + top[i]);
+    try {
+        top[i].getClass().forName('java.lang.Runtime');
+        log('top[' + i + ']: ' + top[i] + ' - VULNERABLE!');
+        vulnerable = true;
+    } catch(e) {
+        log('top[' + i + ']: ' + top[i] + ' - error: ' + e.message);
+    }
+  }
+
+  res = document.getElementById('result');
+  res.innerHTML = 'Vulnerable status: ';
+  if (vulnerable) {
+      log('BROWSER IS VULNERABLE!');
+      res.innerHTML += '<font color=red>VULNERABLE</font>';
+  } else {
+      log('Browser is safe.');
+      res.innerHTML += '<font color=green>NOT VULNERABLE</font>';
+  }
+}
+
+function show_detail() {
+  logel.style.display = 'block';
+}
+</script>
+</head>
+
+<body onload='go();'>
+<p>
+The script in this page will test if the WebView it's loaded from is vulnerable to any Javascript bridge issues stemming from insecure use of addJavascriptInterface.
+</p>
+<p id=result>
+Vulnerable status: UNKNOWN (test running)
+</p>
+<p>Click <a href=# onclick='show_detail()'>here</a> to show details.</p>
+&copy; 2014 droidsec by Joshua J. Drake. Shout outs to MWR, Metasploit, FireEye, etc.
+<div id=wrap>
+<textarea id=log>
+</textarea>
+</div>
+</body>
+</html>
+
