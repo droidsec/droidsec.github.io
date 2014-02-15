@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<script language="Javascript" type="text/javascript" src="js/jquery-1.4.1.js"></script>
+	<script language="Javascript" type="text/javascript" src="js/jquery.lwtCountdown-1.0.js"></script>
+	<script language="Javascript" type="text/javascript" src="js/misc.js"></script>
+	<link rel="Stylesheet" type="text/css" href="style/dark.css"></link>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Android Hacker's Handbook Countdown</title>
+</head>
+<body>
+	<div id="container">
+<p>
+[ <a href="https://www.amazon.com/dp/111860864X">Amazon</a> ] - 
+[ <a href="toc">Table of Contents</a> ] - 
+[ <a href="http://www.wiley.com/go/androidhackershandbook">Wiley</a> ]
+
+<center><a href="https://www.amazon.com/dp/111860864X"><img src="cover.png" style="border: 1px white solid;"></a></center></p>
+			<div id="countdown_dashboard">
+			<div class="dash weeks_dash">
+				<span class="dash_title">weeks</span>
+				<div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+
+			<div class="dash days_dash">
+				<span class="dash_title">days</span>
+				<div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+
+			<div class="dash hours_dash">
+				<span class="dash_title">hours</span>
+				<div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+
+			<div class="dash minutes_dash">
+				<span class="dash_title">minutes</span>
+				<div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+
+			<div class="dash seconds_dash">
+				<span class="dash_title">seconds</span>
+				<div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+		</div>
+</div>
+		<script language="javascript" type="text/javascript">
+			jQuery(document).ready(function() {
+				$('#countdown_dashboard').countDown({
+					targetDate: {
+						'day': 		14,
+						'month': 	04,
+						'year': 	2014,
+						'hour': 	00,
+						'min': 		00,
+						'sec': 		1
+					}
+				});
+				
+			});
+		</script>
+	
+	</div>
+</body>
+
+</html>

@@ -1,0 +1,157 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: Tahoma;
+
+}
+
+a:link,a:visited,a:active {
+	text-decoration: none;
+	color: #63D1F4;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+a:img {
+	border: none;
+}
+
+body {
+	text-align: center;
+	background-color: #2e2e2e;
+}
+
+h1 {
+	font-size: 38pt;
+	border-bottom: 1px solid #ddd;
+	margin: 0;
+}
+
+h2.subtitle {
+	margin-top: 0px;
+	margin-bottom: 40px;
+}
+
+#container {
+	margin: 30px auto;
+	width: 700px;
+	color: #eee;
+}
+
+#countdown_dashboard {
+	height: 96px;
+	margin-left: 125px;
+}
+
+
+.dash {
+	width: 138px;
+	height: 96px;
+	background: transparent url('../images/dash.png') 0 0 no-repeat;
+	float: left;
+	margin-left: 2px;
+	padding-left: 13px;
+	position: relative;
+	color: #333;
+}
+
+.weeks_dash {
+	background: transparent url('../images/dark_weeks_dash.png') 0 0 no-repeat;
+}
+
+.days_dash {
+	background: transparent url('../images/dark_days_dash.png') 0 0 no-repeat;
+}
+
+.hours_dash {
+	clear: left;
+	background: transparent url('../images/dark_hours_dash.png') 0 0 no-repeat;
+}
+
+.minutes_dash {
+	background: transparent url('../images/dark_minutes_dash.png') 0 0 no-repeat;
+}
+
+.seconds_dash {
+	background: transparent url('../images/dark_seconds_dash.png') 0 0 no-repeat;
+}
+
+.dash .digit {
+	font: bold 52pt Verdana;
+	font-weight: bold;
+	float: left;
+	width: 59px;
+	text-align: center;
+	position: relative;
+}
+
+.dash_title {
+	display: none;
+}
+
+.dev_comment {
+	clear: left;
+	font-size: 14pt;
+	color: #fff;
+	text-align: center;
+	padding-top: 10px;
+	margin: 20px 10px;
+}
+
+#subscribe_form {
+	position: relative;
+} 
+
+#email_field {
+	font-size: 16pt;
+	padding: 6px 10px;
+	width: 300px;
+}
+
+#subscribe_button {
+	font-size: 14pt;
+	color: #333;
+	padding: 4px 8px;
+}
+
+.copyright {
+	font-size: 9pt;
+	color: #333;
+	margin: 40px 0px;
+}
+
+.faded {
+	color: #999;
+}
+
+.form_message {
+	width: 400px;
+	padding: 10px;
+	margin: 15px auto;
+	display: none;
+}
+
+#error_message {
+	background-color: #ffe;
+	border-left: 5px solid #bb3;
+	border-right: 5px solid #bb3;
+	color: #770;
+}
+
+#info_message {
+	background-color: #f0f9ff;
+	border: 1px solid #eef;
+	color: #247;
+}
+
+#loading {
+	text-align: center;
+	margin: 10px;
+	display: none;
+	position: absolute;
+	width: 100%;
+	top: 60px;
+}
