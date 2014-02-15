@@ -201,3 +201,10 @@ div.member {
   overflow: hidden;
 }
 
+div.quote {
+  font-size: 90%;
+  margin: auto 10px auto 10px;
+  padding: 10px 10px 10px 10px;
+  background-color: #d0d0d0;
+}
+
