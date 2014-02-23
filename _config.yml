@@ -135,3 +135,14 @@ members:
     title: Free Diver
     bio: Rick is a Software security test engineer, and penetration tester at a software company. His focuses in both hardware/software security to include vuln research, exploit dev, malware analysis, and detection/intell automation. He's a student of ruby, c, and x86/x64/arm asm. He's also an avid follower of metasploit-framework, nanoelectronics, and embedded systems. Rick has presented his exploit dev workshop at ToorCON 13 in San Diego, and BSidesLV 2012 in Las Vegas.
     
+  jcase:
+    name: Jon Sawuer
+    display_name: jcase
+    gravatar:
+    email: jcase[at]cunninglogic[dot]com
+    web: http://cunninglogic.com/
+    twitter: TeamAndirc
+    github: CunningLogic
+    title: Security Researcher
+    bio: Very opinionated mobile security researcher.
+
