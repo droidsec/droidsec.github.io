@@ -52,45 +52,34 @@ members:
     display_name: Gunther
     gravatar: 
     email: deviant[dot]beta[at]gmail[dot]com
-    web: http://xchg.info
+    web: http://xchg.info/
     twitter: Gunther_AR
     github: jacobsoo
     title: Couch Potato
     bio: 
 
-  anwarelmakrahy:
-    name: Anwar Mohamed
-    display_name: anwarelmakrahy
-    gravatar: b6660f74a947f3ad51963a33c8635146
-    email: anwarelmakrahy[at]gmail[dot]com
-    web: http://anwarelmakrahy.blogspot.com
-    twitter: anwarelmakrahy
-    github: AnwarMohamed
-    title: Vuln Miner
-    bio: 21-year-old security researcher, gained his experience over nine years working on security-related tools and frameworks. In this time he has become skilled with a number of languages including C/C++, Java, Python & Assembly. His qualifications includes reverse engineering and detailed knowledge of security tools, technologies and best practices.
+  jcase:
+    name: Jon Sawuer
+    display_name: jcase
+    gravatar:
+    email: jcase[at]cunninglogic[dot]com
+    web: http://cunninglogic.com/
+    twitter: TeamAndirc
+    github: CunningLogic
+    title: Security Researcher
+    bio: Very opinionated mobile security researcher.
 
   0xroot: 
     name: Sebastián Guerrero 
     display_name: 0xroot 
     gravatar: 
     email: s[dot]guerrero0[at]gmail[dot]com 
-    web: http://seguesec.com 
+    web: http://seguesec.com/
     twitter: 0xroot 
     github: 0xroot 
     title: Security Researcher 
     bio: I like to break things.
     
-  vesh:
-    name: Angelo Vescio IV
-    display_name: vesh
-    gravatar: 80f5f9816070e1bbc3eb95e137c7e8d1
-    email: vesh[at]satxhackers[dot]org
-    web: http://satxhackers.org/
-    twitter: angelovescio
-    github: darkparticlelabs
-    title: Chimney Sweep
-    bio: Angelo Vescio spends most of his time trying to figure out how to get obscure devices in places they aren't supposed to be...also wolfman
-
   saidelike:
     name: Cedric Halbronn
     display_name: saidelike
@@ -107,7 +96,7 @@ members:
     display_name: thomc
     gravatar: c6a2d0bf364b80a01ab150a3e3c7e571
     email: mail[at]thomascannon[dot]net
-    web: http://thomascannon.net
+    web: http://thomascannon.net/
     twitter: thomas_cannon
     github: thomascannon
     title: Security Researcher
@@ -135,14 +124,25 @@ members:
     title: Free Diver
     bio: Rick is a Software security test engineer, and penetration tester at a software company. His focuses in both hardware/software security to include vuln research, exploit dev, malware analysis, and detection/intell automation. He's a student of ruby, c, and x86/x64/arm asm. He's also an avid follower of metasploit-framework, nanoelectronics, and embedded systems. Rick has presented his exploit dev workshop at ToorCON 13 in San Diego, and BSidesLV 2012 in Las Vegas.
     
-  jcase:
-    name: Jon Sawuer
-    display_name: jcase
-    gravatar:
-    email: jcase[at]cunninglogic[dot]com
-    web: http://cunninglogic.com/
-    twitter: TeamAndirc
-    github: CunningLogic
-    title: Security Researcher
-    bio: Very opinionated mobile security researcher.
+  vesh:
+    name: Angelo Vescio IV
+    display_name: vesh
+    gravatar: 80f5f9816070e1bbc3eb95e137c7e8d1
+    email: vesh[at]satxhackers[dot]org
+    web: http://satxhackers.org/
+    twitter: angelovescio
+    github: darkparticlelabs
+    title: Chimney Sweep
+    bio: Angelo Vescio spends most of his time trying to figure out how to get obscure devices in places they aren't supposed to be...also wolfman
+
+  anwarelmakrahy:
+    name: Anwar Mohamed
+    display_name: anwarelmakrahy
+    gravatar: b6660f74a947f3ad51963a33c8635146
+    email: anwarelmakrahy[at]gmail[dot]com
+    web: http://anwarelmakrahy.blogspot.com/
+    twitter: anwarelmakrahy
+    github: AnwarMohamed
+    title: Vuln Miner
+    bio: 21-year-old security researcher, gained his experience over nine years working on security-related tools and frameworks. In this time he has become skilled with a number of languages including C/C++, Java, Python & Assembly. His qualifications includes reverse engineering and detailed knowledge of security tools, technologies and best practices.
 

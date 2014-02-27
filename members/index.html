@@ -20,7 +20,9 @@ title: Members | droidsec.org
     <h2>{{ member.display_name }}, {{ member.title }}</h2>
     <ul class="inside">
       <li>Twitter: <a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a></li>
+      {% if member.web %}
       <li>Web: <a href="{{ member.web }}">{{ member.web }}</a></li>
+      {% endif %}
       <li>Email: <a href="mailto:{{ member.email }}">{{ member.email }}</a></li>
       <li>Github: <a href="https://github.com/{{ member.github }}">{{ member.github }}</a></li>
     </ul>
