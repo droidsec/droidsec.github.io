@@ -113,6 +113,17 @@ members:
     title: Security Researcher
     bio: Tim Strazzere is a Lead Research and Response Engineer at Lookout Mobile Security. Along with writing security software, he specializes in reverse engineering and malware analysis. Some interesting past projects include having reversing the Android Market protocol, Dalvik decompilers and memory manipulation on mobile devices. Past speaking engagements have included DEFCON, BlackHat, SyScan, HiTCON and EICAR.
     
+  anwarelmakrahy:
+    name: Anwar Mohamed
+    display_name: anwarelmakrahy
+    gravatar: b6660f74a947f3ad51963a33c8635146
+    email: anwarelmakrahy[at]gmail[dot]com
+    web: http://anwarelmakrahy.blogspot.com/
+    twitter: anwarelmakrahy
+    github: AnwarMohamed
+    title: Vuln Miner
+    bio: 21-year-old security researcher, gained his experience over nine years working on security-related tools and frameworks. In this time he has become skilled with a number of languages including C/C++, Java, Python & Assembly. His qualifications includes reverse engineering and detailed knowledge of security tools, technologies and best practices.
+
   nanotechz9l:
     name: Rick Flores
     display_name: nanotechz9l
@@ -134,15 +145,4 @@ members:
     github: darkparticlelabs
     title: Chimney Sweep
     bio: Angelo Vescio spends most of his time trying to figure out how to get obscure devices in places they aren't supposed to be...also wolfman
-
-  anwarelmakrahy:
-    name: Anwar Mohamed
-    display_name: anwarelmakrahy
-    gravatar: b6660f74a947f3ad51963a33c8635146
-    email: anwarelmakrahy[at]gmail[dot]com
-    web: http://anwarelmakrahy.blogspot.com/
-    twitter: anwarelmakrahy
-    github: AnwarMohamed
-    title: Vuln Miner
-    bio: 21-year-old security researcher, gained his experience over nine years working on security-related tools and frameworks. In this time he has become skilled with a number of languages including C/C++, Java, Python & Assembly. His qualifications includes reverse engineering and detailed knowledge of security tools, technologies and best practices.
 
