@@ -146,3 +146,13 @@ members:
     title: Chimney Sweep
     bio: Angelo Vescio spends most of his time trying to figure out how to get obscure devices in places they aren't supposed to be...also wolfman
 
+  imcom:
+    name: Yu Jin
+    display_name: imcom
+    gravatar: 37941e596475a3c78282921d031ead38
+    email: jinyu.bjut[at]gmail[dot]com
+    web:
+    twitter: imcomjin
+    github: imcom
+    title: Developer
+    bio: Yu Jin is a web developer at a network security company. He is interested in network security and Android security. Specifically he is keen on cryptography, protocols and Android security.
