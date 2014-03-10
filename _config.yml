@@ -157,13 +157,14 @@ members:
     title: Developer
     bio: Yu Jin is a web developer at a network security company. He is interested in network security and Android security. Specifically he is keen on cryptography, protocols and Android security.
 
- anantshri:
+  anantshri:
     name: Anant Shrivastava
     display_name: AnantShri
     gravatar: 44e20881e1877a59f626bd2311ad2141
     email: anant[at]anantshri[dot]info
-    web: http://anantshri.info
+    web: http://anantshri.info/
     twitter: anantshri
     github: anantshri
     title: Security Researcher
-    bio: Anant Shrivastava is a Security Researcher / Consultant. He is the creator of Android Tamer – VM for android security professionals. He is an active blogger at http://blog.anantshri.info. He has been speaker / Trainer at various conferences like Nullcon, c0c0n, Clubhack, g0s. His talks were focused on various aspects of Android Operating system since 2011. His expertise remains in Linux, Web Applications (Dev and security testing) and Mobile devices (OS and Application) Security. 
+    bio: Anant Shrivastava is a Security Researcher and Consultant. He is the creator of Android Tamer (a VM for Android security professionals) and an active blogger. He spoke or trained others at various conferences like Nullcon, c0c0n, Clubhack, and g0s. His talks were focused on various aspects of the Android operating system since 2011. His expertise remains in Linux, web applications (dev and security testing) and mobile devices (OS and application) security.
+
