@@ -168,3 +168,13 @@ members:
     title: Security Researcher
     bio: Anant Shrivastava is a Security Researcher and Consultant. He is the creator of Android Tamer (a VM for Android security professionals) and an active blogger. He spoke or trained others at various conferences like Nullcon, c0c0n, Clubhack, and g0s. His talks were focused on various aspects of the Android operating system since 2011. His expertise remains in Linux, web applications (dev and security testing) and mobile devices (OS and application) security.
 
+  marcograss:
+    name: Marco Grassi
+    display_name: marcograss
+    gravatar: a98925181b2256d38addf9c3f5bf4dea
+    email: marco.gra[at]gmail[dot]com
+    web:
+    twitter: marcograss
+    github: marco-gra
+    title: Security Researcher
+    bio: R&D Team Member at viaForensics. I like to reverse stuff, find vulns, write tools. If some hardware is involved, even more.
