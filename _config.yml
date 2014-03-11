@@ -178,3 +178,14 @@ members:
     github: marco-gra
     title: Security Researcher
     bio: R&D Team Member at viaForensics. I like to reverse stuff, find vulns, write tools. If some hardware is involved, even more.
+
+  corrupt:
+    name: Prashant Mahajan
+    display_name: corrupt
+    gravatar:
+    email: prashant3535[at]gmail[dot]com
+    web: http://prashantmahajan.wordpress.com/
+    twitter: prashant3535
+    github: prashant3535
+    title: Security Consultant
+    bio: Prashant Mahajan is a Security Researcher and Consultant. He is interested in mobile device (OS and application) security.
