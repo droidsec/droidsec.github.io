@@ -168,3 +168,13 @@ members:
     title: Security Researcher
     bio: Anant Shrivastava is a Security Researcher and Consultant. He is the creator of Android Tamer (a VM for Android security professionals) and an active blogger. He spoke or trained others at various conferences like Nullcon, c0c0n, Clubhack, and g0s. His talks were focused on various aspects of the Android operating system since 2011. His expertise remains in Linux, web applications (dev and security testing) and mobile devices (OS and application) security.
 
+  corrupt:
+    name: Prashant Mahajan
+    display_name: corrupt
+    gravatar:
+    email: prashant3535[at]gmail[dot]com
+    web: http://prashantmahajan.wordpress.com/
+    twitter: prashant3535
+    github: prashant3535
+    title: Security Consultant
+    bio: Prashant Mahajan is a Security Researcher and Consultant. He is interested in mobile device (OS and application) security.
