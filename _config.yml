@@ -189,3 +189,13 @@ members:
     github: prashant3535
     title: Security Consultant
     bio: Prashant Mahajan is a Security Researcher and Consultant. He is interested in mobile device (OS and application) security.
+ cocaman:
+    name: Corsin Camichel
+    display_name: cocaman
+    gravatar: a0c74ac4c9cee42281206e16fe472136
+    email: cocaman[at]gmaildot[]com
+    web: http://camichel.com/
+    twitter: cocaman
+    github: cocaman
+    title: Security Analyst
+    bio: Team-Lead Android Security and Assessments for Compass Security. Also breaking other stuff in job and free time. And I code.
