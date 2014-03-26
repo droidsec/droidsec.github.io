@@ -212,3 +212,12 @@ members:
     title: Security Analyst
     bio: "I Fight for the users"
 
+  dweinstein:
+    name: David Weinstein
+    display_name: insitusec
+    gravatar: 6c9e182b4cb6abb2889d8dc56aa04d5c
+    email: dweinst@insitusec.com
+    twitter: insitusec
+    github: dweinstein
+    title: Security Engi-nerd
+    bio: "Senior Security Engineer @ viaForensics."
