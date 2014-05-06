@@ -122,6 +122,10 @@ form.donate {
 .navItem {
   position: relative;
   float: left;
+}
+.navLink {
+  position: relative;
+  float: left;
   display: block;
   height: 30px;
   padding-top: 15px;
