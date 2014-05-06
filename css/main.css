@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-color: #fff;
   font-family:Roboto,sans-serif;
   font-size: small;
   text-align: center;
@@ -61,38 +61,14 @@ list-style-position: inside;
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
+  width: 750px;
+  margin: 5em auto;
   line-height: 1.5em;
 }
-
-.header a {
-  font-weight: bold;
+.siteTitle {
+  color: #33B5E5;
   text-decoration: none;
 }
-
-.title {
-  display: inline-block;
-  margin-bottom: 2em;
-}
-
-.title a {
-  color: #33B5E5;
-}
-
-.title a:hover {
-  color: #000;
-}
-
-.header a.extra {
-  color: #33B5E5;
-  margin-left: 1em;
-}
-
-.header a.extra:hover {
-  color: #000;
-}
-
 form.donate {
   display: inline;
   vertical-align: middle;
@@ -105,7 +81,7 @@ form.donate {
 .footer {
   font-size: 80%;
   color: #666;
-  border-top: 4px solid #eee;
+  border-top: 4px solid #e2e2e2;
   margin-top: 2em;
   overflow: hidden;
 }
@@ -128,6 +104,42 @@ form.donate {
 .footer .rss img {
   border: 0;
 }
+
+/** Navbar **/
+.navbar {
+  background-color: #F3F3F3;
+  border: 1px solid #e7e7e7;
+  border-radius: 4px;
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 30px;
+}
+.mainNav {
+  list-style-type: none;
+  display: block;
+  height: auto;
+}
+.navItem {
+  position: relative;
+  float: left;
+  display: block;
+  height: 30px;
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+}
+.navItem > a {
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #33B5E5;
+}
+.navItem:hover {
+  background-color: #E6E6E6;
+  cursor: pointer;
+}
+
 
 /*****************************************************************************/
 /*

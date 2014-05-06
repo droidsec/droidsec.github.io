@@ -17,12 +17,16 @@
         <div class="site">
           <div class="header">
             <img src="/img/ds-small.png" /><br />
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/news/">News</a>
-            <a class="extra" href="https://github.com/droidsec/droidsec.github.io/wiki">Wiki</a>
-            <a class="extra" href="/members/">Members</a>
-            <a class="extra" href="/join/">Join</a>
-            <a class="extra" href="/donate/"><b>Donate!</b></a>
+            <div class="navbar">
+              <ul class="mainNav">
+                <li class="navItem"><h1><a href="/" class="title">{{ site.name }}</a></h1></li>
+                <li class="navItem"><a class="extra" href="/news/">News</a></li>
+                <li class="navItem"><a class="extra" href="https://github.com/droidsec/droidsec.github.io/wiki">Wiki</a></li>
+                <li class="navItem"><a class="extra" href="/members/">Members</a></li>
+                <li class="navItem"><a class="extra" href="/join/">Join</a></li>
+                <li class="navItem"><a class="extra" href="/donate/"><b>Donate!</b></a></li>
+              </ul> 
+            </div>
           </div>
 
           {{ content }}
