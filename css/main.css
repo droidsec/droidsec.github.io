@@ -61,9 +61,12 @@ list-style-position: inside;
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 750px;
   margin: 5em auto;
   line-height: 1.5em;
+}
+.header {
+  width: 980px;
+  margin: 0 auto;
 }
 .siteTitle {
   color: #33B5E5;
@@ -73,17 +76,26 @@ form.donate {
   display: inline;
   vertical-align: middle;
 }
-
 .meta {
   color: #aaa;
 }
+.content {
+  width: 780px;
+  margin: 0 auto;
+}
+.home {
+  margin: 0 auto;
+  width: 780px;
+}
 
+/** Footer **/
 .footer {
   font-size: 80%;
   color: #666;
   border-top: 4px solid #e2e2e2;
-  margin-top: 2em;
+  margin: 2em auto;
   overflow: hidden;
+  width: 980px;
 }
 
 .footer .contact {
@@ -132,6 +144,7 @@ form.donate {
   padding-left: 10px;
   padding-right: 10px;
   padding-bottom: 5px;
+  text-decoration: none;
 }
 .navItem > a {
   font-size: 16px;
