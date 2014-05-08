@@ -61,11 +61,11 @@ list-style-position: inside;
 .site {
   font-size: 115%;
   text-align: justify;
-  margin: 5em auto;
+  margin: 2em auto;
   line-height: 1.5em;
 }
 .header {
-  width: 980px;
+  width: 800px;
   margin: 0 auto;
 }
 .siteTitle {
@@ -95,7 +95,7 @@ form.donate {
   border-top: 4px solid #e2e2e2;
   margin: 2em auto;
   overflow: hidden;
-  width: 980px;
+  width: 800px;
 }
 
 .footer .contact {
