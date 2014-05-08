@@ -83,6 +83,10 @@ form.donate {
   width: 780px;
   margin: 0 auto;
 }
+.home {
+  margin: 0 auto;
+  width: 780px;
+}
 
 /** Footer **/
 .footer {
