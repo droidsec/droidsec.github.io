@@ -241,3 +241,13 @@ members:
     github: subho007
     title: Co-Founder and Security Researcher @ XYSec Labs
     bio: Programmer, Entrepreneur, Freelancer, Pentester and Exploiter. Loves to exploit Android. Lead Programmer and Creator of AFE.
+
+  utkanos:
+    name: Drew Suarez
+    display_name: utkanos
+    gravatar: e9610997926c08a1f9ba5a7a4e0a86c7
+    email: utkanos[at]gmail[dot]org
+    twitter: utkan0s
+    github: utkanos
+    title: Security Consultant/Researcher
+    bio: Breaking things at Matasano, contributer to cyanogenmod, photographer, and craft beer snob.
