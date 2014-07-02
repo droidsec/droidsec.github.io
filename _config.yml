@@ -251,3 +251,13 @@ members:
     github: utkanos
     title: Security Consultant/Researcher
     bio: Breaking things at Matasano, contributor to cyanogenmod, photographer, and craft beer snob.
+
+  rexperience7:
+    name: Rex Kim
+    display_name: rex
+    gravatar: 3637f3816716c93afb13426107ffb110
+    email: rexperience7[at]gmail[dot]com
+    twitter:  rexperience7
+    github: rexperience7
+    title: Security Researcher, Vuln Miner
+    bio: Peace, love, beer, zeroday!
