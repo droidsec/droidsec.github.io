@@ -15,7 +15,7 @@ I wrote this post to present some of my observations and the opinions formed as 
 
 Before diving in, I want to point out that I'm not the first person to take a look at Blackphone.
 The device was announced in January and was finally made available in June.
-At that time, Ars Technica [reviewed a pre-release version of the device](http://arstechnica.com/security/2014/06/exclusive-a-review-of-the-blackphone-the-android-for-the-paranoid/) and their review was [cross-posted on shared on Bruce Schneier's blog](https://www.schneier.com/blog/archives/2014/06/blackphone.html).
+At that time, Ars Technica [reviewed a pre-release version of the device](http://arstechnica.com/security/2014/06/exclusive-a-review-of-the-blackphone-the-android-for-the-paranoid/) and their review was [cross-posted on Bruce Schneier's blog](https://www.schneier.com/blog/archives/2014/06/blackphone.html).
 In August, Blackphone had a booth in the DEF CON 22 vendor area and the CSO even did [an interview discussing the device](https://www.youtube.com/watch?v=dbtSNAD4JJY).
 At that event, fellow droidsec researcher jcase bought a Blackphone and subsequently [rooted it on the same day](https://twitter.com/TeamAndIRC/status/498257627176923137).
 After Black Hat/DEF CON, companies like [Malwarebytes](https://blog.malwarebytes.org/hackedunpacked/2014/08/blackphone-privacy-centric-device/), [Bluebox](https://bluebox.com/blog/technical/blackphone-review-security-and-privacy/), and [viaForensics](https://www.viaprotect.com/blog/blackphone-security-cert-pinning/) have since posted their takes on the device.
