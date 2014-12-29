@@ -14,7 +14,7 @@ We decided to write this post for many different reasons. First, we want to set 
 
 It's important to note that this post does not discuss a number of other important Android security issues. Many egregious privacy leaks stem from Android applications and advertising SDKs. Stock and third party browsers are often vulnerable to publicly disclosed vulnerabilities. There are other security issues that can stem from using *addJavascriptInterface* too. These topics are not covered in this post, but deserve attention too.
 
-*NOTE: This post originally ballooned significantly. As such, we will be working to publish more details in the not too distant future.*
+*NOTE: This post ballooned significantly. As such, we will be working to publish more details in the future.*
 
 
 ## Background
@@ -82,7 +82,7 @@ Through our testing, we have discovered several important facts worth discussing
 
 1. Early testing with ad-supported apps revealed that even current and fully up-to-date devices can be successfully exploited in specific circumstances. Applications that (1) insecurely use *addJavascriptInterface* to render untrusted content and (2) are compiled against an API level less than 17 remain vulnerable. The popular apps tested are only two such apps; it's likely that many many more exist. This issue was assigned [CVE-2012-6636](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=2012-6636).
 
-2. More recent testing revealed that certain versions of stock browsers, including AOSP, are also vulnerable. This issue is due to insecure use of *addJavascriptInterface* involving the *searchBoxJavaBridge_* object. Digging in deeper we discovered exactly when the vulnerable object was introduced (Android 4.0) and removed (Android 4.2) within AOSP code. It was assigned [CVE-2014-1939](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=2014-1939). 
+2. More recent testing revealed that certain versions of stock browsers, including AOSP, are also vulnerable. This issue is due to insecure use of *addJavascriptInterface* involving the *searchBoxJavaBridge_* object. Digging in deeper we discovered exactly when the vulnerable object was introduced ([9497c5f](https://android.googlesource.com/platform/frameworks/base/+/9497c5f8c4bc7c47789e5ccde01179abc31ffeb2%5e%21) in Android 4.0) and removed ([d773ca8](https://android.googlesource.com/platform/frameworks/base.git/+/d773ca8ff2a7a5be94d7f2aaa8ff5ef5dac501a8%5e%21/) and [0e9292b](https://android.googlesource.com/platform/frameworks/base.git/+/0e9292b94a3cb47374a8ac17f6287d98a426b1a8%5e%21/) in Android 4.2) within AOSP code. It was assigned [CVE-2014-1939](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=2014-1939) per [our request](http://openwall.com/lists/oss-security/2014/02/11/2).
 
 3. Some devices using versions of Android within the affected range (4.0 < x < 4.2) were not vulnerable. This indicates that OEMs/carriers back-ported the patch to their firmware somewhere along the way. It's possible (maybe even likely) that Google notified these partners of the issue to spur movement without notifying the general public. Determining the entirety of vulnerable device + firmware combinations remains an open problem (and one that we are actively seeking to address).
 
