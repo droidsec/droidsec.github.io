@@ -271,3 +271,14 @@ members:
     github: johntroony
     title: (in)security
     bio: Animal lover.. hacking for fun & profit.
+
+  mspreitz:
+    name: Michael Spreitzenbarth
+    display_name: mspreitz
+    gravatar: 19984ec57f0c768074d4759bcb4c3788
+    email: research[at]spreitzenbarth[dot]de
+    web: http://forensics.spreitzenbarth.de
+    twitter: m_spreitz
+    github: mspreitz
+    title: Security Researcher
+    bio: Mobile security consultant and free time researcher in the field of Android malware analysis and forensics. Lead developer of the MobileSandbox system. Additionaly, giving talks and trainings in the afore mentioned topics.
