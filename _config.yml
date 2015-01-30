@@ -282,3 +282,12 @@ members:
     github: mspreitz
     title: Security Researcher
     bio: Mobile security consultant and free time researcher in the field of Android malware analysis and forensics. Lead developer of the MobileSandbox system. Additionaly, giving talks and trainings in the afore mentioned topics.
+
+  cryptax:
+    name: Axelle Apvrille
+    display_name: cryptax
+    twitter: cryptax
+    github: cryptax
+    title: Security Researcher
+    bio: Fighting malware that get on strange stuff. Talked at VB, ShmooCon, BlackHat Europe, Insomni'Hack, Hack.lu...
+  
