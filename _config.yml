@@ -3,6 +3,10 @@ markdown: redcarpet
 pygments: true
 redcarpet:
   extensions: ["no_intra_emphasis"]
+
+#
+# atom / rss info
+#
 title: droidsec.org News
 production_url: http://www.droidsec.org
 atom_path: atom.xml
