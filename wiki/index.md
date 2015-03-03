@@ -10,11 +10,11 @@ The droidsec.org Wiki collects and collates as much information relevant to Andr
 
 For quick access, we have organized the types of information into the following categories:  
 
-* [Whitepapers](#toc_0) - Android security and internals related papers
-* [Tools](#toc_1) - Useful tools for Android security research
-* [Vulnerabilities / Exploits](#toc_2) - Vulnerabilities and exploits that affect Android
-* [Crack-Mes](#toc_3) - A list of Android crackmes (reversing challenges, etc.)
-* [Miscellaneous](#toc_4) - Other sites that aggregate Android security related content.
+* [Whitepapers](#whitepapers) - Android security and internals related papers
+* [Tools](#tools) - Useful tools for Android security research
+* [Exploits](#exploits) - Vulnerabilities and exploits that affect Android
+* [Crack-Mes](#crack-mes) - A list of Android crackmes (reversing challenges, etc.)
+* [Miscellaneous](#miscellaneous) - Other sites that aggregate Android security related content.
 
 ## Whitepapers
 
@@ -240,7 +240,7 @@ For quick access, we have organized the types of information into the following 
 
 
 
-## Vulnerabilities / Exploits
+## Exploits
 
 ### Root Exploits
 
