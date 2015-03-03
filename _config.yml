@@ -1,5 +1,5 @@
 name: droidsec.org
-pygments: true
+highlighter: pygments
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "with_toc_data"]
