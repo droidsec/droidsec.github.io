@@ -3,11 +3,8 @@ layout: default
 title: Members
 ---
 
-<div id="members" class=home>
+<h1>Current Members</h1>
 
-  <h2>Current Members</h2>
-
-  <div class="members">
   {% for uhh in site.members %}
   {% assign member = uhh[1] %}
   <div id="{{ member.display_name }}" class="member">
@@ -18,7 +15,7 @@ title: Members
         alt="{{ member.display_name }}" width="150" height="150">
     </a>
     <h2>{{ member.display_name }}, {{ member.title }}</h2>
-    <ul class="inside">
+    <ul>
       <li>Twitter: <a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a></li>
       {% if member.web %}
       <li>Web: <a href="{{ member.web }}">{{ member.web }}</a></li>
@@ -41,7 +38,3 @@ title: Members
   <div class="alumni">
   <p></p>
   None yet.
-  </div>
-
-</div>
-
