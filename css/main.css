@@ -20,6 +20,10 @@ body {
 }
 
 h1 { margin-bottom: 1em; }
+h2 { margin-top: 1em; margin-bottom: 4px; }
+h3 { margin-top: 1em; margin-bottom: 4px; }
+h4 { margin-top: 1em; margin-bottom: 4px; }
+h5 { margin-top: 1em; margin-bottom: 4px; }
 
 p { margin: 1em 0; }
 
@@ -33,8 +37,13 @@ margin: 0px 15px 5px 0px;
 display: inline;
 }
 
-ul.inside {
+ul {
 list-style-position: inside;
+display: block;
+}
+
+.wiki li {
+margin-left: 10px;
 }
 
 /*****************************************************************************/

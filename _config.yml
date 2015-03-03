@@ -1,8 +1,8 @@
 name: droidsec.org
-markdown: redcarpet
 pygments: true
+markdown: redcarpet
 redcarpet:
-  extensions: ["no_intra_emphasis"]
+  extensions: ["no_intra_emphasis", "with_toc_data"]
 
 #
 # atom / rss info
