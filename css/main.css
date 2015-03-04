@@ -156,24 +156,25 @@ td.logo {
 td.nav {
   padding-top: 15px;
 }
-.navLink {
-  height: 30px;
-  padding-left: 10px;
-  padding-right: 10px;
-  text-decoration: none;
+.nav h1 {
+  margin-bottom: 0;
 }
-.linkBox {
-  padding-top: 20px;
-  height: 40px;
-}
-.linkBox > a {
+.nav > a {
   font-size: 16px;
   font-weight: bold;
   text-decoration: none;
   color: #33B5E5;
 }
-.linkBox:hover {
-  color: #A4C639;
+.navLink {
+  height: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  display: block;
+  height: 39px;
+  padding-top: 15px;
+}
+.navLink:hover {
   border-radius: 4px;
   cursor: pointer;
   background-color: #E6E6E6;
