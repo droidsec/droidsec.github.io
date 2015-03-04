@@ -6,7 +6,12 @@ title: News
 <link rel="alternate" type="application/rss+xml" title="RSS feed" href="/feed.xml">
 <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="Atom feed">
 
+  <div class=feeds>
+  <img class=feed src=/img/feed.png /> Subscribe in <a href=/atom.xml>atom</a> or <a href=/rss.xml>rss</a>
+  </div>
+
   <h1>News</h1>
+
   <ul class="posts">
     {% for post in site.posts %}
     <li>
@@ -16,5 +21,3 @@ title: News
     </li>
     {% endfor %}
   </ul>
-
-  <img class=feed src=/img/feed.png /> Subscribe in <a href=/atom.xml>atom</a> or <a href=/rss.xml>rss</a>

@@ -256,6 +256,9 @@ span.post_summary {
   font-size: 14px;
 }
 
+.feeds {
+  float: right;
+}
 img.feed {
   vertical-align: middle;
 }
