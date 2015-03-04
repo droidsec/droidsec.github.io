@@ -31,6 +31,11 @@ a         { color: #33B5E5; }
 a:hover   { color: #000; }
 a:visited { color: #33B5E5; }
 
+img.logo {
+height: 100px;
+z-index: 31337;
+}
+
 img.before {
 float: left;
 margin: 0px 15px 5px 0px;
@@ -70,7 +75,7 @@ margin-left: 10px;
 .site {
   font-size: 115%;
   text-align: justify;
-  margin: 2em auto;
+  margin: 1em auto;
   line-height: 1.5em;
 }
 .header {
@@ -126,20 +131,40 @@ form.donate {
   border: 0;
 }
 
+
 /** Navbar **/
 .navbar {
   background-color: #F3F3F3;
   border: 1px solid #e7e7e7;
   border-radius: 4px;
-  position: relative;
+  position: absolute;
+  width: 800px;
   min-height: 50px;
-  margin-bottom: 30px;
 }
 .mainNav {
   list-style-type: none;
-  display: block;
-  height: auto;
 }
+
+td.nav {
+  position: relative;
+  z-index: -1;
+  padding-bottom: 31px;
+}
+
+/* layout of the table on top of the bar */
+.navtab {
+  width: 800px;
+  margin: auto;
+  margin-bottom: 10px;
+  position: relative;
+  z-index: 0;
+}
+td.logo {
+  text-align: center;
+  width: 200px;
+}
+
+/* the links inside the list */
 .navItem {
   position: relative;
   float: left;
