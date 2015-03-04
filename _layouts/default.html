@@ -1,42 +1,42 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }} | droidsec.org</title>
-        <meta name="viewport" content="width=device-width">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ page.title }} | droidsec.org</title>
+    <meta name="viewport" content="width=device-width">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+    <!-- syntax highlighting CSS -->
+    <link rel="stylesheet" href="/css/syntax.css">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
 
-    </head>
-    <body>
-        <div class="site">
-          <div class="header">
-            <img src="/img/ds-small.png" /><br />
-            <div class="navbar">
-              <ul class="mainNav">
-                <li class="navItem"><h1><a href="/" class="navLink">{{ site.name }}</a></h1></li>
-                <li class="navItem"><a class="navLink" href="/news/">News</a></li>
-                <li class="navItem"><a class="navLink" href="/wiki/">Wiki</a></li>
-                <li class="navItem"><a class="navLink" href="/members/">Members</a></li>
-                <li class="navItem"><a class="navLink" href="/join/">Join</a></li>
-                <li class="navItem"><a class="navLink" href="/donate/"><b>Donate!</b></a></li>
-              </ul> 
-            </div>
-          </div>
+  </head>
+  <body>
+    <div class="site">
+      <div class="header">
+        <table class="navtab">
+          <tr>
+            <td class="nav"><div class="linkBox"><h1><a href="/" class="navLink">{{ site.name }}</a></h1></div></td>
+            <td class="nav"><div class="linkBox"><a class="navLink" href="/news/">News</a></div></td>
+            <td class="nav"><div class="linkBox"><a class="navLink" href="/wiki/">Wiki</a></div></td>
+            <td class="nav"><div class="linkBox"><a class="navLink" href="/members/">Members</a></div></td>
+            <td class="nav"><div class="linkBox"><a class="navLink" href="/join/">Join</a></div></td>
+            <td class="nav"><div class="linkBox"><a class="navLink" href="/donate/"><b>Donate!</b></a></div></td>
+            <td class="logo"><img class="logo" src="/img/v2s.png" alt="logo" /></td>
+          </tr>
+        </table>
+        <div class="navbar">&nbsp;</div>
+      </div>
 
-          <div class="page">
-          {{ content }}
-          </div>
+      <div class="page">
+      {{ content }}
+      </div>
 
-          <div class="footer">
-            <p>&copy; 2014-2015 droidsec.org</p>
-          </div>
-        </div>
-
-    </body>
+      <div class="footer">
+        <p>&copy; 2014-2015 droidsec.org</p>
+      </div>
+    </div>
+  </body>
 </html>

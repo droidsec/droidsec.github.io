@@ -28,8 +28,13 @@ h5 { margin-top: 1em; margin-bottom: 4px; }
 p { margin: 1em 0; }
 
 a         { color: #33B5E5; }
-a:hover   { color: #000; }
+a:hover   { color: #A4C639; }
 a:visited { color: #33B5E5; }
+
+img.logo {
+height: 100px;
+z-index: 31337;
+}
 
 img.before {
 float: left;
@@ -70,7 +75,7 @@ margin-left: 10px;
 .site {
   font-size: 115%;
   text-align: justify;
-  margin: 2em auto;
+  margin: 1em auto;
   line-height: 1.5em;
 }
 .header {
@@ -126,46 +131,53 @@ form.donate {
   border: 0;
 }
 
-/** Navbar **/
+/* NOTE: the navbar is just the floating grey background */
 .navbar {
   background-color: #F3F3F3;
   border: 1px solid #e7e7e7;
   border-radius: 4px;
-  position: relative;
+  position: absolute;
+  width: 800px;
   min-height: 50px;
-  margin-bottom: 30px;
+  margin-top: -75px;
+  z-index: -1;
 }
-.mainNav {
-  list-style-type: none;
-  display: block;
-  height: auto;
+
+/* layout of the table on top of the bar */
+.navtab {
+  width: 800px;
 }
-.navItem {
-  position: relative;
-  float: left;
+td.logo {
+  text-align: center;
+  width: 300px;
+}
+
+/* styles for the links in the navigation "bar" */
+td.nav {
+  padding-top: 15px;
 }
 .navLink {
-  position: relative;
-  float: left;
-  display: block;
   height: 30px;
-  padding-top: 15px;
   padding-left: 10px;
   padding-right: 10px;
-  padding-bottom: 5px;
   text-decoration: none;
 }
-.navItem > a {
+.linkBox {
+  padding-top: 20px;
+  height: 40px;
+}
+.linkBox > a {
   font-size: 16px;
   font-weight: bold;
   text-decoration: none;
   color: #33B5E5;
 }
-.navItem:hover {
-  background-color: #E6E6E6;
+.linkBox:hover {
+  color: #A4C639;
+  border-radius: 4px;
   cursor: pointer;
+  background-color: #E6E6E6;
 }
-
 
 /*****************************************************************************/
 /*
