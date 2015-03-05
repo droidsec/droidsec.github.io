@@ -49,7 +49,7 @@ members:
     twitter: pof
     github: poliva
     title: Unicorn Consultant
-    bio: Pau Oliva (@pof) is a Mobile Security Engineer with NowSecure. He has 10 years of experience working as R+D Engineer in a Wireless Service Provider. His passion for smartphones started back in 2004 when he had his first PocketPC phone with the Windows Mobile operating system and started reverse engineering and hacking HTC devices. He has been actively researching security aspects on the Android operating system since its debut with the T-Mobile G1 on October 2008. Pau has spoken at a variety of security conferences, including DefCon and RSA in USA and LaCon and NoConName in Spain, and is co-author of the upcoming Wiley's Android Hacker's Handbook.
+    bio: Pau Oliva is a Mobile Security Engineer with NowSecure. He has 10 years of experience working as R+D Engineer in a Wireless Service Provider. His passion for smartphones started back in 2004 when he had his first PocketPC phone with the Windows Mobile operating system and started reverse engineering and hacking HTC devices. He has been actively researching security aspects on the Android operating system since its debut with the T-Mobile G1 on October 2008. Pau has spoken at a variety of security conferences, including DefCon and RSA in USA and LaCon and NoConName in Spain, and is co-author of the upcoming Wiley's Android Hacker's Handbook.
 
   Gunther:
     name: Jacob Soo
@@ -160,7 +160,6 @@ members:
     github: imcom
     title: Developer
     bio: Yu Jin is a web developer at a network security company. He is interested in network security and Android security. Specifically he is keen on cryptography, protocols and Android security.
-
 
   marcograss:
     name: Marco Grassi
@@ -284,7 +283,6 @@ members:
     github: cryptax
     title: Security Researcher
     bio: Fighting malware that get on strange stuff. Talked at VB, ShmooCon, BlackHat Europe, Insomni'Hack, Hack.lu...
-
 
   fuzion24:
     name: Ryan Welton
