@@ -49,18 +49,18 @@ members:
     twitter: pof
     github: poliva
     title: Unicorn Consultant
-    bio: Pau Oliva (@pof) is a Mobile Security Engineer with viaForensics. He has 10 years of experience working as R+D Engineer in a Wireless Service Provider. His passion for smartphones started back in 2004 when he had his first PocketPC phone with the Windows Mobile operating system and started reverse engineering and hacking HTC devices. He has been actively researching security aspects on the Android operating system since its debut with the T-Mobile G1 on October 2008. Pau has spoken at a variety of security conferences, including DefCon and RSA in USA and LaCon and NoConName in Spain, and is co-author of the upcoming Wiley's Android Hacker's Handbook.
+    bio: Pau Oliva (@pof) is a Mobile Security Engineer with NowSecure. He has 10 years of experience working as R+D Engineer in a Wireless Service Provider. His passion for smartphones started back in 2004 when he had his first PocketPC phone with the Windows Mobile operating system and started reverse engineering and hacking HTC devices. He has been actively researching security aspects on the Android operating system since its debut with the T-Mobile G1 on October 2008. Pau has spoken at a variety of security conferences, including DefCon and RSA in USA and LaCon and NoConName in Spain, and is co-author of the upcoming Wiley's Android Hacker's Handbook.
 
   Gunther:
     name: Jacob Soo
     display_name: Gunther
-    gravatar: 
+    gravatar:
     email: deviant[dot]beta[at]gmail[dot]com
     web: http://xchg.info/
     twitter: Gunther_AR
     github: jacobsoo
     title: Couch Potato
-    bio: 
+    bio:
 
   jcase:
     name: Jon Sawuer
@@ -73,21 +73,21 @@ members:
     title: Security Researcher
     bio: Very opinionated mobile security researcher.
 
-  0xroot: 
-    name: Sebastián Guerrero 
-    display_name: 0xroot 
-    gravatar: 
-    email: s[dot]guerrero0[at]gmail[dot]com 
+  0xroot:
+    name: Sebastián Guerrero
+    display_name: 0xroot
+    gravatar:
+    email: s[dot]guerrero0[at]gmail[dot]com
     web: http://seguesec.com/
-    twitter: 0xroot 
-    github: 0xroot 
-    title: Security Researcher 
+    twitter: 0xroot
+    github: 0xroot
+    title: Security Researcher
     bio: I like to break things.
-    
+
   saidelike:
     name: Cedric Halbronn
     display_name: saidelike
-    gravatar: 
+    gravatar:
     email: saidelike+droidsec[at]gmail[dot]com
     web: http://saidsecurity.wordpress.com/
     twitter: saidelike
@@ -116,7 +116,7 @@ members:
     github: strazzere
     title: Security Researcher
     bio: Tim Strazzere is a Lead Research and Response Engineer at Lookout Mobile Security. Along with writing security software, he specializes in reverse engineering and malware analysis. Some interesting past projects include having reversing the Android Market protocol, Dalvik decompilers and memory manipulation on mobile devices. Past speaking engagements have included DEFCON, BlackHat, SyScan, HiTCON and EICAR.
-    
+
   anwarelmakrahy:
     name: Anwar Mohamed
     display_name: anwarelmakrahy
@@ -138,7 +138,7 @@ members:
     github: nanotechz9l
     title: Free Diver
     bio: Rick is a Software security test engineer, and penetration tester at a software company. His focuses in both hardware/software security to include vuln research, exploit dev, malware analysis, and detection/intell automation. He's a student of ruby, c, and x86/x64/arm asm. He's also an avid follower of metasploit-framework, nanoelectronics, and embedded systems. Rick has presented his exploit dev workshop at ToorCON 13 in San Diego, and BSidesLV 2012 in Las Vegas.
-    
+
   vesh:
     name: Angelo Vescio IV
     display_name: vesh
@@ -161,7 +161,7 @@ members:
     title: Developer
     bio: Yu Jin is a web developer at a network security company. He is interested in network security and Android security. Specifically he is keen on cryptography, protocols and Android security.
 
-  
+
   marcograss:
     name: Marco Grassi
     display_name: marcograss
@@ -171,7 +171,7 @@ members:
     twitter: marcograss
     github: marco-gra
     title: Security Researcher
-    bio: R&D Team Member at viaForensics. I like to reverse stuff, find vulns, write tools. If some hardware is involved, even more.
+    bio: R&D Team Member at NowSecure. I like to reverse stuff, find vulns, write tools. If some hardware is involved, even more.
 
   corrupt:
     name: Prashant Mahajan
@@ -196,36 +196,36 @@ members:
     bio: Team-Lead Android Security and Assessments for Compass Security. Also breaking other stuff in job and free time. And I code.
 
   k3170makan:
-    name: k3170makan 
-    display_name: k3170makan 
+    name: k3170makan
+    display_name: k3170makan
     gravatar: 6c9e182b4cb6abb2889d8dc56aa04d5c
     email: k3170makan[at]gmail[dot]com
     web: http://blog.k3170makan.com/
-    twitter: k3170makan 
-    github: k3170makan 
+    twitter: k3170makan
+    github: k3170makan
     title: Security Analyst
     bio: "I Fight for the users"
 
   dweinstein:
     name: David Weinstein
     display_name: insitusec
-    gravatar: 
+    gravatar:
     email: dweinst[at]insitusec[dot]com
     twitter: insitusec
     github: dweinstein
-    title: Senior Security Engineer @ viaForensics
+    title: Senior Security Engineer @ NowSecure
     bio: Security Engi-nerd
-    
+
   adroidman:
     name: Grady Duncan
     display_name: aDroidman
-    gravatar: 
-    email: 
+    gravatar:
+    email:
     twitter: adroidman
     github: adroidman
     title: Software Engineer
-    bio: Software Developer, SharePoint/Salesforce Admin. Spend my free time dabbling in web development. 
-    
+    bio: Software Developer, SharePoint/Salesforce Admin. Spend my free time dabbling in web development.
+
   sunnyrockzzs:
     name: Subho Halder
     display_name: Subho Halder
@@ -257,7 +257,7 @@ members:
     bio: 20 year old hacker. Peace, love, beer, zeroday!
 
   warlord:
-    name: John Troony 
+    name: John Troony
     display_name: warlord
     gravatar: bf4094519cd2c9c94e8ce4f5a5d9efe9
     email: jayombagi[at]gmail[dot]com
@@ -284,4 +284,12 @@ members:
     github: cryptax
     title: Security Researcher
     bio: Fighting malware that get on strange stuff. Talked at VB, ShmooCon, BlackHat Europe, Insomni'Hack, Hack.lu...
-  
+
+
+  fuzion24:
+    name: Ryan Welton
+    display_name: fuzion24
+    twitter: fuzion24
+    github: fuzion24
+    title: Security Researcher @ NowSecure
+    bio: I like to break things. I enjoy offensive security especially for Android/Linux.
