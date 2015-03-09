@@ -291,3 +291,15 @@ members:
     github: fuzion24
     title: Security Researcher @ NowSecure
     bio: I like to break things. I enjoy offensive security especially for Android/Linux.
+    
+  adi0x90:
+    name: Aditya Gupta
+    display_name: adi0x90
+    gravatar: dc6c5033a5f09182c497c05372bfe35f
+    email: adi[at]attify[dot]com
+    twitter: adi1391
+    github: adi0x90
+    website: http://blog.attify.com
+    title: Android Hacker @ Attify
+    bio: Co-Founder and Droid Ninja at Attify. Author of "Learning Pentesting for Android Devices" . Speaker & Trainer at BlackHat, OWASP AppSec, Toorcon, Syscan, Nullcon etc. Co-Creator of AppWatch - The Mobile Security Platform. Found vulnerabilities in Google, Facebook, Twitter, Paypal, Skype, Webkit, Apple etc. in the past. 
+
