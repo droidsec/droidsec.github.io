@@ -368,8 +368,10 @@ Muhammad Naveed, Yeonjoon Lee, Kan Yuan, XiaoFeng Wang and Carl A Gunter at NDSS
 
 * [https://github.com/dweinstein/android_notes/wiki] (https://github.com/dweinstein/android_notes/wiki)
 * [https://github.com/trevd/android] (https://github.com/trevd/android)
-* 
+
+
 ## Books
+
 * [Practical Android Exploitation](http://theroot.ninja/PAE.pdf)
 * [Android Hacker's Handbook](http://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X)
 * [Android Security Internals: An In-Depth Guide to Android's Security Architecture](http://www.amazon.com/Android-Security-Internals-In-Depth-Architecture/dp/1593275811)
