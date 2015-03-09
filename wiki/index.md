@@ -192,7 +192,6 @@ For quick access, we have organized the types of information into the following 
 * [Watch you lookin’ at?](https://labs.mwrinfosecurity.com/system/assets/886/original/WatchYouLookinAt_SecuriTay2015_presentation_web.pdf) by Jahmel Harris & Owen Evans at Securi-Tay 2015 (27th February 2015)
 * [On Relaying NFC Payment Transactions using Android devices](http://www.slideshare.net/cgvwzq/on-relaying-nfc-payment-transactions-using-android-devices) by Ricardo J. Rodríguez y & José Vila at RootedCon 2015 (05th-07th March 2015)
 * [Android: Back to the Future, Two or Too](http://www.dinosec.com/docs/Android-Back_to_the_Future_Too_Rooted2015_RaulSiles-DinoSec_v1.0.pdf) by Raúl Siles at RootedCon 2015 (05th-07th March 2015)
-* []()
 
 ## Tools
 
