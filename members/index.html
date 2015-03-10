@@ -20,7 +20,9 @@ title: Members
       {% if member.web %}
       <li>Web: <a href="{{ member.web }}">{{ member.web }}</a></li>
       {% endif %}
+      {% if member.email %}
       <li>Email: <a href="mailto:{{ member.email }}">{{ member.email }}</a></li>
+      {% endif %}
       <li>Github: <a href="https://github.com/{{ member.github }}">{{ member.github }}</a></li>
     </ul>
     {% if member.bio == blank or member.bio == nil %}
