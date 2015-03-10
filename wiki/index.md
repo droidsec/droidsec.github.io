@@ -8,7 +8,7 @@ title: Wiki
 
 The droidsec.org Wiki collects and collates as much information relevant to Android security as possible. If you find something missing, please consider contributing.
 
-For quick access, we have organized the types of information into the following categories:  
+For quick access, we have organized the types of information into the following categories:
 
 * [Whitepapers](#whitepapers) - Android security and internals related papers
 * [Tools](#tools) - Useful tools for Android security research
@@ -28,16 +28,16 @@ For quick access, we have organized the types of information into the following 
 * **Fuzzing the Phone in your Phone**  [WP](http://www.blackhat.com/presentations/bh-usa-09/MILLER/BHUSA09-Miller-FuzzingPhone-PAPER.pdf) [Slides](http://www.blackhat.com/presentations/bh-usa-09/MILLER/BHUSA09-Miller-FuzzingPhone-SLIDES.pdf) by Charlie Miller & Collin Mulliner at Black Hat USA 2009  (29th-30th July 2009)
 * [Reconstructing Dalvik applications](http://conference.hitb.org/hitbsecconf2010dxb/materials/D2%20-%20Marc%20Schonefeld%20-%20undx2.pdf) by Marc Schonefeld at HiTB Dubai 2010  (19th-22nd April 2010)
 * [Android Hax](https://jon.oberheide.org/files/summercon10-androidhax-jonoberheide.pdf) by Jon Oberheide at SummerCon 2010 (18th-20th June 2010)
-* [More Bugs In More Places: Secure Development On Moble Platforms](http://www.cio.wisc.edu/mbimp-deck.pdf) by David Kane-Parry at Black Hat USA 2010 (28th-29th July 2010)
+* [More Bugs In More Places: Secure Development On Mobile Platforms](http://www.cio.wisc.edu/mbimp-deck.pdf) by David Kane-Parry at Black Hat USA 2010 (28th-29th July 2010)
 * [These Aren't the Permissions You're Looking For](https://www.defcon.org/images/defcon-18/dc-18-presentations/Lineberry/DEFCON-18-Lineberry-Not-The-Permissions-You-Are-Looking-For.pdf) by Anthony Lineberry, David Luke Richardson & Tim Wyatt at Defcon 18 2010 (30th July - 01st August 2010)
 * [Smartphones, Applications & Security](http://conference.hackinthebox.org/hitbsecconf2010kul/materials/D1T2%20-%20Sebastian%20Ziegler%20-%20Smartphones,%20Applications%20and%20Security.pdf) by Paul Sebastian Ziegler at HiTB KUL 2010 (13th-14th October 2010)
-* [What'S Old Is New Again: An Overview Of Mobile Application Security](http://sector.ca/portals/17/Presentations10/ZachLanierMikeZusman.pdf) by Zach Lanier & Mike Zusman at SecTor 2010 (17th-19th October 2010)
+* [What's Old Is New Again: An Overview Of Mobile Application Security](http://sector.ca/portals/17/Presentations10/ZachLanierMikeZusman.pdf) by Zach Lanier & Mike Zusman at SecTor 2010 (17th-19th October 2010)
 * **Building Android Sandcastles in Android's Sandbox** [WP](https://media.blackhat.com/bh-ad-10/Nils/Black-Hat-AD-2010-android-sandcastle-wp.pdf) [Slides](http://media.blackhat.com/bh-ad-10/Nils/Black-Hat-AD-2010-android-sandcastle-slides.pdf) by Nils at Black Hat Abu Dhabi 2010  (08th-11th November 2010)
 * [Smart Phones, Dumb Apps](https://www.owasp.org/images/3/3b/SmartPhonesDumbApps_OWASPDC_20101111_Content.pdf) by Dan Cornell at OWASP DC 2010 (11th November 2010)
 * [Android: Reverse Engineering and Forensics](https://deepsec.net/docs/Slides/2010/DeepSec_2010_Reverse_Forensics.pdf) by Raphaël Rigo at DeepSec 2010 (25th-26th November 2010)
 * **Popping Shell on A(ndroid)RM Devices** [WP](https://media.blackhat.com/bh-dc-11/Avraham/BlackHat_DC_2011_Avraham_ARM%20Exploitation-wp.2.0.pdf) [Slides](https://media.blackhat.com/bh-dc-11/Avraham/BlackHat_DC_2011_Avraham-Popping_Android_Devices-Slides.pdf) by Itzhak Avraham at BlackHat DC 2011  (18th-19th January 2011)
 * [Team JOCH vs Android: The Ultimate Showdown](https://jon.oberheide.org/files/shmoo11-teamjoch.pdf) by Jon Oberheide and Zach Lanier at ShmooCon 2011 (05th-07th February 2011)
-* [Beating up on Android - Practical Android Attacks](http://www.infiltratecon.net/infiltrate/archives/Android_Attacks.pdf) by Bas Alberts & Massimiliano Oldani at Infiltrate 2011 (16th-17th April 2011)
+* [Beating up on Android - Practical Android Attacks](http://www.infiltratecon.net/infiltrate/archives/Android_Attacks.pdf) by Bas Alberts & Massimiliano Oldani at Infiltrate 2011 (16th-17th April 2011)
 * [Popping Shell on A(ndroid)RM Devices](http://conference.hitb.org/hitbsecconf2011ams/materials/D1T3%20-%20Itzhak%20Zuk%20Avraham%20-%20Popping%20Shell%20On%20Android%20Devices.pdf) by Itzhak (Zuk) Avraham at HiTB AMS 2011 (19th-20th May 2011)
 * [Don't Root Robots](https://jon.oberheide.org/files/bsides11-dontrootrobots.pdf) by Jon Oberheide & Zach Lanier at BSides Detroit 2011  (03rd-04th June 2011)
 * **A framework for on-device privilege escalation exploit execution on Android** [Link 1](http://www.mobilefactory.at/wordpress/wp-content/uploads/IWSSI2011-Android-Exploit-Framework-1.pdf) [Link 2](https://www.mayrhofer.eu.org/downloads/presentations/2011-06-16_IWSSI_Android-Exploit-Framework.pdf) by Sebastian Höbarth & Rene Mayrhofer at IWSSI 2011  (12th June 2011)
@@ -54,7 +54,7 @@ For quick access, we have organized the types of information into the following 
 * ["I Know Kung-Fu!": Analyzing Mobile Malware](http://www.h2hc.org.br/repositorio/2011/files/Alex.en.pdf) by Alex Kirk at H2HC 2011 (29th-30th October 2011)
 * [How Security is Broken? : Android Internals and Malware Infection Possibility](http://pacsec.jp/psj11/PacSec2011_How-Security-is-Broken_en.pdf) by Tsukasa Oi  at PacSec 2011 (09th-10th November 2011)
 * **Yet Another Android Rootkit** [WP](https://media.blackhat.com/bh-ad-11/Oi/bh-ad-11-Oi-Android_Rootkit-WP.pdf) [Slides](https://media.blackhat.com/bh-ad-11/Oi/bh-ad-11-Oi-Android_Rootkit-Slides.pdf) by Tsukasa Oi  at Black Hat Abu Dhabi 2011 (14th-15th December 2011)
-* **Android: From Reversing to Decompilation** [WP](http://media.blackhat.com/bh-ad-11/Desnos/bh-ad-11-DesnosGueguen-Andriod-Reversing_to_Decompilation_WP.pdf) [Slides](https://media.blackhat.com/bh-ad-11/Desnos/bh-ad-11-DesnosGueguen-Andriod-Reversing_to_Decompilation_Slides.pdf) by Anthony Desnos & Georoy Gueguen  at Black Hat Abu Dhabi 2011 (14th-15th December 2011)
+* **Android: From Reversing to Decompilation** [WP](http://media.blackhat.com/bh-ad-11/Desnos/bh-ad-11-DesnosGueguen-Andriod-Reversing_to_Decompilation_WP.pdf) [Slides](https://media.blackhat.com/bh-ad-11/Desnos/bh-ad-11-DesnosGueguen-Andriod-Reversing_to_Decompilation_Slides.pdf) by Anthony Desnos & Geoffroy Gueguen  at Black Hat Abu Dhabi 2011 (14th-15th December 2011)
 * [Bypassing the Android Permission Model](http://hackinparis.com/slides/hip2k12/Georgia-androidpermissions.pdf) by Georgia Weidman at Hack In Paris 2012 (18th-22nd June 2012)
 * **Android Malware Heuristics** [EN](http://www.slideshare.net/MasataNishida/avtokyo2012-android-malware-heuristicsen) [JP](http://www.slideshare.net/MasataNishida/av-tokyo2012-androidmalawareheuristicsjp) by Masata Nishida at AVTOKYO 2012 (17th November 2012)
 * [Detecting Repackaged Smartphone Applications in Third-Party Android Marketplaces](http://www.csc.ncsu.edu/faculty/jiang/pubs/CODASPY12.pdf) by Wu Zhou, Yajin Zhou, Xuxian Jiang & Peng Ning at CODASPY 2012
@@ -74,25 +74,25 @@ For quick access, we have organized the types of information into the following 
 * [Into The Droid - Gaining Access to Android User Data](https://www.defcon.org/images/defcon-20/dc-20-presentations/Cannon/DEFCON-20-Cannon-Into-The-Droid.pdf) by Thomas Cannon at Defcon 20 2012
 * [Dissecting the Android Bouncer](https://jon.oberheide.org/files/summercon12-bouncer.pdf) by Jon Oberheide and Charlie Miller at SummerCon 2012
 * [Woodpecker - Systematic Detection of Capability Leaks in Stock Android Smartphones](http://www.csc.ncsu.edu/faculty/jiang/pubs/NDSS12_WOODPECKER.pdf) by Michael Grace, Yajin Zhou, Zhi Wang, Xuxian Jiang at NDSS 2012
-* [Android - Bytecode Obfuscation bringing x86 fuckups to dalvik](http://www.sec.t-labs.tu-berlin.de/spring/content/spring7_14_slides_schulz.pdf) by Patrick Schulz at 
+* [Android - Bytecode Obfuscation bringing x86 fuckups to dalvik](http://www.sec.t-labs.tu-berlin.de/spring/content/spring7_14_slides_schulz.pdf) by Patrick Schulz
 * [Android Application Reverse Engineering & Defenses](http://bluebox.com/wp-content/uploads/2013/05/AndroidREnDefenses201305.pdf) by Patrick Schulz & Felix Matenaar at SOURCE Dublin 2013
 * [Fast, Scalable Detection of “Piggybacked” Mobile Applications](http://www.csc.ncsu.edu/faculty/jiang/pubs/CODASPY13.pdf) by Wu Zhou, Yajin Zhou, Michael Grace, Xuxian Jiang & Shihong Zou at CODASPY 2013
 * [Playing Hide and Seek with Dalvik Executables](https://www.fortiguard.com/uploads/general/Hidex_Paper.pdf) by Axelle Apvrille at Hacktivity 2013
-* [PatchDroid: Scalable Third-Party Security Patches for Android Devices](http://www.mulliner.org/collin/academic/publications/patchdroid.pdf) by Collin Mulliner, Jon Oberheide, William Robertson & Engin Kirda at 
-* [Android OEM's applications (in)security and backdoors without permission](http://www.quarkslab.com/dl/Android-OEM-applications-insecurity-and-backdoors-without-permission.pdf) by Andre Moulu at 
+* [PatchDroid: Scalable Third-Party Security Patches for Android Devices](http://www.mulliner.org/collin/academic/publications/patchdroid.pdf) by Collin Mulliner, Jon Oberheide, William Robertson & Engin Kirda
+* [Android OEM's applications (in)security and backdoors without permission](http://www.quarkslab.com/dl/Android-OEM-applications-insecurity-and-backdoors-without-permission.pdf) by André Moulu
 * [The Impact of Vendor Customizations on Android Security](http://www.cs.ncsu.edu/faculty/jiang/pubs/CCS13.pdf) by Lei Wu, Michael Grace, Yajin Zhou, Chiachih Wu & Xuxian Jiang at Computer and Communications Security 2013
 * [An Android Hacker's Journey: Challenges in Android Security Research](https://cansecwest.com/slides/2013/An%20Android%20Hacker's%20Journey-%20Challenges%20in%20Android%20Security%20Research.pptx) by Joshua J. Drake at CanSecWest 2013
 * [Nifty stuff that you can still do with Android](http://2013.hackitoergosum.org/presentations/Day1-05.Nifty%20stuff%20that%20you%20can%20still%20do%20with%20Android%20by%20Xavier%20Martin.pdf) by Xavier 'xEU' Martin at HES 2013 (2nd May 2013)
 * [Android: From Rooting to Pwning](http://hackmiami.org/wp-content/uploads/2013/07/AndroidSec.pdf) by Acexor at HackMiami 2013 (July 2013)
 * [The Droid Exploitation SAGA](https://www.rsaconference.com/writable/presentations/file_upload/mbs-t01_final_v2.pdf) by ADITYA GUPTA & SUBHO HALDER at RSA Asia-Pacific Conference 2013
-* **How to Build a SpyPhone** [WP](https://media.blackhat.com/us-13/US-13-McNamee-How-To-Build-a-SpyPhone-WP.pdf) [Slides](https://media.blackhat.com/us-13/US-13-McNamee-How-To-Build-a-SpyPhone-Slides.pdf) by Kevin McNamee at BlackHat USA 2013 
-* **Lets Play Applanting** [WP](https://media.blackhat.com/eu-13/briefings/Hatti/bh-eu-13-lets-play-hatti-wp.pdf) [Slides](https://media.blackhat.com/eu-13/briefings/Hatti/bh-eu-13-lets-play-hatti-slides.pdf) by Ajit Hatti at BlackHat Europe 2013 
-* **Off Grid communications with Android** [WP](https://media.blackhat.com/eu-13/briefings/Thomas/bh-eu-13-off-grid-communication-wp.pdf) [Slides](https://media.blackhat.com/eu-13/briefings/Thomas/bh-eu-13-off-grid-communication-slides.pdf) by Josh Thomas at BlackHat Europe 2013 
-* [Android: ONE ROOT TO OWN THEM ALL](https://media.blackhat.com/us-13/US-13-Forristal-Android-One-Root-to-Own-Them-All-Slides.pdf) by Jeff Forristal at BlackHat USA 2013 
-* **ABUSING WEB APIS THROUGH SCRIPTED ANDROID APPLICATIONS** [WP](https://media.blackhat.com/us-13/US-13-Peck-Abusing-Web-APIs-Through-Scripted-Android-Applications-WP.pdf) [Slides](https://media.blackhat.com/us-13/US-13-Peck-Abusing-Web-APIs-Through-Scripted-Android-Applications-Slides.pdf) by Daniel Peck at BlackHat USA 2013 
+* **How to Build a SpyPhone** [WP](https://media.blackhat.com/us-13/US-13-McNamee-How-To-Build-a-SpyPhone-WP.pdf) [Slides](https://media.blackhat.com/us-13/US-13-McNamee-How-To-Build-a-SpyPhone-Slides.pdf) by Kevin McNamee at BlackHat USA 2013
+* **Lets Play Applanting** [WP](https://media.blackhat.com/eu-13/briefings/Hatti/bh-eu-13-lets-play-hatti-wp.pdf) [Slides](https://media.blackhat.com/eu-13/briefings/Hatti/bh-eu-13-lets-play-hatti-slides.pdf) by Ajit Hatti at BlackHat Europe 2013
+* **Off Grid communications with Android** [WP](https://media.blackhat.com/eu-13/briefings/Thomas/bh-eu-13-off-grid-communication-wp.pdf) [Slides](https://media.blackhat.com/eu-13/briefings/Thomas/bh-eu-13-off-grid-communication-slides.pdf) by Josh Thomas at BlackHat Europe 2013
+* [Android: ONE ROOT TO OWN THEM ALL](https://media.blackhat.com/us-13/US-13-Forristal-Android-One-Root-to-Own-Them-All-Slides.pdf) by Jeff Forristal at BlackHat USA 2013
+* **ABUSING WEB APIS THROUGH SCRIPTED ANDROID APPLICATIONS** [WP](https://media.blackhat.com/us-13/US-13-Peck-Abusing-Web-APIs-Through-Scripted-Android-Applications-WP.pdf) [Slides](https://media.blackhat.com/us-13/US-13-Peck-Abusing-Web-APIs-Through-Scripted-Android-Applications-Slides.pdf) by Daniel Peck at BlackHat USA 2013
 * [Reversing and Auditing Android’s Proprietary Bits](http://recon.cx/2013/slides/Recon2013-Joshua%20J.%20Drake-Reversing%20and%20Auditing%20Android's%20Proprietary%20Bits-public.pdf) by Joshua J. Drake at Recon 2013  (23rd June 2013)
-* [Android games + free Wi-Fi = Privacy leak](http://pacsec.jp/psj13/psj2013-day1_Sugiura-Hasegawa_pacsec_EJ.pptx.pdf) by Takayuki Sugiura & Yosuke Hasegawa at PacSec 2013 
-* [Defeating the protection mechanism on Android platform ](http://pacsec.jp/psj13/psj2013-day2_Xia_Defeating_App%20protections_on_Android.pptx.pdf) by Tim Xia at PacSec 2013 
+* [Android games + free Wi-Fi = Privacy leak](http://pacsec.jp/psj13/psj2013-day1_Sugiura-Hasegawa_pacsec_EJ.pptx.pdf) by Takayuki Sugiura & Yosuke Hasegawa at PacSec 2013
+* [Defeating the protection mechanism on Android platform ](http://pacsec.jp/psj13/psj2013-day2_Xia_Defeating_App%20protections_on_Android.pptx.pdf) by Tim Xia at PacSec 2013
 * [Defeating Security Enhancements (SE) for Android](https://www.defcon.org/images/defcon-21/dc-21-presentations/Fora/DEFCON-21-Fora-Defeating-SEAndroid.pdf) by Pau Oliva Fora at Defcon 2013
 * [Playing Hide and Seek with Dalvik Executables](https://www.fortiguard.com/uploads/general/Hidex_Slides.pdf) by Axelle Apvrille at Hack.Lu 2013 (October 2013)
 * [Abusing Dalvik Beyond Recognition](http://archive.hack.lu/2013/AbusingDalvikBeyondRecognition.pdf) by Jurriaan Bremer at Hack.Lu 2013 (October 2013)
@@ -376,6 +376,6 @@ Muhammad Naveed, Yeonjoon Lee, Kan Yuan, XiaoFeng Wang and Carl A Gunter at NDSS
 * [Android Hacker's Handbook](http://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X)
 * [Android Security Internals: An In-Depth Guide to Android's Security Architecture](http://www.amazon.com/Android-Security-Internals-In-Depth-Architecture/dp/1593275811)
 * [Android Malware and Analysis](http://www.amazon.com/Android-Malware-Analysis-Ken-Dunham/dp/1482252198)
-* [The Mobile Application Hacker's Handbook](http://www.amazon.com/The-Mobile-Application-Hackers-Handbook/dp/1118958500) 
+* [The Mobile Application Hacker's Handbook](http://www.amazon.com/The-Mobile-Application-Hackers-Handbook/dp/1118958500)
 * [Android Internals::Power User's View](http://www.amazon.com/Android-Internals-Power-Users-View/dp/0991055527)
 
