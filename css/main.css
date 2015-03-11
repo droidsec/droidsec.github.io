@@ -32,7 +32,6 @@ a:hover   { color: #000; }
 a:visited { color: #33B5E5; }
 
 img.logo {
-height: 100px;
 z-index: 31337;
 }
 
