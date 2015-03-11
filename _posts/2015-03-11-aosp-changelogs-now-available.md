@@ -6,10 +6,11 @@ author: jduck
 categories: news
 ---
 
-Recently, [Funky Android Ltd](https://funkyandroid.com/) [closed up shop](XXX link to tweet).
+Recently, [Funky Android Ltd](https://funkyandroid.com/) [closed up shop](https://twitter.com/funkyandroid/status/573414471688978432).
 As a result, the Android developer and security communities lost a valuable resource that Funky Android provided — their AOSP developer change logs.
 Since we were avid consumers of this service, we decided to stand up our own version under a new sub-domain.
 Without further adieu, we are pleased to present [AOSP Changes](http://changes.droidsec.org/), brought to you by the droidsec team!
+We've primed the set with a few recent change sets. If you're interested in others, please [open an issue](https://github.com/droidsec/droidsec.github.io/issues).
 
 By the way, if you haven't noticed member Gunther and I have been hard at work cleaning up and expanding the [Wiki](/wiki/) too.
 Founder jduck migrated the Wiki from the traditional Github Wiki and integrated it with the main Web site layout.
