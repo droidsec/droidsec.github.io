@@ -312,3 +312,14 @@ members:
     website: http://blog.attify.com
     title: Android Hacker @ Attify
     bio: Co-Founder and Droid Ninja at Attify. Author of "Learning Pentesting for Android Devices" . Speaker & Trainer at BlackHat, OWASP AppSec, Toorcon, Syscan, Nullcon etc. Co-Creator of AppWatch - The Mobile Security Platform. Found vulnerabilities in Google, Facebook, Twitter, Paypal, Skype, Webkit, Apple etc. in the past.
+
+  Zenofex:
+    name: Amir Etemadieh
+    display_name: Zenofex
+    gravatar: b2068df9f0e5062aa740acd02d81db40
+    email: Zenofex[at]Exploitee[dot]rs
+    twitter: zenofex
+    github: zenofex
+    web: http://exploitee.rs
+    title: Research Scientist
+    bio: Research Scientist @ Accuvant Labs. Founder of Exploitee.rs . Speaker 3 x @ DEFCON, 1 x @ Infosec Southwest, and 2 x @ BSides Austin
