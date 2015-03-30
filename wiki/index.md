@@ -204,6 +204,9 @@ Muhammad Naveed, Yeonjoon Lee, Kan Yuan, XiaoFeng Wang and Carl A Gunter at NDSS
 * **Relaying EMV Contacless Transactions Using Off-The-Shelf Android Devices** [Slides](https://www.blackhat.com/docs/asia-15/materials/asia-15-VandenBreekel-Relaying-EMV-Contactless-Transactions-Using-Off-The-Shelf-Android-Devices.pdf) [WP](https://www.blackhat.com/docs/asia-15/materials/asia-15-VandenBreekel-Relaying-EMV-Contactless-Transactions-Using-Off-The-Shelf-Android-Devices-wp.pdf) by Jordi Van den Breekel at BlackHat Asia 2015 (26th-27th March 2015)
 * **Resurrecting The READ_LOGS PERMISSION On Samsung Devices** [Slides](https://www.blackhat.com/docs/asia-15/materials/asia-15-Johnson-Resurrecting-The-READ-LOGS-Permission-On-Samsung-Devices.pdf) [WP](https://www.blackhat.com/docs/asia-15/materials/asia-15-Johnson-Resurrecting-The-READ-LOGS-Permission-On-Samsung-Devices-wp.pdf) by Ryan Johnson &  Angelos Stavrou at BlackHat Asia 2015 (26th-27th March 2015)
 * **We Can Still Crack You! General Unpacking Method For Android Packer (NO ROOT)** [Slides](https://www.blackhat.com/docs/asia-15/materials/asia-15-Park-We-Can-Still-Crack-You-General-Unpacking-Method-For-Android-Packer-No-Root.pdf) by Yeongung Park at BlackHat Asia 2015 (26th-27th March 2015)
+* **Fuzzing the Media Framework in Android**  [Slides](http://events.linuxfoundation.org/sites/events/files/slides/ABS2015.pdf) by Alexandru Blanda at Android Builders summit 2015 (23th-25th March 2015)
+* **Android OTA Updates**  [Slides](http://events.linuxfoundation.org/sites/events/files/slides/ABS-Android_SW_Updates-Boie-2015.pdf) by Andrew Boie at Android Builders summit 2015 (23th-25th March 2015)
+* **Lollipop MR1 Verified Boot**  [Slides](http://events.linuxfoundation.org/sites/events/files/slides/ABS%20Lollipop%20MR1%20Verified%20Boot.pdf) by Andrew Boie at Android Builders summit 2015 (23th-25th March 2015)
 
 ## Tools
 
