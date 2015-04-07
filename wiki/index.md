@@ -370,6 +370,7 @@ Muhammad Naveed, Yeonjoon Lee, Kan Yuan, XiaoFeng Wang and Carl A Gunter at NDSS
 * [Android Security Analysis Challenge: Tampering Dalvik Bytecode During Runtime](http://bluebox.com/labs/android-security-challenge/)
 * [Defcon 19 CTF - Binary 300](http://shell-storm.org/repo/CTF/Defcon-19-quals/Binary_L33tness/b300/)
 * [DRG Online Challenge September 2013](https://www.dragonresearchgroup.org/challenges/201309/)
+* [Insomni'hack CTF 2015](https://github.com/ctfs/write-ups-2015/tree/master/insomni-hack-ctf-2015/mobile)
 
 
 ## Miscellaneous
