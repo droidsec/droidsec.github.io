@@ -313,6 +313,17 @@ members:
     title: Android Hacker @ Attify
     bio: Co-Founder and Droid Ninja at Attify. Author of "Learning Pentesting for Android Devices" . Speaker & Trainer at BlackHat, OWASP AppSec, Toorcon, Syscan, Nullcon etc. Co-Creator of AppWatch - The Mobile Security Platform. Found vulnerabilities in Google, Facebook, Twitter, Paypal, Skype, Webkit, Apple etc. in the past.
 
+  uberlaggydarwin:
+    name: Brin Taylor
+    display_name: uberlaggydarwin
+    gravatar: e3929a249aa245d63ecdccf2cd975419
+    email: security[at]brinly[dot]me
+    twitter: uberlaggydarwin
+    github: uberlaggydarwin
+    web: http://brinly.me
+    title: Security Researcher
+    bio:  Independent security researcher from Australia..
+
   Zenofex:
     name: Amir Etemadieh
     display_name: Zenofex
@@ -324,13 +335,3 @@ members:
     title: Research Scientist
     bio: Research Scientist @ Accuvant Labs. Founder of Exploitee.rs . Speaker 3 x @ DEFCON, 1 x @ Infosec Southwest, and 2 x @ BSides Austin
 
-uberlaggydarwin:
-    name: Brin Taylor
-    display_name: uberlaggydarwin
-    gravatar: e3929a249aa245d63ecdccf2cd975419
-    email: security[at]brinly[dot]me
-    twitter: uberlaggydarwin
-    github: uberlaggydarwin
-    web: http://brinly.me
-    title: Security Researcher
-    bio:  Independent security researcher from Australia..
