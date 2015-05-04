@@ -72,9 +72,9 @@ For quick access, we have organized the types of information into the following 
 * **Guns and Smoke to Defeat Mobile Malware** [Slides](http://www.fortiguard.com/files/hashdays.pdf) by Axelle Apvrille at HashDays 2012 (November 2012)
 * **Mapping & Evolution of Android Permissions** [Slides](http://www.countermeasure2012.com/presentations/LANIER_REITER.pdf) by Zach Lanier & Andrew Reiter at CounterMeasure 2012
 * **Into The Droid - Gaining Access to Android User Data** [Slides](https://www.defcon.org/images/defcon-20/dc-20-presentations/Cannon/DEFCON-20-Cannon-Into-The-Droid.pdf) by Thomas Cannon at Defcon 20 2012
-* [Dissecting the Android Bouncer](https://jon.oberheide.org/files/summercon12-bouncer.pdf) by Jon Oberheide and Charlie Miller at SummerCon 2012
-* [Woodpecker - Systematic Detection of Capability Leaks in Stock Android Smartphones](http://www.csc.ncsu.edu/faculty/jiang/pubs/NDSS12_WOODPECKER.pdf) by Michael Grace, Yajin Zhou, Zhi Wang, Xuxian Jiang at NDSS 2012
-* [Android - Bytecode Obfuscation bringing x86 fuckups to dalvik](http://www.sec.t-labs.tu-berlin.de/spring/content/spring7_14_slides_schulz.pdf) by Patrick Schulz
+* **Dissecting the Android Bouncer** [Slides](https://jon.oberheide.org/files/summercon12-bouncer.pdf) by Jon Oberheide and Charlie Miller at SummerCon 2012
+* **Woodpecker - Systematic Detection of Capability Leaks in Stock Android Smartphones** [Slides](http://www.csc.ncsu.edu/faculty/jiang/pubs/NDSS12_WOODPECKER.pdf) by Michael Grace, Yajin Zhou, Zhi Wang, Xuxian Jiang at NDSS 2012
+* **Android - Bytecode Obfuscation bringing x86 fuckups to dalvik** [Slides](http://www.sec.t-labs.tu-berlin.de/spring/content/spring7_14_slides_schulz.pdf) by Patrick Schulz
 * [Android Application Reverse Engineering & Defenses](http://bluebox.com/wp-content/uploads/2013/05/AndroidREnDefenses201305.pdf) by Patrick Schulz & Felix Matenaar at SOURCE Dublin 2013
 * [Fast, Scalable Detection of “Piggybacked” Mobile Applications](http://www.csc.ncsu.edu/faculty/jiang/pubs/CODASPY13.pdf) by Wu Zhou, Yajin Zhou, Michael Grace, Xuxian Jiang & Shihong Zou at CODASPY 2013
 * [Playing Hide and Seek with Dalvik Executables](https://www.fortiguard.com/uploads/general/Hidex_Paper.pdf) by Axelle Apvrille at Hacktivity 2013
