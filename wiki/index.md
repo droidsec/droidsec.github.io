@@ -207,6 +207,11 @@ Muhammad Naveed, Yeonjoon Lee, Kan Yuan, XiaoFeng Wang and Carl A Gunter at NDSS
 * **Fuzzing the Media Framework in Android**  [Slides](http://events.linuxfoundation.org/sites/events/files/slides/ABS2015.pdf) by Alexandru Blanda at Android Builders summit 2015 (23th-25th March 2015)
 * **Android OTA Updates**  [Slides](http://events.linuxfoundation.org/sites/events/files/slides/ABS-Android_SW_Updates-Boie-2015.pdf) by Andrew Boie at Android Builders summit 2015 (23th-25th March 2015)
 * **Lollipop MR1 Verified Boot**  [Slides](http://events.linuxfoundation.org/sites/events/files/slides/ABS%20Lollipop%20MR1%20Verified%20Boot.pdf) by Andrew Boie at Android Builders summit 2015 (23th-25th March 2015)
+* **Android Security - Data from the Frontlines** [Slides](http://www.rsaconference.com/writable/presentations/file_upload/mbs-t07r-android-security-data-from-the-front-lines.pdf) by Adrian Ludwig at RSA Conference 2015 (20th-24th April 2015)
+* **How We Discovered Thousands of Vulnerable Android Apps in 1 Day** [Slides](http://www.rsaconference.com/writable/presentations/file_upload/hta-t08-how-we-discovered-thousands-of-vulnerable-android-apps-in-1-day_final.pdf) by Joji Montelibano & Will Dormann at RSA Conference 2015 (20th-24th April 2015)
+* **But... It’s an App/Play Store Download: Research Exposes Mobile App Flaws** [Slides](http://www.rsaconference.com/writable/presentations/file_upload/br-w01-but-it_s-an-app-play-store-download-research-exposes-mobile-app-flaws.pdf) by Andrew Hoog & Ryan Welton at RSA Conference 2015 (20th-24th April 2015)
+* **Live Mobile Hacking Demo and Dissection!** [Slides](http://www.rsaconference.com/writable/presentations/file_upload/mbs-w02-live-mobile-hacking-demo-and-dissection.pdf) by Lior Ben-Porat, Rotem Salinas & Jason Rader at RSA Conference 2015 (20th-24th April 2015)
+ 
 
 ## Tools
 
