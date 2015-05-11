@@ -334,3 +334,14 @@ members:
     web: http://brinly.me
     title: Security Researcher
     bio:  Independent security researcher from Australia..
+    
+  revskills:
+    name: Francisco Alonso
+    display_name: revskills
+    gravatar: 071bd2e4be2d1ff668db28d9c5852557
+    email: rs[at]revskills[dot]cz
+    twitter: revskills
+    github: revskills
+    web: http://revskills.cz
+    title: Security Engineer
+    bio: Security Engineer at Red Hat (Czech Republic) & Fedora Security Team. Hardware Hacking, Biker,PGP: 0xE2E64DCA
