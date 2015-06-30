@@ -254,7 +254,7 @@ Muhammad Naveed, Yeonjoon Lee, Kan Yuan, XiaoFeng Wang and Carl A Gunter at NDSS
 * [LDPreload] (https://github.com/poliva/ldpreloadhook)
 * [ManiTree] (https://github.com/antitree/manitree)
 * [Xposed] (https://github.com/rovo89/Xposed)
-* [Davlik-Obfuscator] (https://github.com/thuxnder/dalvik-obfuscator)
+* [Dalvik-Obfuscator] (https://github.com/thuxnder/dalvik-obfuscator)
 * [dex2jar](https://code.google.com/p/dex2jar/)
 * [JEB] (http://www.android-decompiler.com/)
 * [Introspy-Android] (https://github.com/iSECPartners/Introspy-Android)
