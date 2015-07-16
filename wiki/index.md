@@ -19,7 +19,7 @@ For quick access, we have organized the types of information into the following 
 
 ## Whitepapers
 
-* **Pulling a John Connor: Defeating Android** [Slides](www.openrce.org/repositories/users/camill8/shmoocon09.ppt) by Charlie Miller at ShmooCon 2009  (06th-08th February 2009)
+* **Pulling a John Connor: Defeating Android** [Slides](http://www.openrce.org/repositories/users/camill8/shmoocon09.ppt) by Charlie Miller at ShmooCon 2009  (06th-08th February 2009)
 * **A Look at a Modern Mobile Security Model: Google's Android** [Slides](https://jon.oberheide.org/files/cansecwest09-android.pdf) by Jon Oberheide at CanSecWest 2009  (16th-20th March 2009)
 * **Multiplatform Iphone/Android Shellcode, and other smart phone insecurities** [Slides](https://cansecwest.com/csw09/csw09-ortega-economou.pdf) by Alfredo Ortega & Nico Economou at CanSecWest 2009  (16th-20th March 2009)
 * **Android Forensics** [Slides](https://viaforensics.com/wpinstall/wp-content/uploads/2009/08/Android-Forensics-Andrew-Hoog-viaForensics.pdf) by Andrew Hoog at Mobile Forensics World 2009  (28th-29th May 2009)
