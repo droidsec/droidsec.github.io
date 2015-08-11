@@ -292,6 +292,13 @@ Muhammad Naveed, Yeonjoon Lee, Kan Yuan, XiaoFeng Wang and Carl A Gunter at NDSS
 * [Heimdall] (https://github.com/Benjamin-Dobell/Heimdall)
 * [hbootdbg] (https://github.com/sogeti-esec-lab/hbootdbg/)
 
+### Android Market Downloaders
+
+* [google-play-crawler (Java)](https://github.com/Akdeniz/google-play-crawler) - get app details and download from Google Play Store
+* [google-play-crawler (Python)](https://github.com/egirault/googleplay-api) - get app details and download from Google Play Store
+* [google-play APIs (Node)](https://github.com/dweinstein/node-google-play) - get app details and download from Google Play Store
+* [aptoide downloader (Node)](https://github.com/dweinstein/node-aptoide) - download apps from aptoide third-party Android market
+* [appland downloader (Node)](https://github.com/dweinstein/node-appland) - download apps from appland third party market
 
 
 ## Exploits
@@ -399,13 +406,6 @@ Muhammad Naveed, Yeonjoon Lee, Kan Yuan, XiaoFeng Wang and Carl A Gunter at NDSS
 * [Defcon 19 CTF - Binary 300](http://shell-storm.org/repo/CTF/Defcon-19-quals/Binary_L33tness/b300/)
 * [DRG Online Challenge September 2013](https://www.dragonresearchgroup.org/challenges/201309/)
 * [Insomni'hack CTF 2015](https://github.com/ctfs/write-ups-2015/tree/master/insomni-hack-ctf-2015/mobile)
-
-## Android Market Downloaders
-* [google-play-crawler (Java)](https://github.com/Akdeniz/google-play-crawler) - get app details and download from Google Play Store
-* [google-play-crawler (Python)](https://github.com/egirault/googleplay-api) - get app details and download from Google Play Store
-* [google-play APIs (Node)](https://github.com/dweinstein/node-google-play) - get app details and download from Google Play Store
-* [aptoide downloader (Node)](https://github.com/dweinstein/node-aptoide) - download apps from aptoide third-party Android market
-* [appland downloader (Node)](https://github.com/dweinstein/node-appland) - download apps from appland third party market
 
 ## Miscellaneous
 
