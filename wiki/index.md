@@ -233,6 +233,7 @@ Muhammad Naveed, Yeonjoon Lee, Kan Yuan, XiaoFeng Wang and Carl A Gunter at NDSS
 * **Fuzzing Objects d’ART: Digging Into the New Android L Runtime Internals** [WP](http://conference.hitb.org/hitbsecconf2015ams/wp-content/uploads/2014/12/WHITEPAPER-Fuzzing-Objects-d%E2%80%99ART.pdf) [Slides](http://conference.hitb.org/hitbsecconf2015ams/wp-content/uploads/2014/12/D1T2-Anestis-Bechtsoudis-Fuzzing-Objects-d%E2%80%99-ART.pdf) by Anestis Bechtsoudis at HiTB Amsterdam 2015 (28th-29th June 2015)
 * **Eight Ou Two Mobile** [WP](http://conference.hitb.org/hitbsecconf2015ams/wp-content/uploads/2014/12/WHITEPAPER-Eight-ou-Two-Mobile.pdf) [Slides](http://conference.hitb.org/hitbsecconf2015ams/wp-content/uploads/2014/12/D2T1-Matias-Eissler-Eight-Ou-Two-Mobile.pdf) by Matias Eissler at HiTB Amsterdam 2015 (28th-29th June 2015)
 * **Opcodes in Google Play: Tracing Malicious Applications**  [Slides](http://conference.hitb.org/hitbsecconf2015ams/wp-content/uploads/2014/12/D2T2-Alfonso-Munoz-and-Sergio-de-los-Santos-Opcodes-in-Google-Play.pdf) by Dr. Alfonso Muñoz & Sergio de los Santos at HiTB Amsterdam 2015 (28th-29th June 2015)
+* **Is my app Secure**  [Slides](http://www.slideshare.net/clviper/is-my-app-secure-51493019) by Cláudio André & Herman Duarte at Bsides Lisbon 2015 (3rd July 2015)
 
  
 
