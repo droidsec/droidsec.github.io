@@ -356,3 +356,14 @@ members:
     web: http://oguzhantopgul.com
     title: Security Researcher
     bio: Mobile Security Researcher
+
+   dmc:
+    name: Dominic Chell
+    display_name: dmc
+    gravatar: 13c0a52d5dad4051f19f92acc96632d8 
+    email: dominic[at]mdsec[dot]co[dot]uk
+    twitter: domchell
+    github: dmchell
+    web: http://www.mobileapphacker.com
+    title: Security Researcher
+    bio: Does computering for @MDSecLabs, lead author for the Mobile App Hacker's Handbook 
