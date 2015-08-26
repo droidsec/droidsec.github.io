@@ -258,7 +258,9 @@ Muhammad Naveed, Yeonjoon Lee, Kan Yuan, XiaoFeng Wang and Carl A Gunter at NDSS
 * **LinkDroid: Reducing Unregulated Aggregation of App Usage Behaviors** [WP](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-feng.pdf) by Huan Feng, Kassem Fawaz, & Kang G. Shin at 24th USENIX Security Symposium (12th-14th August 2015)
 * **PowerSpy: Location Tracking Using Mobile Device Power Analysis** [WP](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-michalevsky.pdf) by Yan Michalevsky, Aaron Schulman, Gunaa Arumugam Veerapandian, Dan Boneh, & Gabi Nakibly at 24th USENIX Security Symposium (12th-14th August 2015)
 * **Towards Discovering and Understanding Task Hijacking in Android** [WP](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-ren-chuangang.pdf) by Chuangang Ren, Yulong Zhang, Hui Xue, Tao Wei &Peng Liu at 24th USENIX Security Symposium (12th-14th August 2015)
-
+* **SELinux in Android Lollipop and Android M** [Slides](http://kernsec.org/files/lss2015/lss2015_selinuxinandroidlollipopandm_smalley.pdf) by Stephen Smalley at LSS2015 (25th August 2015)
+* **ioctl command whitelisting in SELinux** [Slides](http://kernsec.org/files/lss2015/vanderstoep.pdf) by Jeff Vander Stoep at LSS2015 (25th August 2015)
+* **IMA/EVM on Android Device** [Slides](http://kernsec.org/files/lss2015/LSS2015_IMA_EVM_On_Android.pdf) by Dmitry Kasatkin at LSS2015 (25th August 2015)
 
 
 ## Tools
