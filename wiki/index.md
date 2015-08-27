@@ -294,6 +294,7 @@ Muhammad Naveed, Yeonjoon Lee, Kan Yuan, XiaoFeng Wang and Carl A Gunter at NDSS
 * [Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler)
 * [PyADB] (https://github.com/cybojenix/PyAdb)
 * [RootAdb] (https://github.com/poliva/rootadb)
+* [SEPolicy-inject] (https://bitbucket.org/joshua_brindle/sepolicy-inject) - Tool to inject SELinux rules into binary kernel policies
 * [Smali] (https://github.com/JesusFreke/smali)
 * [Tapas] (https://github.com/Ucombinator/Tapas)
 * [TcpDumpHelper] (https://gist.github.com/dweinstein/8191709)
