@@ -368,7 +368,18 @@ members:
     title: Security Researcher
     bio: Does computering for @MDSecLabs, lead author for the Mobile App Hacker's Handbook 
     
-    linkdead13:
+  virqdroid:
+    name: Nikolaos Chrysaidos
+    display_name: virqdroid
+    gravatar: ef3c0249ddfae3b9912dc96dba43c3c8 
+    email: 
+    twitter: virqdroid
+    github: virqdroid
+    web: virqdroid.com
+    title: Security Researcher
+    bio: Mobile Malware & Security Analyst at Avast Virus Lab. Personal motto is "Whatever goes around, unlocks around"
+
+  linkdead13:
     name: Colby marquis
     display_name: linkdead13
     twitter: Venomouslord
