@@ -334,7 +334,7 @@ members:
     web: http://brinly.me
     title: Security Researcher
     bio:  Independent security researcher from Australia.. Likes reversing bootloaders. Does CyanogenMod dev in spare time.
-    
+
   revskills:
     name: Francisco Alonso
     display_name: revskills
@@ -360,19 +360,19 @@ members:
   dmc:
     name: Dominic Chell
     display_name: dmc
-    gravatar: 13c0a52d5dad4051f19f92acc96632d8 
+    gravatar: 13c0a52d5dad4051f19f92acc96632d8
     email: dominic[at]mdsec[dot]co[dot]uk
     twitter: domchell
     github: dmchell
     web: http://www.mobileapphacker.com
     title: Security Researcher
-    bio: Does computering for @MDSecLabs, lead author for the Mobile App Hacker's Handbook 
-    
+    bio: Does computering for @MDSecLabs, lead author for the Mobile App Hacker's Handbook
+
   virqdroid:
     name: Nikolaos Chrysaidos
     display_name: virqdroid
-    gravatar: ef3c0249ddfae3b9912dc96dba43c3c8 
-    email: 
+    gravatar: ef3c0249ddfae3b9912dc96dba43c3c8
+    email:
     twitter: virqdroid
     github: virqdroid
     web: http://www.virqdroid.com
@@ -386,3 +386,14 @@ members:
     github: camarquis
     title: Security Researcher / Student
     bio: Horrible @ Self Writing
+
+  haykuro:
+    name: Steve Birstok
+    display_name: haykuro
+    gravatar: ccf3b16f23720b67467df21093751adf
+    email: haykuro[at]gmail[dot]com
+    web: http://stevebirstok.com/
+    twitter: haykuro
+    github: haykuro
+    title: Security Researcher, Software Engineer
+    bio: Good at computers. "He can unjam the printer really fast."
