@@ -386,3 +386,14 @@ members:
     github: camarquis
     title: Security Researcher / Student
     bio: Horrible @ Self Writing
+
+  haykuro:
+    name: Steve Birstok
+    display_name: haykuro
+    gravatar: ccf3b16f23720b67467df21093751adf
+    email: haykuro[at]gmail[dot]com
+    web: http://stevebirstok.com/
+    twitter: haykuro
+    github: haykuro
+    title: Security Researcher, Software Engineer
+    bio: Good at computers. "He can unjam the printer really fast."
