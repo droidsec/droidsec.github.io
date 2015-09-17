@@ -51,13 +51,13 @@ members:
     title: Unicorn Consultant
     bio: Pau Oliva is a Mobile Security Engineer with NowSecure. He has 10 years of experience working as R+D Engineer in a Wireless Service Provider. His passion for smartphones started back in 2004 when he had his first PocketPC phone with the Windows Mobile operating system and started reverse engineering and hacking HTC devices. He has been actively researching security aspects on the Android operating system since its debut with the T-Mobile G1 on October 2008. Pau has spoken at a variety of security conferences, including DefCon and RSA in USA and LaCon and NoConName in Spain, and is co-author of the upcoming Wiley's Android Hacker's Handbook.
 
-  Gunther:
+  jacobsoo:
     name: Jacob Soo
-    display_name: Gunther
+    display_name: jacobsoo
     gravatar:
-    email: deviant[dot]beta[at]gmail[dot]com
-    web: http://xchg.info/
-    twitter: Gunther_AR
+    email: jacob[dot]soo[at]gmail[dot]com
+    web: http://vxsecurity.sg/ & http://xchg.info/
+    twitter: _jsoo_
     github: jacobsoo
     title: Couch Potato
     bio:
