@@ -36,7 +36,7 @@ Galaxy Nexus (LTE) [MRA58RR from JDQ39](https://www.youtube.com/watch?v=dQw4w9Wg
 The following devices will not be updated to 6.0.0 and instead received only a 5.1.1 update this cycle.
 
 Nexus 10 [LMY48T from LMY48M](https://android.googleapis.com/packages/ota/google_mantaray/809acf47d26afc99279e5295bbb8baac2bc7a140.signed-mantaray-LMY48T-from-LMY48M.zip)<br />
-Nexus 4 LMY48T from LMY48M<br />
+Nexus 4 [LMY48T from LMY48M](https://android.googleapis.com/packages/ota/google_mako/1859590902ebe51fb4c49c86009b2d0ac2c8b445.signed-occam-LMY48T-from-LMY48M.zip)<br />
 
 Devices older than, and including, the 2012 Nexus 7 are no longer supported. Please, for the sake of Internet security, upgrade to a newer device!
 
