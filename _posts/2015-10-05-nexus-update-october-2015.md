@@ -41,3 +41,5 @@ Nexus 4 [LMY48T from LMY48M](https://android.googleapis.com/packages/ota/google_
 Devices older than, and including, the 2012 Nexus 7 are no longer supported. Please, for the sake of Internet security, upgrade to a newer device!
 
 Best of luck to you and cheers to a continued focus on providing regular, timely security updates!
+
+Thanks to Android Police for their corresponding ["Flash All The Things" post](http://www.androidpolice.com/2015/10/06/flash-all-the-things-android-6-0-marshmallow-nexus-ota-roundup/).
