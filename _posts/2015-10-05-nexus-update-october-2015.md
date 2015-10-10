@@ -27,7 +27,7 @@ Nexus 9 (Wi-Fi) [MRA58K from LMY48T](https://android.googleapis.com/packages/ota
 
 Nexus 7 2013 (Wi-Fi) [LMY48T from LMY48M](https://android.googleapis.com/packages/ota/google_razor/2b4aa3ddb3b13c5d7f60f002b5fa350c654ca548.signed-razor-LMY48T-from-LMY48M.zip)<br />
 Nexus 7 2013 (Wi-Fi) [MRA58K from LMY48M](https://android.googleapis.com/packages/ota/google_razor/a70592f3ba3a646df309b2e026f22bfb016225be.signed-razor-MRA58K-from-LMY48M.zip)<br />
-Nexus 7 2013 (Mobile) [LMY48U from LMY48P](https://android.googleapis.com/packages/ota/google_razorg/a5403c214fd3ca44b15123d18ae5fb6800e126ce.signed-razorg-LMY48U-from-LMY48P.zip)
+Nexus 7 2013 (Mobile) [LMY48U from LMY48P](https://android.googleapis.com/packages/ota/google_razorg/a5403c214fd3ca44b15123d18ae5fb6800e126ce.signed-razorg-LMY48U-from-LMY48P.zip)<br />
 Nexus 7 2013 (Mobile) [MRA58K from LMY48P](https://android.googleapis.com/packages/ota/google_razorg/1ddb72f55a271f0f27cfe0768fc2965c0f508dc4.signed-razorg-MRA58K-from-LMY48P.zip) (credit: Android Police / vmlinuz)<br />
 
 The following devices did not receive a 5.1.1 update this time around. Instead they are moving directly to 6.0.0.
