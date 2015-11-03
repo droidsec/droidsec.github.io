@@ -39,7 +39,6 @@ The following devices did not receive a 5.1.1 update this time around. Instead t
 
 Nexus Player [MRA58K from LMY48N](https://android.googleapis.com/packages/ota/google_fugu_fugu/ace8803d575c35204e9cd36c4eea2a45bc8c620b.signed-fugu-MRA58K-from-LMY48N.zip)<br />
 Nexus 5 (GSM/LTE) [MRA58K from LMY48M](https://android.googleapis.com/packages/ota/google_hammerhead/8f8cc12f7a9d7561be21f95914f289bda86e402b.signed-hammerhead-MRA58K-from-LMY48M.zip)<br />
-Galaxy Nexus (LTE) [MRA58RR from JDQ39](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (credit Android Police)<br />
 
 The following devices will not be updated to 6.0.0 and instead received only a 5.1.1 update this cycle.
 
