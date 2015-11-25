@@ -397,3 +397,12 @@ members:
     github: haykuro
     title: Security Researcher, Software Engineer
     bio: Good at computers. "He can unjam the printer really fast."
+
+  ctrlaltdylan:
+    name: Dylan Pierce
+    display_name: ctrlaltdylan
+    email: me[at]dylanjpierce[dot]com
+    twitter: ctrlaltdylan
+    github: ctrlaltdylan
+    title: Developer / Breaker and Fixer of things
+    bio: The nerd life chose me.
