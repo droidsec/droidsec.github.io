@@ -18,21 +18,26 @@ Nexus 6P [MMB29M from MDB08M](https://android.googleapis.com/packages/ota/google
 Nexus 5X [MMB29K from MDB08L](https://android.googleapis.com/packages/ota/google_bullhead_bullhead/f67821b18f5a3bc6552039f0997fc9511f05c2c3.signed-bullhead-MMB29K-from-MDB08L.zip)<br />
 Nexus 5X [MMB29K from MDB08M](https://android.googleapis.com/packages/ota/google_bullhead_bullhead/37e604652aece605908ecfbf62fbe86de37cba67.signed-bullhead-MMB29K-from-MDB08M.zip)<br />
 
-Nexus 6 MMB29K from MRA48N<br />
+Nexus 6 MMB29K from MRA58N<br />
+Nexus 6 MMB29K from MRA58R<br />
 Nexus 6 MRA58X from MRA58N<br />
+Nexus 6 MRA58X from MRA58R<br />
 
 Nexus Player [MMB29M from MRA58N](https://android.googleapis.com/packages/ota/google_fugu_fugu/97ba3f395e8f0355d3cc49187d025d085433d734.signed-fugu-MMB29M-from-MRA58N.zip)<br />
 
 Nexus 9 (LTE) [MMB29K from MRA58N](https://android.googleapis.com/packages/ota/google_flounderlte_volantisg/1ab75760457cd9def4c8b117baeccbc6867d1c0d.signed-volantisg-MMB29K-from-MRA58N.zip)<br />
 Nexus 9 (Wi-Fi) [MMB29K from MRA58N](https://android.googleapis.com/packages/ota/google_flounder_volantis/03d89e7a8422ffc6b1b2c68adbd9d2b383e2f416.signed-volantis-MMB29K-from-MRA58N.zip)<br />
 
-Nexus 5 (GSM/LTE) MMB29K from MRA58N<br />
+Nexus 5 (GSM/LTE) [MMB29K from MRA58N](https://android.googleapis.com/packages/ota/google_hammerhead/78757019dc99b65206120a1e878e224ef4f44958.signed-hammerhead-MMB29K-from-MRA58N_full_radio.zip)<br />
 
-Nexus 7 2013 (Wi-Fi) MMB29K from MRA58V<br />
+Nexus 7 2013 (Wi-Fi) [MMB29K from MRA58V](https://android.googleapis.com/packages/ota/google_razor/3b98ed54a695a70b5dcfb4d0d79123435630a223.signed-razor-MMB29K-from-MRA58V.zip)<br />
+Nexus 7 2013 (Wi-Fi) MMB29K from MRA58N<br />
 Nexus 7 2013 (Mobile) [MMB29K from MRA58V](https://android.googleapis.com/packages/ota/google_razorg/351ce5dd8b2ec5d3a75b1b381947c2a0319ba799.signed-razorg-MMB29K-from-MRA58V.zip)<br />
+Nexus 7 2013 (Mobile) [MMB29K from MRA58N](https://android.googleapis.com/packages/ota/google_razorg/81f6e28f8546151e5d81acf7d103df1f803fb9e0.signed-razorg-MMB29K-from-MRA58N.zip)<br />
 
 Some additional updates were provided for devices with Marshmallow support that are still running Lollipop. This wraps up some loose ends from the OTA updates released last month.
 
+Nexus 9 (LTE) MMB29K from LMY48X<br />
 Nexus 7 2013 (Mobile) [MMB29K from LMY48X](https://android.googleapis.com/packages/ota/google_razorg/0a9634a61c993217d0af675857f3b9fc2cdcb36f.signed-razorg-MMB29K-from-LMY48X.zip)<br />
 
 The following devices will not be updated to 6.0.x and instead received only a 5.1.1 update this cycle.
