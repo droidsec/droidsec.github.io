@@ -2,7 +2,7 @@ name: droidsec.org
 highlighter: pygments
 markdown: redcarpet
 redcarpet:
-  extensions: ["no_intra_emphasis", "with_toc_data"]
+  extensions: ["no_intra_emphasis", "with_toc_data", "strikethrough"]
 
 #
 # atom / rss info
