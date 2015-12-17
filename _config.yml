@@ -3,6 +3,8 @@ highlighter: pygments
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "with_toc_data", "strikethrough"]
+gems:
+  - jekyll-redirect-from
 
 #
 # atom / rss info

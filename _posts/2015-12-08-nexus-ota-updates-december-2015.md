@@ -4,6 +4,8 @@ title:  "December 2015 Android OTA Update Links"
 date:   2015-12-13 23:00:00
 author: jduck
 categories: news
+redirect_from:
+ - /news/2015/12/08/nexus-ota-updates-december-2015.html
 ---
 
 This month brings both the release of Android 6.0.1 and another round of security patches for Nexus devices. The [December 2015 Nexus Security Bulletin](https://source.android.com/security/bulletin/2015-12-01.html) details the issues fixed but has yet to be updated to include links to specific changes that fix each bug. I've updated our [AOSP Changes](http://changes.droidsec.org/) site to show ~~*almost* (android-6.0.0_r6 seems not pushed yet)~~ all of the new changes in glorious hyper-linked diff format. Several of the disclosed issues are marked as **critical** security fixes. It's important that these fixes reach users *as quickly as possible*. In the spirit of helping that happen, we continue to deliver on our pledge to help get these updates to security conscious individuals faster. Without further ado, I present the OTA links you all know and love.
