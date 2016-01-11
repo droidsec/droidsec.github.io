@@ -8,7 +8,7 @@ layout: null
     <title>{{ site.title }}</title>
     <link>{{ site.production_url }}</link>
     <description>Android security research</description>
-    {% for post in site.categories.nexus6 limit:20 %}
+    {% for post in site.categories.nexus6-ota limit:20 %}
       <item>
         <title>{{ post.title }}</title>
         <link>{{ site.production_url }}{{ post.url }}</link>

@@ -3,7 +3,6 @@ layout: post
 title:  "October 2015 OTA Links - Nexus 6"
 date:   2015-10-06 02:00:00
 author: jduck
-categories: nexus6
 ---
 Nexus 6 (Global) [LMY48T from LMY48M](https://android.googleapis.com/packages/ota/google_shamu_shamu/60981380fa0bffffca66a8cf9787766397fd39fa.signed-shamu-LMY48T-from-LMY48M.zip)<br />
 Nexus 6 (Global) [MRA58K from LMY48T](https://android.googleapis.com/packages/ota/google_shamu_shamu/6035ff8ac2acfe9017a7dc2e7ae4bbc926bddfb4.signed-shamu-MRA58K-from-LMY48T.zip)<br />
