@@ -1,19 +1,19 @@
 ---
 layout: default
-title: News
+title: OTA Links - Nexus 6
 ---
 
-<link rel="alternate" type="application/rss+xml" title="RSS feed" href="/rss.xml">
-<link rel="alternate" type="application/atom+xml" title="Atom feed" href="/atom.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS feed" href="/nexus6/rss.xml">
+<link rel="alternate" type="application/atom+xml" title="Atom feed" href="/nexus6/atom.xml">
 
   <div class=feeds>
-  <img class=feed width="28px" height="28px" src=/img/feed.png /> Subscribe in <a href=/atom.xml>atom</a> or <a href=/rss.xml>rss</a>
+  <img class=feed width="28px" height="28px" src=/img/feed.png /> Subscribe in <a href=/nexus6/atom.xml>atom</a> or <a href=/nexus6/rss.xml>rss</a>
   </div>
 
   <h1>{{ page.title }}</h1>
 
   <ul class="posts">
-    {% for post in site.categories.news %}
+    {% for post in site.categories.nexus6 %}
     <li>
       <a class=post_title href="{{ post.url }}">{{ post.title }}</a><br />
       <span class=post_meta><span class=post_date>{{ post.date | date_to_string }}</span> by <span class=post_author>{{ post.author }}</span></span><br />

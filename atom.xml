@@ -15,7 +15,7 @@ layout: null
    <email></email>
  </author>
 
- {% for post in site.categories.blog.posts %}
+ {% for post in site.categories.news %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="{{ site.production_url }}{{ post.url }}"/>
