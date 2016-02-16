@@ -403,6 +403,7 @@ members:
   Avicoder:
     name: avicoder
     display_name: avicoder
+    gravator: df2d3487c22d255db5afed999ee10618
     web: https://avicoder.me/
     twitter: avicoder
     github: avicoder
