@@ -399,3 +399,14 @@ members:
     github: haykuro
     title: Security Researcher, Software Engineer
     bio: Good at computers. "He can unjam the printer really fast."
+
+  Avicoder:
+    name: avicoder
+    display_name: avicoder
+    gravator: df2d3487c22d255db5afed999ee10618
+    web: https://avicoder.me/
+    twitter: avicoder
+    github: avicoder
+    title: Python Programmer
+    bio: "I do nothing (hack)"
+
