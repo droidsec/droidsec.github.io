@@ -278,45 +278,45 @@ Muhammad Naveed, Yeonjoon Lee, Kan Yuan, XiaoFeng Wang and Carl A Gunter at NDSS
 ## Tools
 
 * [010Editor](http://www.sweetscape.com/download/download_010editor.html) in conjunction with the following templates;
- * [DEXTemplate](https://github.com/strazzere/010Editor-stuff/blob/master/Templates/DEXTemplate.bt)
- * [ELFTemplate](https://github.com/strazzere/010Editor-stuff/blob/master/Templates/ELFTemplate.bt)
- * [zImageTemplate](https://github.com/strazzere/010Editor-stuff/blob/master/Templates/AndroidzImageTemplate.bt)
-* [ADBI] (https://github.com/crmulliner/adbi)
-* [AndBug] (https://github.com/swdunlop/AndBug)
+   * [DEXTemplate](https://github.com/strazzere/010Editor-stuff/blob/master/Templates/DEXTemplate.bt)
+   * [ELFTemplate](https://github.com/strazzere/010Editor-stuff/blob/master/Templates/ELFTemplate.bt)
+   * [zImageTemplate](https://github.com/strazzere/010Editor-stuff/blob/master/Templates/AndroidzImageTemplate.bt)
+* [ADBI](https://github.com/crmulliner/adbi)
+* [AndBug](https://github.com/swdunlop/AndBug)
 * [Androguard](/tools/androguard)
-* [Android Pattern Lock Cracker] (https://github.com/sch3m4/androidpatternlock)
+* [Android Pattern Lock Cracker](https://github.com/sch3m4/androidpatternlock)
 * [AndroidBackupExtractor](https://github.com/nelenkov/android-backup-extractor)
-* [AndroidBootImgTool] (https://github.com/trevd/android_external_bootimage_utils)
-* [Androwarn] (https://github.com/maaaaz/androwarn)
-* [ApkTool] (https://code.google.com/p/android-apktool/)
+* [AndroidBootImgTool](https://github.com/trevd/android_external_bootimage_utils)
+* [Androwarn](https://github.com/maaaaz/androwarn)
+* [ApkTool](https://code.google.com/p/android-apktool/)
 * [BytecodeViewer](https://github.com/Konloch/bytecode-viewer)
-* [dalvik-js] (https://github.com/jjfiv/dalvik-js)
-* [Dalvik-Obfuscator] (https://github.com/thuxnder/dalvik-obfuscator)
+* [dalvik-js](https://github.com/jjfiv/dalvik-js)
+* [Dalvik-Obfuscator](https://github.com/thuxnder/dalvik-obfuscator)
 * [dex2jar](https://code.google.com/p/dex2jar/)
-* [DexInfo] (https://github.com/poliva/dexinfo)
+* [DexInfo](https://github.com/poliva/dexinfo)
 * [DexInspector](http://zairon.wordpress.com/2012/12/04/dex-inspector-online/)
-* [DexTools] (https://github.com/cryptax/dextools)
-* [Droid InjectSO] (https://github.com/windflyer/droid_injectso)
+* [DexTools](https://github.com/cryptax/dextools)
+* [Droid InjectSO](https://github.com/windflyer/droid_injectso)
 * [Drozer](https://github.com/mwrlabs/drozer)
-* [Introspy-Android] (https://github.com/iSECPartners/Introspy-Android)
-* [JEB] (http://www.android-decompiler.com/)
-* [LDPreload] (https://github.com/poliva/ldpreloadhook)
-* [ManiTree] (https://github.com/antitree/manitree)
-* [Playdrone : Automated App analysis] (https://github.com/nviennot/playdrone)
+* [Introspy-Android](https://github.com/iSECPartners/Introspy-Android)
+* [JEB](http://www.android-decompiler.com/)
+* [LDPreload](https://github.com/poliva/ldpreloadhook)
+* [ManiTree](https://github.com/antitree/manitree)
+* [Playdrone : Automated App analysis](https://github.com/nviennot/playdrone)
 * [Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler)
-* [PyADB] (https://github.com/cybojenix/PyAdb)
-* [RootAdb] (https://github.com/poliva/rootadb)
-* [SEPolicy-inject] (https://bitbucket.org/joshua_brindle/sepolicy-inject) - Tool to inject SELinux rules into binary kernel policies
-* [Smali] (https://github.com/JesusFreke/smali)
-* [Tapas] (https://github.com/Ucombinator/Tapas)
-* [TcpDumpHelper] (https://gist.github.com/dweinstein/8191709)
-* [Volatility] (http://code.google.com/p/volatility/wiki/AndroidMemoryForensics)
-* [VTS] (http://www.virtuous-ten-studio.com/)
-* [Xposed] (https://github.com/rovo89/Xposed)
+* [PyADB](https://github.com/cybojenix/PyAdb)
+* [RootAdb](https://github.com/poliva/rootadb)
+* [SEPolicy-inject](https://bitbucket.org/joshua_brindle/sepolicy-inject) - Tool to inject SELinux rules into binary kernel policies
+* [Smali](https://github.com/JesusFreke/smali)
+* [Tapas](https://github.com/Ucombinator/Tapas)
+* [TcpDumpHelper](https://gist.github.com/dweinstein/8191709)
+* [Volatility](http://code.google.com/p/volatility/wiki/AndroidMemoryForensics)
+* [VTS](http://www.virtuous-ten-studio.com/)
+* [Xposed](https://github.com/rovo89/Xposed)
 
 ### Debugging
 
-* [AndroidGDB] (https://github.com/darchons/android-gdb)
+* [AndroidGDB](https://github.com/darchons/android-gdb)
 
 ### Virtual Machines (vms)
 
@@ -324,13 +324,13 @@ Muhammad Naveed, Yeonjoon Lee, Kan Yuan, XiaoFeng Wang and Carl A Gunter at NDSS
 
 ### Application Level Stuff
 
-* [Androrat] (https://github.com/DesignativeDave/androrat)
-* [AntiLvl] (http://androidcracking.blogspot.com/p/antilvl_01.html)
+* [Androrat](https://github.com/DesignativeDave/androrat)
+* [AntiLvl](http://androidcracking.blogspot.com/p/antilvl_01.html)
 
 ### Bootloader/Radio Tools
 
-* [hbootdbg] (https://github.com/sogeti-esec-lab/hbootdbg/)
-* [Heimdall] (https://github.com/Benjamin-Dobell/Heimdall)
+* [hbootdbg](https://github.com/sogeti-esec-lab/hbootdbg/)
+* [Heimdall](https://github.com/Benjamin-Dobell/Heimdall)
 
 ### Android Market Downloaders
 
@@ -458,8 +458,8 @@ Muhammad Naveed, Yeonjoon Lee, Kan Yuan, XiaoFeng Wang and Carl A Gunter at NDSS
 
 ## Miscellaneous
 
-* [https://github.com/dweinstein/android_notes/wiki] (https://github.com/dweinstein/android_notes/wiki)
-* [https://github.com/trevd/android] (https://github.com/trevd/android)
+* [https://github.com/dweinstein/android_notes/wiki](https://github.com/dweinstein/android_notes/wiki)
+* [https://github.com/trevd/android](https://github.com/trevd/android)
 
 
 ## Books
