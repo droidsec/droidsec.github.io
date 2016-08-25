@@ -50,6 +50,59 @@ display: block;
 margin-left: 10px;
 }
 
+/*
+ * Nexus Images/OTA page
+ */
+.nexus table {
+border-collapse: collapse;
+width: 100%;
+}
+
+.nexus th {
+background-color: #757575;
+color: #fff;
+padding: 4px 4px 4px 4px;
+font-weight: normal;
+border-top: 0px;
+}
+
+.nexus tr {
+vertical-align: top;
+border-top: 1px dashed #e0e0e0;
+}
+
+.nexus tr.hdr {
+border-top: 0px none;
+}
+
+.nexus tr.first {
+vertical-align: top;
+border-top: 1px solid #757575;
+}
+
+.nexus td {
+white-space: nowrap;
+min-width: 80px;
+max-width: 350px;
+overflow: hidden;
+text-overflow: ellipsis;
+padding: 1px 4px 2px 4px;
+}
+
+.nexus div.current {
+display: inline;
+font-weight: bold;
+color: green;
+}
+
+.nexus div.warning {
+font-size: 1.5em;
+padding: 10px 20px 10px 20px;
+background: red;
+color: white;
+}
+
+
 /*****************************************************************************/
 /*
 /* Home
