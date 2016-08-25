@@ -30,7 +30,7 @@ members:
     twitter: jduck
     github: jduck
     title: Group Founder
-    bio: Joshua J. Drake is the Sr. Director of Platform Research and Exploitation at Zimperium and Lead Author of the Android Hacker's Handbook. Joshua focuses on original research such as reverse engineering and the analysis, discovery, and exploitation of security vulnerabilities. He has over 10 years of experience in the field and regularly speaks at top industry conferences. Joshua was previously a Director of Research Science at Accuvant, where he headed up a team of elite vulnerability researchers. Prior to Accuvant, Joshua also worked with Rapid7’s Metasploit and VeriSign’s iDefense Labs. Additional notable accomplishments include exploiting Oracle’s JVM for a win at Pwn2Own 2013, successfully compromising the Android browser via NFC with Georg Wicherski at BlackHat USA 2012, and winning the DefCon 18 CTF with the ACME Pharm team in 2010.
+    bio: Joshua J. Drake is the VP of Platform Research and Exploitation at Zimperium and Lead Author of the Android Hacker's Handbook. Joshua focuses on original research such as reverse engineering and the analysis, discovery, and exploitation of security vulnerabilities. He has over 10 years of experience in the field and regularly speaks at top industry conferences. Joshua was previously a Director of Research Science at Accuvant, where he headed up a team of elite vulnerability researchers. Prior to Accuvant, Joshua also worked with Rapid7’s Metasploit and VeriSign’s iDefense Labs. Additional notable accomplishments include exploiting Oracle’s JVM for a win at Pwn2Own 2013, successfully compromising the Android browser via NFC with Georg Wicherski at BlackHat USA 2012, and winning the DefCon 18 CTF with the ACME Pharm team in 2010. Stagefright?
 
   quine:
     name: Zach Lanier
@@ -41,7 +41,7 @@ members:
     twitter: quine
     github: quine
     title: Sr. Research Scientist
-    bio: Zach Lanier is a Senior Research Scientist with Optiv's Applied Research group, specializing in various bits of network, application, mobile, and embedded security. Prior to joining Accuvant, Zach most recently served as a Senior Security Researcher with Duo Security. He has spoken at a variety of security conferences, such as Black Hat, SummerCon, DEFCON, CanSecWest, INFILTRATE, ShmooCon, and SecTor, and is a co-author of the "Android Hackers' Handbook".
+    bio: Zach Lanier is a Director of Research with Cylance, specializing in various bits of network, application, mobile, and embedded security. Prior to joining Cylance, Zach most recently served as a Senior Research Scientist with Accuvant Labs, and prior to that as a Senior Security Researcher with Duo Security. He has spoken at a variety of security conferences, such as Black Hat, DEF CON, CanSecWest, INFILTRATE, Countermeasure, and SummercCon, and is a co-author of the "Android Hackers' Handbook" (Wiley, 2014).
 
   pof:
     name: Pau Oliva Fora
@@ -59,7 +59,7 @@ members:
     display_name: jacobsoo
     gravatar:
     email: jacob[dot]soo[at]gmail[dot]com
-    web: http://vxsecurity.sg/ & http://xchg.info/
+    web: http://vxsecurity.sg/
     twitter: _jsoo_
     github: jacobsoo
     title: Couch Potato
@@ -120,6 +120,27 @@ members:
     title: Security Researcher
     bio: Tim Strazzere is a Lead Research and Response Engineer at Lookout Mobile Security. Along with writing security software, he specializes in reverse engineering and malware analysis. Some interesting past projects include having reversing the Android Market protocol, Dalvik decompilers and memory manipulation on mobile devices. Past speaking engagements have included DEFCON, BlackHat, SyScan, HiTCON and EICAR.
 
+  marcograss:
+    name: Marco Grassi
+    display_name: marcograss
+    gravatar: a98925181b2256d38addf9c3f5bf4dea
+    email: marco.gra[at]gmail[dot]com
+    web:
+    twitter: marcograss
+    github: marco-gra
+    title: Security Researcher
+    bio: Senior Security Researcher at KEEN Lab (previously known as KEEN Team).
+
+  utkanos:
+    name: Drew Suarez
+    display_name: utkanos
+    gravatar: e9610997926c08a1f9ba5a7a4e0a86c7
+    email: utkanos[at]gmail[dot]org
+    twitter: utkan0s
+    github: utkanos
+    title: Security Consultant/Researcher
+    bio: Breaking things at Matasano, contributor to cyanogenmod, photographer, and craft beer snob.
+
   anwarelmakrahy:
     name: Anwar Mohamed
     display_name: anwarelmakrahy
@@ -163,17 +184,6 @@ members:
     github: imcom
     title: Developer
     bio: Yu Jin is a web developer at a network security company. He is interested in network security and Android security. Specifically he is keen on cryptography, protocols and Android security.
-
-  marcograss:
-    name: Marco Grassi
-    display_name: marcograss
-    gravatar: a98925181b2256d38addf9c3f5bf4dea
-    email: marco.gra[at]gmail[dot]com
-    web:
-    twitter: marcograss
-    github: marco-gra
-    title: Security Researcher
-    bio: Senior Security Researcher at KEEN Lab (previously known as KEEN Team).
 
   corrupt:
     name: Prashant Mahajan
@@ -237,16 +247,6 @@ members:
     github: subho007
     title: Co-Founder and Security Researcher @ XYSec Labs
     bio: Programmer, Entrepreneur, Freelancer, Pentester and Exploiter. Loves to exploit Android. Lead Programmer and Creator of AFE.
-
-  utkanos:
-    name: Drew Suarez
-    display_name: utkanos
-    gravatar: e9610997926c08a1f9ba5a7a4e0a86c7
-    email: utkanos[at]gmail[dot]org
-    twitter: utkan0s
-    github: utkanos
-    title: Security Consultant/Researcher
-    bio: Breaking things at Matasano, contributor to cyanogenmod, photographer, and craft beer snob.
 
   rexperience7:
     name: Rex Kim
