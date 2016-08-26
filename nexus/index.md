@@ -650,7 +650,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">MTC20F</div></td>
+      <td><div class="current">NRD90M</div></td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/bullhead-nrd90m-factory-d215f148.tgz">Factory Image</a></td>
+      <td>SHA256: d40ef8a68983740d7662da37cf393303168b53f64482e5351fb1611b11a402c8</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/bullhead-ota-nrd90m-fdb8250a.zip">Full OTA Image</a></td>
+      <td>SHA256: fdb8250a2e95b172bf543cd4da5899b4b91da165283320dcbd2a2f60f5229011</td>
+    </tr>
+    <tr class="first">
+      <td>MTC20F</td>
       <td>6.0.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-mtc20f-factory-b85029e5.tgz">Factory Image</a></td>
       <td>SHA256: ce34faf6cfab5cf5ac63174190cccc971d2f4944852618983ead53d98d9bf255</td>
