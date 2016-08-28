@@ -400,3 +400,14 @@ members:
     github: haykuro
     title: Security Researcher, Software Engineer
     bio: Good at computers. "He can unjam the printer really fast."
+
+  sagik:
+    name: Sagi Kedmi 
+    display_name: sagik
+    gravatar: 2ae8b9c12d33d09d02df070adeb755c9
+    email: 
+    web: https://sagi.io/
+    twitter: sagikedmi
+    github: sagi
+    title: Security Researcher
+    bio:    
