@@ -6896,6 +6896,18 @@ Jump to a specific device:<br />
       <td>SHA1: 36aa4a7cda5f8616dccfc4480a4592b06762b0a6</td>
     </tr>
     <tr class="first">
+      <td>JOP40D</td>
+      <td>4.2.1</td>
+      <td><a href="http://android.clients.google.com/packages/ota/google_nakasi/338da85cdf190bfe2713e660cc80a3a4094e9894.signed-nakasi-JWR66Y-from-JOP40D.338da85c.zip">OTA Update to JWR66Y</a></td>
+      <td>SHA1: 338da85cdf190bfe2713e660cc80a3a4094e9894</td>
+    </tr>
+    <tr class="first">
+      <td>JOP40C</td>
+      <td>4.2</td>
+      <td><a href="http://android.clients.google.com/packages/ota/google_nakasi/59fb7912bfa96682d4bf56c2a501a4adefbb8f1e.signed-nakasi-JWR66Y-from-JOP40C.59fb7912.zip">OTA Update to JWR66Y</a></td>
+      <td>SHA1: 59fb7912bfa96682d4bf56c2a501a4adefbb8f1e</td>
+    </tr>
+    <tr class="first">
       <td>JZO54K</td>
       <td>4.1.2</td>
       <td><a href="https://dl.google.com/dl/android/aosp/nakasi-jzo54k-factory-973f190e.tgz">Factory Image (TGZ)</a></td>
@@ -6914,18 +6926,6 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="http://android.clients.google.com/packages/ota/google_nakasi/da55f917feee.signed-nakasi-JDQ39-from-JZO54K.da55f917.zip">OTA Update to JDQ39</a></td>
       <td>Partial SHA1: da55f917feee</td>
-    </tr>
-    <tr class="first">
-      <td>JOP40D</td>
-      <td>4.2.1</td>
-      <td><a href="http://android.clients.google.com/packages/ota/google_nakasi/338da85cdf190bfe2713e660cc80a3a4094e9894.signed-nakasi-JWR66Y-from-JOP40D.338da85c.zip">OTA Update to JWR66Y</a></td>
-      <td>SHA1: 338da85cdf190bfe2713e660cc80a3a4094e9894</td>
-    </tr>
-    <tr class="first">
-      <td>JOP40C</td>
-      <td>4.2</td>
-      <td><a href="http://android.clients.google.com/packages/ota/google_nakasi/59fb7912bfa96682d4bf56c2a501a4adefbb8f1e.signed-nakasi-JWR66Y-from-JOP40C.59fb7912.zip">OTA Update to JWR66Y</a></td>
-      <td>SHA1: 59fb7912bfa96682d4bf56c2a501a4adefbb8f1e</td>
     </tr>
     <tr class="first">
       <td>JRO03D</td>
