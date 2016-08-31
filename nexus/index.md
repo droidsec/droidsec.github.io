@@ -128,8 +128,15 @@ Jump to a specific device:<br />
     <tr>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td><a href="https://dl.google.com/dl/android/aosp/ryu-ota-nrd90m-69793d12.zip">Full OTA Image</a><br /><a href="https://android.googleapis.com/packages/ota/google_dragon_ryu/2b0d80e539b415ed50f59d5aadc509a995f777d1.zip">Full OTA Image</a></td>
-      <td>SHA256: 69793d127812a257ccf0d8289eecf0e9e8522aa9e221d5e5f51e871c3b4cd72c<br />SHA1: 2b0d80e539b415ed50f59d5aadc509a995f777d1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/ryu-ota-nrd90m-69793d12.zip">Full OTA Image</a></td>
+      <td>SHA256: 69793d127812a257ccf0d8289eecf0e9e8522aa9e221d5e5f51e871c3b4cd72c</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_dragon_ryu/2b0d80e539b415ed50f59d5aadc509a995f777d1.zip">Full OTA Image</a></td>
+      <td>SHA1: 2b0d80e539b415ed50f59d5aadc509a995f777d1</td>
     </tr>
     <tr class="first">
       <td>MXC89L</td>
@@ -2388,8 +2395,15 @@ Jump to a specific device:<br />
     <tr>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td><a href="https://dl.google.com/dl/android/aosp/fugu-ota-nrd90m-2c446ffb.zip">Full OTA Image</a><br /><a href="https://android.googleapis.com/packages/ota/google_fugu_fugu/ac6632b1696c2b3befd377b8d49f9e3223031c23.zip">Full OTA Image</a></td>
-      <td>SHA256: 2c446ffb1a548b04c711b18bf144768b8276238d16460fc6a22fc321a5f64ad1<br />SHA1: ac6632b1696c2b3befd377b8d49f9e3223031c23</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/fugu-ota-nrd90m-2c446ffb.zip">Full OTA Image</a></td>
+      <td>SHA256: 2c446ffb1a548b04c711b18bf144768b8276238d16460fc6a22fc321a5f64ad1</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_fugu_fugu/ac6632b1696c2b3befd377b8d49f9e3223031c23.zip">Full OTA Image</a></td>
+      <td>SHA1: ac6632b1696c2b3befd377b8d49f9e3223031c23</td>
     </tr>
     <tr class="first">
       <td>MOB30W</td>
@@ -3405,8 +3419,15 @@ Jump to a specific device:<br />
     <tr>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td><a href="https://dl.google.com/dl/android/aosp/volantis-ota-nrd90m-5468c87c.zip">Full OTA Image</a><br /><a href="https://android.googleapis.com/packages/ota/google_flounder_volantis/526b16422cb222db472740a30dfa48b796dae6a6.zip">Full OTA Image</a></td>
-      <td>SHA256: 5468c87c1e80de6b4fd6ad3d4772caf07ffcc99fc590a6aa97d62245178049e9<br />SHA1: 526b16422cb222db472740a30dfa48b796dae6a6</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/volantis-ota-nrd90m-5468c87c.zip">Full OTA Image</a></td>
+      <td>SHA256: 5468c87c1e80de6b4fd6ad3d4772caf07ffcc99fc590a6aa97d62245178049e9</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_flounder_volantis/526b16422cb222db472740a30dfa48b796dae6a6.zip">Full OTA Image</a></td>
+      <td>SHA1: 526b16422cb222db472740a30dfa48b796dae6a6</td>
     </tr>
     <tr class="first">
       <td>MOB30W</td>
