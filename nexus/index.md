@@ -160,6 +160,13 @@ Jump to a specific device:<br />
       <td><a href="https://android.googleapis.com/packages/ota/google_dragon_ryu/2b0d80e539b415ed50f59d5aadc509a995f777d1.zip">Full OTA Image</a></td>
       <td>SHA1: 2b0d80e539b415ed50f59d5aadc509a995f777d1</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_dragon_ryu/035dd6a80f5519c16af449ddcf4496ea9f454b41.zip">OTA Update to NRD90R</a></td>
+      <td>SHA1: 035dd6a80f5519c16af449ddcf4496ea9f454b41</td>
+    </tr>
     <tr class="first">
       <td>MXC89L</td>
       <td>6.0.1</td>
