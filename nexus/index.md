@@ -452,6 +452,13 @@ Jump to a specific device:<br />
 
     <tr>
       <td>&nbsp;</td>
+      <td>6.0.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/angler-mtc20l-factory-b7864fdb.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: b7864fdb261080ba1ab7126f7f2dee9e80fab088375677c51fb0347a52fb6179</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-mtc20l-095e81f7.zip">Full OTA Image</a></td>
       <td>SHA256: 095e81f70a6c898a4a05292e300ae59ed2cf6f913b7d95bb7d21dec792956e46</td>
