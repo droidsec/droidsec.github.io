@@ -881,6 +881,12 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
+      <td>NRD90R</td>
+      <td></td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_bullhead_bullhead/2c15c26d1d2aa8cd94b449b48a19d65e7d582714.zip">Full OTA Image</a></td>
+      <td>SHA1: 2c15c26d1d2aa8cd94b449b48a19d65e7d582714</td>
+    </tr>
+    <tr class="first">
       <td><div class="current">NRD90S</div></td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-nrd90s-factory-d6bf1f56.zip">Factory Image (ZIP)</a></td>
