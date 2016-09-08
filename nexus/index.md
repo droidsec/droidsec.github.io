@@ -1369,6 +1369,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-mob30w-ff0cfe32.zip">Full OTA Image</a></td>
       <td>SHA256: ff0cfe32128f3dc237f665e8fbe457d6bc39b0687e5f3023773f2bb577ca7014</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_shamu_shamu/560849472ef4b15f4679e7c53546084a3dc44370.zip">OTA Update to </a></td>
+      <td>SHA1: 560849472ef4b15f4679e7c53546084a3dc44370</td>
+    </tr>
     <tr class="first">
       <td>MMB30R</td>
       <td>6.0.1</td>
