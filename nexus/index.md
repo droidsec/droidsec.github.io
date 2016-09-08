@@ -933,6 +933,13 @@ Jump to a specific device:<br />
       <td><a href="https://android.googleapis.com/packages/ota/google_bullhead_bullhead/cd8d8f775bcdb6a76a496a3a664caba0b9ed47f9.zip">Full OTA Image</a></td>
       <td>SHA1: cd8d8f775bcdb6a76a496a3a664caba0b9ed47f9</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_bullhead_bullhead/a8437d02bd25b973e170cf7eebf77742ca2b1176.zip">OTA Update to NRD90R</a></td>
+      <td>SHA1: a8437d02bd25b973e170cf7eebf77742ca2b1176</td>
+    </tr>
     <tr class="first">
       <td>MTC20F</td>
       <td>6.0.1</td>
