@@ -919,6 +919,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-ota-nrd90m-fdb8250a.zip">Full OTA Image</a></td>
       <td>SHA256: fdb8250a2e95b172bf543cd4da5899b4b91da165283320dcbd2a2f60f5229011</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_bullhead_bullhead/cd8d8f775bcdb6a76a496a3a664caba0b9ed47f9.zip">Full OTA Image</a></td>
+      <td>SHA1: cd8d8f775bcdb6a76a496a3a664caba0b9ed47f9</td>
+    </tr>
     <tr class="first">
       <td>MTC20F</td>
       <td>6.0.1</td>
