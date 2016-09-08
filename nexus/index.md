@@ -4152,6 +4152,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/hammerhead-ota-mob30y-308025d1.zip">Full OTA Image</a></td>
       <td>SHA256: 308025d1faacb235fc7a07f1e1612b0be5c1d5d326d7a39af3d0ed42a0851e7f</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_hammerhead/0045320b7daea9c2ce32f45eb056baca05fbc2d2.zip">OTA Update to MOB31E</a></td>
+      <td>SHA1: 0045320b7daea9c2ce32f45eb056baca05fbc2d2</td>
+    </tr>
     <tr class="first">
       <td>MOB30P</td>
       <td>6.0.1</td>
