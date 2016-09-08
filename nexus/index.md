@@ -2533,6 +2533,13 @@ Jump to a specific device:<br />
       <td><a href="https://android.googleapis.com/packages/ota/google_fugu_fugu/ac6632b1696c2b3befd377b8d49f9e3223031c23.zip">Full OTA Image</a></td>
       <td>SHA1: ac6632b1696c2b3befd377b8d49f9e3223031c23</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_fugu_fugu/484b7c4f1130d86a5c187178688873e8d79e537b.zip">OTA Update to NRD90R</a></td>
+      <td>SHA1: 484b7c4f1130d86a5c187178688873e8d79e537b</td>
+    </tr>
     <tr class="first">
       <td>MOB30W</td>
       <td>6.0.1</td>
