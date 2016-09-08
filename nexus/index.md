@@ -3569,6 +3569,13 @@ Jump to a specific device:<br />
       <td><a href="https://android.googleapis.com/packages/ota/google_flounder_volantis/526b16422cb222db472740a30dfa48b796dae6a6.zip">Full OTA Image</a></td>
       <td>SHA1: 526b16422cb222db472740a30dfa48b796dae6a6</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_flounder_volantis/3366bef99f6619223f9797b7e7cd753f999ce36a.zip">OTA Update to NRD90R</a></td>
+      <td>SHA1: 3366bef99f6619223f9797b7e7cd753f999ce36a</td>
+    </tr>
     <tr class="first">
       <td>MOB30W</td>
       <td>6.0.1</td>
