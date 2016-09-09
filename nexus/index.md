@@ -476,6 +476,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-mtc20l-095e81f7.zip">Full OTA Image</a></td>
       <td>SHA256: 095e81f70a6c898a4a05292e300ae59ed2cf6f913b7d95bb7d21dec792956e46</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-nrd90u-ff3f6b27.zip">OTA Update to NRD90U</a></td>
+      <td>SHA256: ff3f6b279338ed54a52cf4776ee8c4d7268a4c925a944146c91c6ebd3f76e0a7</td>
+    </tr>
     <tr class="first">
       <td>MTC20F</td>
       <td>6.0.1</td>
