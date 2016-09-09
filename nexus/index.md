@@ -1392,7 +1392,7 @@ Jump to a specific device:<br />
     <tr>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td><a href="https://android.googleapis.com/packages/ota/google_shamu_shamu/560849472ef4b15f4679e7c53546084a3dc44370.zip">OTA Update to </a></td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_shamu_shamu/560849472ef4b15f4679e7c53546084a3dc44370.zip">OTA Update to MOB31E</a></td>
       <td>SHA1: 560849472ef4b15f4679e7c53546084a3dc44370</td>
     </tr>
     <tr class="first">
