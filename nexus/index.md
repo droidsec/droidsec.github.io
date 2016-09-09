@@ -444,7 +444,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">MTC20L</div></td>
+      <td><div class="current">NRD90U</div></td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/angler-nrd90u-factory-7c9b6a2b.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 7c9b6a2b91be9cfad51e40cd43a9c82be9829a4af6d581c456802ec41017b4d9</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-nrd90u-519758d5.zip">Full OTA Image</a></td>
+      <td>SHA256: 519758d5bf3f826b33db2965850ec53f82b591c9f6d023b6c367b5535439710e</td>
+    </tr>
+    <tr class="first">
+      <td>MTC20L</td>
       <td>6.0.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/angler-mtc20l-factory-a74ad54f.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: a74ad54f0deab52cd869f81c85597212fe1a38228ddbfbbf370f9ec9a8ab142a</td>
