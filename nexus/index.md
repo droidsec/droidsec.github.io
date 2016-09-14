@@ -516,6 +516,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-mtc20f-5a1e93e9.zip">Full OTA Image</a></td>
       <td>SHA256: 5a1e93e9974908a0683a4ac8a732b81023f4b01182fd3ead3f091f54300de5ce</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_angler_angler/dc1e3f7d7bbf2719cdd7ced0ae5c7fca38668c69.zip">OTA Update to MTC20L</a></td>
+      <td>SHA1: dc1e3f7d7bbf2719cdd7ced0ae5c7fca38668c69</td>
+    </tr>
     <tr class="first">
       <td>NPD90G</td>
       <td>N</td>
@@ -3099,6 +3106,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/volantisg-ota-mob30w-09f75012.zip">Full OTA Image</a></td>
       <td>SHA256: 09f750122d12b79fc7fc718b05adf0d2065e04814f53ac9f3356aeb53b4ea749</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_flounderlte_volantisg/a90db4aa83dde31cd000b5ef10cbdf5e041e83af.zip">OTA Update to MOB31E</a></td>
+      <td>SHA1: a90db4aa83dde31cd000b5ef10cbdf5e041e83af</td>
     </tr>
     <tr class="first">
       <td>NPD90G</td>
