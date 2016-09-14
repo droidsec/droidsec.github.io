@@ -457,6 +457,12 @@ Jump to a specific device:<br />
       <td>SHA256: 519758d5bf3f826b33db2965850ec53f82b591c9f6d023b6c367b5535439710e</td>
     </tr>
     <tr class="first">
+      <td>NRD90T</td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/angler-nrd90t-factory-75edc1f7.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 75edc1f7a52c81907a294530bcd1248cc821b627e22f97076c1ee31ea11de179</td>
+    </tr>
+    <tr class="first">
       <td>MTC20L</td>
       <td>6.0.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/angler-mtc20l-factory-a74ad54f.zip">Factory Image (ZIP)</a></td>
@@ -482,6 +488,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-nrd90u-ff3f6b27.zip">OTA Update to NRD90U</a></td>
       <td>SHA256: ff3f6b279338ed54a52cf4776ee8c4d7268a4c925a944146c91c6ebd3f76e0a7</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-nrd90t-e19c600c.zip">OTA Update to NRD90T</a></td>
+      <td>SHA256: e19c600ced182664cac1e21bd0c51a32b5b1cbc90358ac309e37486d2b4521af</td>
     </tr>
     <tr class="first">
       <td>MTC20F</td>
