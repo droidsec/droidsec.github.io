@@ -23,7 +23,7 @@ Be safe out there and enjoy!
 </div>
 
 <br />
-<strong>NOTE</strong>: The most recent build for a device is noted in <div class="current">GREEN</div>.
+<strong>NOTE</strong>: The most recent build for a device is noted in <div class="current">GREEN</div>. Use of this version is encouraged as older releases contain multiple publicly disclosed security issues.
 <br /><br />
 
 Jump to a specific device:<br />
@@ -56,7 +56,7 @@ Jump to a specific device:<br />
 
 <a name="seed_l8150"></a>
 <h2>"seed_l8150" for General Mobile 4G (Android One)</h2>
-<table>
+<div class="current">This device is currently being supported by Google.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -110,7 +110,7 @@ Jump to a specific device:<br />
 
 <a name="ryu"></a>
 <h2>"ryu" for Pixel C</h2>
-<table>
+<div class="current">This device is currently being supported by Google.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -433,7 +433,7 @@ Jump to a specific device:<br />
 
 <a name="angler"></a>
 <h2>"angler" for Nexus 6P</h2>
-<table>
+<div class="current">This device is currently being supported by Google.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -910,7 +910,7 @@ Jump to a specific device:<br />
 
 <a name="bullhead"></a>
 <h2>"bullhead" for Nexus 5X</h2>
-<table>
+<div class="current">This device is currently being supported by Google.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -1359,7 +1359,7 @@ Jump to a specific device:<br />
 
 <a name="shamu"></a>
 <h2>"shamu" for Nexus 6</h2>
-<table>
+<div class="current">This device is currently being supported by Google.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -2536,7 +2536,7 @@ Jump to a specific device:<br />
 
 <a name="fugu"></a>
 <h2>"fugu" for Nexus Player</h2>
-<table>
+<div class="current">This device is currently being supported by Google.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -3064,7 +3064,7 @@ Jump to a specific device:<br />
 
 <a name="volantisg"></a>
 <h2>"volantisg" for Nexus 9 (LTE)</h2>
-<table>
+<div class="current">This device is currently being supported by Google.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -3600,7 +3600,7 @@ Jump to a specific device:<br />
 
 <a name="volantis"></a>
 <h2>"volantis" for Nexus 9 (Wi-Fi)</h2>
-<table>
+<div class="current">This device is currently being supported by Google.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -4169,7 +4169,7 @@ Jump to a specific device:<br />
 
 <a name="hammerhead"></a>
 <h2>"hammerhead" for Nexus 5</h2>
-<table>
+<div class="current">This device is currently being supported by Google.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -4822,7 +4822,7 @@ Jump to a specific device:<br />
 
 <a name="razor"></a>
 <h2>"razor" for Nexus 7 2013 (Wi-Fi)</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -5448,7 +5448,7 @@ Jump to a specific device:<br />
 
 <a name="razorg"></a>
 <h2>"razorg" for Nexus 7 2013 (Mobile)</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -6250,7 +6250,7 @@ Jump to a specific device:<br />
 
 <a name="mantaray"></a>
 <h2>"mantaray" for Nexus 10</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -6673,7 +6673,7 @@ Jump to a specific device:<br />
 
 <a name="occam"></a>
 <h2>"occam" for Nexus 4</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -6947,7 +6947,7 @@ Jump to a specific device:<br />
 
 <a name="nakasi"></a>
 <h2>"nakasi" for Nexus 7 2012 (Wi-Fi)</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -7193,7 +7193,7 @@ Jump to a specific device:<br />
 
 <a name="nakasig"></a>
 <h2>"nakasig" for Nexus 7 2012 (Mobile)</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -7381,7 +7381,7 @@ Jump to a specific device:<br />
 
 <a name="tungsten"></a>
 <h2>"tungsten" for Nexus Q</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -7410,7 +7410,7 @@ Jump to a specific device:<br />
 
 <a name="takju"></a>
 <h2>"takju" for Galaxy Nexus (GSM w/Wallet)</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -7510,7 +7510,7 @@ Jump to a specific device:<br />
 
 <a name="yakju"></a>
 <h2>"yakju" for Galaxy Nexus (GSM w/o Wallet)</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -7647,7 +7647,7 @@ Jump to a specific device:<br />
 
 <a name="mysid"></a>
 <h2>"mysid" for Galaxy Nexus (Verizon)</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -7709,7 +7709,7 @@ Jump to a specific device:<br />
 
 <a name="mysidspr"></a>
 <h2>"mysidspr" for Galaxy Nexus (Sprint)</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -7765,7 +7765,7 @@ Jump to a specific device:<br />
 
 <a name="soju"></a>
 <h2>"soju" for Nexus S (Worldwide)</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -7847,7 +7847,7 @@ Jump to a specific device:<br />
 
 <a name="sojua"></a>
 <h2>"sojua" for Nexus S (850MHz)</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -7902,7 +7902,7 @@ Jump to a specific device:<br />
 
 <a name="sojuk"></a>
 <h2>"sojuk" for Nexus S (Korea)</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
@@ -7971,7 +7971,7 @@ Jump to a specific device:<br />
 
 <a name="sojus"></a>
 <h2>"sojus" for Nexus S (4G)</h2>
-<table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>

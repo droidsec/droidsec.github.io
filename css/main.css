@@ -95,6 +95,12 @@ font-weight: bold;
 color: green;
 }
 
+.nexus div.unsupported {
+display: inline;
+font-weight: bold;
+color: darkred;
+}
+
 .nexus div.warning {
 font-size: 1.5em;
 padding: 10px 20px 10px 20px;
