@@ -921,12 +921,6 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td>NRD90R</td>
-      <td></td>
-      <td><a href="https://android.googleapis.com/packages/ota/google_bullhead_bullhead/2c15c26d1d2aa8cd94b449b48a19d65e7d582714.zip">Full OTA Image</a></td>
-      <td>SHA1: 2c15c26d1d2aa8cd94b449b48a19d65e7d582714</td>
-    </tr>
-    <tr class="first">
       <td><div class="current">NRD90S</div></td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-nrd90s-factory-d6bf1f56.zip">Factory Image (ZIP)</a></td>
@@ -938,6 +932,26 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-ota-nrd90s-11bca8c7.zip">Full OTA Image</a></td>
       <td>SHA256: 11bca8c7440fb1fe6839b336d90373acd403afa57c2a6bc7a91dbe7b01b67f75</td>
+    </tr>
+    <tr class="first">
+      <td>NRD90R</td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/bullhead-nrd90r-factory-dc60b38f.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: dc60b38f8f248aff594e4fce28d59727b0f2448817bd382eb1a86adb096b31ca</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_bullhead_bullhead/2c15c26d1d2aa8cd94b449b48a19d65e7d582714.zip">Full OTA Image</a></td>
+      <td>SHA1: 2c15c26d1d2aa8cd94b449b48a19d65e7d582714</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/bullhead-ota-nrd90r-b3b77497.zip">Full OTA Image</a></td>
+      <td>SHA256: b3b77497bf68b43ed7edd57b20d92c97ca3684204dc96a806d9ad315d5c1dbc6</td>
     </tr>
     <tr class="first">
       <td>MTC20K</td>
