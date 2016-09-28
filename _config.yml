@@ -400,3 +400,14 @@ members:
     github: haykuro
     title: Security Researcher, Software Engineer
     bio: Good at computers. "He can unjam the printer really fast."
+ 
+ citypw:
+    name: Shawn C
+    display_name: citypw
+    gravatar: 8e29dc258c08c118e6c8808c3eeed6b2
+    email: citypw[at]gmail[dot]com
+    web: https://hardenedlinux.github.io/
+    twitter: citypw
+    github: citypw
+    title: Security consultant, Coder
+    bio: Doing FLOSS( Free/Libre & Open Source) security consulting by building defensive solution for GNU/Linux/Android security. Founder of HardenedLinux( https://github.com/hardenedlinux).
