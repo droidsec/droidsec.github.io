@@ -4230,7 +4230,13 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">MOB31E</div></td>
+      <td><div class="current">M4B30X</div></td>
+      <td></td>
+      <td><a href="https://dl.google.com/dl/android/aosp/hammerhead-ota-m4b30x-f2eb90a8.zip">Full OTA Image</a></td>
+      <td>SHA256: f2eb90a8da6bb28731dbcd72b47b2e228720cb815954614f707d421751c02881</td>
+    </tr>
+    <tr class="first">
+      <td>MOB31E</td>
       <td>6.0.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/hammerhead-mob31e-factory-90504514.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 9050451400a69d8cd6e2b559e87c052bb7e8d7482640da18c39f25f30dba7d7d</td>
