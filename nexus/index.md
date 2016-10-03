@@ -121,7 +121,13 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NRD90R</div></td>
+      <td><div class="current">NRD91D</div></td>
+      <td></td>
+      <td><a href="https://dl.google.com/dl/android/aosp/ryu-ota-nrd91d-3db53b6a.zip">Full OTA Image</a></td>
+      <td>SHA256: 3db53b6a6a12affdce433c09196352b2cb27030d0da672138d8d7087396b8ecf</td>
+    </tr>
+    <tr class="first">
+      <td>NRD90R</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/ryu-nrd90r-factory-843758b3.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 843758b3c5bc6ef0e73102b13c1a7e33a0b2645c39c4966ade312a5d2e6574ae</td>
@@ -444,7 +450,13 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NRD90U</div></td>
+      <td><div class="current">NBD90X</div></td>
+      <td></td>
+      <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-nbd90x-78b5a5f8.zip">Full OTA Image</a></td>
+      <td>SHA256: 78b5a5f8a794ccec0015d63e6762bae019b5ff43cfac7688d53ac87d49f7fbb0</td>
+    </tr>
+    <tr class="first">
+      <td>NRD90U</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/angler-nrd90u-factory-7c9b6a2b.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 7c9b6a2b91be9cfad51e40cd43a9c82be9829a4af6d581c456802ec41017b4d9</td>
@@ -921,7 +933,13 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NRD90S</div></td>
+      <td><div class="current">NBD90W</div></td>
+      <td></td>
+      <td><a href="https://dl.google.com/dl/android/aosp/bullhead-ota-nbd90w-5b7cbeb8.zip">Full OTA Image</a></td>
+      <td>SHA256: 5b7cbeb8efd9391e1585d2494bb2f4a659882c0871d4d35a4da98d214d958d81</td>
+    </tr>
+    <tr class="first">
+      <td>NRD90S</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-nrd90s-factory-d6bf1f56.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: d6bf1f56311f03903908a7fa20f75e5f9c2d21d5cbe4cc26aeb85b19a05544df</td>
@@ -1384,7 +1402,13 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">MOB31E</div></td>
+      <td><div class="current">MOB31H</div></td>
+      <td></td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-mob31h-4b066c21.zip">Full OTA Image</a></td>
+      <td>SHA256: 4b066c21b6513f5bb86ef6871bc4f9bb2a181033757d8a67e88207134734622b</td>
+    </tr>
+    <tr class="first">
+      <td>MOB31E</td>
       <td>6.0.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-mob31e-factory-051e2d25.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 051e2d2525fcfc422c73e95bf360437c241789ea65a42bd95800f84f9da7a7e8</td>
@@ -2561,7 +2585,13 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NRD90R</div></td>
+      <td><div class="current">NRD91D</div></td>
+      <td></td>
+      <td><a href="https://dl.google.com/dl/android/aosp/fugu-ota-nrd91d-647860d6.zip">Full OTA Image</a></td>
+      <td>SHA256: 647860d6462cea38b926b25c125fe6bcbc7476e83f8ba0089ea33e35986fc7e4</td>
+    </tr>
+    <tr class="first">
+      <td>NRD90R</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/fugu-nrd90r-factory-663a9f79.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 663a9f79612b3a1e3710148c62e4c0a4513c0fea34953ebb8268d94567a9b817</td>
@@ -3625,7 +3655,13 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NRD90R</div></td>
+      <td><div class="current">NRD91D</div></td>
+      <td></td>
+      <td><a href="https://dl.google.com/dl/android/aosp/volantis-ota-nrd91d-f88a707f.zip">Full OTA Image</a></td>
+      <td>SHA256: f88a707f06b531cc2b5fa8fde4379b940ae4ed5f8d3cd3d5a3984fd2edfee890</td>
+    </tr>
+    <tr class="first">
+      <td>NRD90R</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/volantis-nrd90r-factory-84de678f.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 84de678f9f4b5b96f2f44dfba0ef0794a56e3727c11e410fb0f485f545083c78</td>
