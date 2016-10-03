@@ -146,6 +146,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/ryu-ota-nrd90r-d8c91d96.zip">Full OTA Image</a></td>
       <td>SHA256: d8c91d968129f224d4fa112bdf730ff080f880b85a71b96c8017bbc287625d96</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_dragon_ryu/feeab1d3166fb9a1d6357609f0e0f27403688ed6.zip">OTA Update to NRD91D</a></td>
+      <td>SHA1: feeab1d3166fb9a1d6357609f0e0f27403688ed6</td>
+    </tr>
     <tr class="first">
       <td>NRD90M</td>
       <td>7.0.0</td>
