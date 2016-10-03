@@ -1430,7 +1430,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">MOB31H</div></td>
+      <td><div class="current">NBD90Z</div></td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-nbd90z-factory-92e7bb05.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 92e7bb058e3842fab33241feb2d315cb3ff9c00d9a8bb75d3fee4a70cfe9e841</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-nbd90z-78a931cb.zip">Full OTA Image</a></td>
+      <td>SHA256: 78a931cb0f9295aa7ef65dc8ee7f5a61712fe54e9a38e9178501903d4ca73fd1</td>
+    </tr>
+    <tr class="first">
+      <td>MOB31H</td>
       <td>6.0.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-mob31h-factory-5ef08d52.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 5ef08d521a7bd1df742bd81363ba0f59ed489983e48fc87769ae039080c4edc5</td>
