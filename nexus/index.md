@@ -3735,6 +3735,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/volantis-ota-nrd90r-7c417d20.zip">Full OTA Image</a></td>
       <td>SHA256: 7c417d20aaf5f27d1ce5eef7c53cf8c5deee2dcc5a3f75e76383699184535b13</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_flounder_volantis/727ff5c28e3db72cb81f21054757174a2c2878ab.zip">OTA Update to NRD91D</a></td>
+      <td>SHA1: 727ff5c28e3db72cb81f21054757174a2c2878ab</td>
+    </tr>
     <tr class="first">
       <td>NRD90M</td>
       <td>7.0.0</td>
