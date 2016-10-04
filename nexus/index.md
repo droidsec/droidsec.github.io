@@ -2665,6 +2665,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/fugu-ota-nrd90r-a45ccb30.zip">Full OTA Image</a></td>
       <td>SHA256: a45ccb3050882606b0877d0520f39d8b9ad94d6a8daffc37ef6fc402a548a40c</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_fugu_fugu/c1c660f914d907adfe6e0b31e90dcf2414070be4.zip">OTA Update to NRD91D</a></td>
+      <td>SHA1: c1c660f914d907adfe6e0b31e90dcf2414070be4</td>
+    </tr>
     <tr class="first">
       <td>NRD90M</td>
       <td>7.0.0</td>
