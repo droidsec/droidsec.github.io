@@ -1475,6 +1475,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-mob31e-f90f1dcb.zip">Full OTA Image</a></td>
       <td>SHA256: f90f1dcba01b8c044aea62a06672bd85a4c917082301d037a9e2a3d6fd64eaf9</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_shamu_shamu/bdc79401d8617fd2d94742dce4001acf8061229b.zip">OTA Update to MOB31H</a></td>
+      <td>SHA1: bdc79401d8617fd2d94742dce4001acf8061229b</td>
+    </tr>
     <tr class="first">
       <td>MMB30W</td>
       <td>6.0.1</td>
@@ -4337,6 +4344,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/hammerhead-ota-mob31e-284a96a5.zip">Full OTA Image</a></td>
       <td>SHA256: 284a96a504593216c61d2460ce899d34a4d3699f09039d6e54cd9c540aa217b2</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_hammerhead/b0a2c6192b40bab464e3c8972214b847b0e76f91.zip">OTA Update to </a></td>
+      <td>SHA1: b0a2c6192b40bab464e3c8972214b847b0e76f91</td>
     </tr>
     <tr class="first">
       <td>MOB30Y</td>
