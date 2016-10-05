@@ -1437,6 +1437,19 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
+      <td>MMB30Y</td>
+      <td>6.0.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-mmb30y-factory-95eac974.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 95eac974e01661d62fd115180b028116597f08c9b90eae0395719870b74d182d</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-mmb30y-9685a993.zip">Full OTA Image</a></td>
+      <td>SHA256: 9685a99394783ce7065c969d36eef3ed722c2d4fa325b4a1e45e28849e32717a</td>
+    </tr>
+    <tr class="first">
       <td><div class="current">NBD90Z</div></td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-nbd90z-factory-92e7bb05.zip">Factory Image (ZIP)</a></td>
