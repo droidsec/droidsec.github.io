@@ -4362,7 +4362,7 @@ Jump to a specific device:<br />
     <tr>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td><a href="https://android.googleapis.com/packages/ota/google_hammerhead/b0a2c6192b40bab464e3c8972214b847b0e76f91.zip">OTA Update to </a></td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_hammerhead/b0a2c6192b40bab464e3c8972214b847b0e76f91.zip">OTA Update to M4B30X</a></td>
       <td>SHA1: b0a2c6192b40bab464e3c8972214b847b0e76f91</td>
     </tr>
     <tr class="first">
