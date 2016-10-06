@@ -3208,7 +3208,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">MOB31E</div></td>
+      <td><div class="current">NRD90R</div></td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/volantisg-nrd90r-factory-ba76b361.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: ba76b3613888e17fd9b36382dbfb5f4cf3e7416a612fbbeb5b6197d73c9be56f</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/volantisg-ota-nrd90r-e0bb6b6b.zip">Full OTA Image</a></td>
+      <td>SHA256: e0bb6b6b739baf808bf770f171b1d2d7806cc4bf0c793fe978f5f08bf58a07e6</td>
+    </tr>
+    <tr class="first">
+      <td>MOB31E</td>
       <td>6.0.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/volantisg-mob31e-factory-b8c6b982.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: b8c6b9821622934872b8c162808bb76b78c2b18fd0a99c90fa423b1a79c11dcf</td>
