@@ -489,11 +489,25 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-nrd90u-519758d5.zip">Full OTA Image</a></td>
       <td>SHA256: 519758d5bf3f826b33db2965850ec53f82b591c9f6d023b6c367b5535439710e</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_angler_angler/d859d91d0ac8d01cfcf5d22ece47e152fa8481ab.zip">OTA Update to NBD90X</a></td>
+      <td>SHA1: d859d91d0ac8d01cfcf5d22ece47e152fa8481ab</td>
+    </tr>
     <tr class="first">
       <td>NRD90T</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/angler-nrd90t-factory-75edc1f7.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 75edc1f7a52c81907a294530bcd1248cc821b627e22f97076c1ee31ea11de179</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_angler_angler/b4d67bd39d6b25a94199ea687e36e36ae20ad650.zip">OTA Update to NBD90X</a></td>
+      <td>SHA1: b4d67bd39d6b25a94199ea687e36e36ae20ad650</td>
     </tr>
     <tr class="first">
       <td>MTC20L</td>
@@ -986,6 +1000,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-ota-nrd90s-11bca8c7.zip">Full OTA Image</a></td>
       <td>SHA256: 11bca8c7440fb1fe6839b336d90373acd403afa57c2a6bc7a91dbe7b01b67f75</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_bullhead_bullhead/960918e658d1e0bfad928f55e05772765849cb40.zip">OTA Update to NBD90W</a></td>
+      <td>SHA1: 960918e658d1e0bfad928f55e05772765849cb40</td>
+    </tr>
     <tr class="first">
       <td>NRD90R</td>
       <td>7.0.0</td>
@@ -1005,6 +1026,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-ota-nrd90r-b3b77497.zip">Full OTA Image</a></td>
       <td>SHA256: b3b77497bf68b43ed7edd57b20d92c97ca3684204dc96a806d9ad315d5c1dbc6</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_bullhead_bullhead/9c3dcfa2e8a4f79c3d83f82fe74cf4a0f1ecbefc.zip">OTA Update to NBD90W</a></td>
+      <td>SHA1: 9c3dcfa2e8a4f79c3d83f82fe74cf4a0f1ecbefc</td>
     </tr>
     <tr class="first">
       <td>MTC20K</td>
