@@ -27,6 +27,8 @@ Be safe out there and enjoy!
 <br /><br />
 
 Jump to a specific device:<br />
+  <a href='#sailfish'>sailfish</a>
+  <a href='#marlin'>marlin</a>
   <a href='#seed_l8150'>seed_l8150</a>
   <a href='#ryu'>ryu</a>
   <a href='#angler'>angler</a>
@@ -53,6 +55,116 @@ Jump to a specific device:<br />
   <a href='#sojus'>sojus</a>
 
 <br /><br />
+
+<a name="sailfish"></a>
+<h2>"sailfish" for </h2>
+<div class="current">This device is currently being supported by Google.</div><table>
+  <thead>
+    <tr class="hdr">
+      <th>Build</th>
+      <th>Version</th>
+      <th>Download</th>
+      <th>Hash</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="first">
+      <td>NDE63H</td>
+      <td>7.1.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-nde63h-factory-43ba5f81.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 43ba5f8130a58770edce6cb0c6c43920798e038cd7cdec2c54f22a1dd474a7c8</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-ota-nde63h-995d0511.zip">Full OTA Image</a></td>
+      <td>SHA256: 995d05114406218a859a707cb4af4d5aa68eb3659aaaecbf192b5c8139c7ad9e</td>
+    </tr>
+    <tr class="first">
+      <td>NDE63L</td>
+      <td>7.1.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-nde63l-factory-49876a7c.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 49876a7c9e8f14da672dad27a0e404cccbb1330a4c9ebd398c34583a576eba6c</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-ota-nde63l-8223118b.zip">Full OTA Image</a></td>
+      <td>SHA256: 8223118bd7ca7c53e063a5d7539c93223514073dbf7c967a6fe0eae11dfae344</td>
+    </tr>
+    <tr class="first">
+      <td><div class="current">NDE63P</div></td>
+      <td>7.1.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-nde63p-factory-aaaa2f1a.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: aaaa2f1a592ba43de10396938220c4ed65ff3341edd01afd4b5a4f506b39042c</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-ota-nde63p-688a930b.zip">Full OTA Image</a></td>
+      <td>SHA256: 688a930ba2bd1b6fda84cfb88367dd3df1cc506774cc74b9f6521a1ee5540ae0</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<a name="marlin"></a>
+<h2>"marlin" for </h2>
+<div class="current">This device is currently being supported by Google.</div><table>
+  <thead>
+    <tr class="hdr">
+      <th>Build</th>
+      <th>Version</th>
+      <th>Download</th>
+      <th>Hash</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="first">
+      <td>NDE63H</td>
+      <td>7.1.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-nde63h-factory-96adcecf.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 96adcecf136d0389569e28a3396eba92880d77df3ceb8e39b0a765d99ddf0929</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-nde63h-0c0ed502.zip">Full OTA Image</a></td>
+      <td>SHA256: 0c0ed502c19913c3a328eafe4e8142cbda1325be18a377e6e4122b486763e1c8</td>
+    </tr>
+    <tr class="first">
+      <td>NDE63L</td>
+      <td>7.1.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-nde63l-factory-71a65e7e.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 71a65e7ef49f88a8f376831378984c019e8f078dbd39499eb4ca9e1a475df9f0</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-nde63l-205d22e7.zip">Full OTA Image</a></td>
+      <td>SHA256: 205d22e797998ce5aa4ad3c877a09900c3f55067c0b2dfd8661de441a2db786d</td>
+    </tr>
+    <tr class="first">
+      <td>NDE63P</td>
+      <td>7.1.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-nde63p-factory-dcdaaa51.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: dcdaaa51d4b4c0a67c4b670f76fe53b852b38d7b2ce65399ac56799bfc1ca7bb</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-nde63p-20858ae7.zip">Full OTA Image</a></td>
+      <td>SHA256: 20858ae7151f25963bf1a5b1bb54d3129fec9f3766e8e29ad2982bf8c80d8244</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <a name="seed_l8150"></a>
 <h2>"seed_l8150" for General Mobile 4G (Android One)</h2>
