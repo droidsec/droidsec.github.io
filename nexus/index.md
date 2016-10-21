@@ -3248,6 +3248,20 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/volantisg-ota-nrd90r-e0bb6b6b.zip">Full OTA Image</a></td>
       <td>SHA256: e0bb6b6b739baf808bf770f171b1d2d7806cc4bf0c793fe978f5f08bf58a07e6</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_flounderlte_volantisg/514fa063f5dd1bae607ab3c8658d9921ccad4dd8.zip">Full OTA Image</a></td>
+      <td>SHA1: 514fa063f5dd1bae607ab3c8658d9921ccad4dd8</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/volantisg-ota-nrd90r-d208bec7.zip">Full OTA Image</a></td>
+      <td>SHA256: d208bec7b99a03e357b0ab2c109e3cdf6ec9d99acc2964166f1f857cb8d08217</td>
+    </tr>
     <tr class="first">
       <td>MOB31E</td>
       <td>6.0.1</td>
