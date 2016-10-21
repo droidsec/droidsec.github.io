@@ -1602,6 +1602,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-nbd90z-78a931cb.zip">Full OTA Image</a></td>
       <td>SHA256: 78a931cb0f9295aa7ef65dc8ee7f5a61712fe54e9a38e9178501903d4ca73fd1</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_shamu_shamu/30e579c5ef18e24ece3adefe7fa9f84e33feda8e.zip">Full OTA Image</a></td>
+      <td>SHA1: 30e579c5ef18e24ece3adefe7fa9f84e33feda8e</td>
+    </tr>
     <tr class="first">
       <td>MOB31H</td>
       <td>6.0.1</td>
