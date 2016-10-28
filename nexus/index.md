@@ -3381,6 +3381,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/volantisg-ota-nrd90r-d208bec7.zip">Full OTA Image</a></td>
       <td>SHA256: d208bec7b99a03e357b0ab2c109e3cdf6ec9d99acc2964166f1f857cb8d08217</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_flounderlte_volantisg/99273f2e9a8ba3a541ca90d027ceee110dc0b45c.zip">OTA Update to NRD91D</a></td>
+      <td>SHA1: 99273f2e9a8ba3a541ca90d027ceee110dc0b45c</td>
+    </tr>
     <tr class="first">
       <td>MOB31E</td>
       <td>6.0.1</td>
