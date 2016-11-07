@@ -69,6 +69,24 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
+      <td><div class="current">NDE63X</div></td>
+      <td>7.1.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-nde63x-factory-dc45f6c8.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: dc45f6c83547266bf9e49edeae0978c3d734278febec2f7023aae4bf299e4fec</td>
+    </tr>
+    <tr class="first">
+      <td>NDE63V</td>
+      <td>7.1.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-nde63v-factory-1b3155ff.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 1b3155ff623e8a872a788c54e650a0077175f54d723a185f52fff8a3170478ff</td>
+    </tr>
+    <tr class="first">
+      <td>NDE63U</td>
+      <td>7.1.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-nde63u-factory-3fa36709.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 3fa367096c251cd5ab1a6c465cb60fc075b08b999148bbf0036f1533e3efd364</td>
+    </tr>
+    <tr class="first">
       <td>NDE63H</td>
       <td>7.1.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/sailfish-nde63h-factory-43ba5f81.zip">Factory Image (ZIP)</a></td>
@@ -95,7 +113,7 @@ Jump to a specific device:<br />
       <td>SHA256: 8223118bd7ca7c53e063a5d7539c93223514073dbf7c967a6fe0eae11dfae344</td>
     </tr>
     <tr class="first">
-      <td><div class="current">NDE63P</div></td>
+      <td>NDE63P</td>
       <td>7.1.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/sailfish-nde63p-factory-aaaa2f1a.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: aaaa2f1a592ba43de10396938220c4ed65ff3341edd01afd4b5a4f506b39042c</td>
@@ -123,6 +141,24 @@ Jump to a specific device:<br />
     </tr>
   </thead>
   <tbody>
+    <tr class="first">
+      <td><div class="current">NDE63X</div></td>
+      <td>7.1.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-nde63x-factory-8b520419.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 8b520419e32141f68d9f12d7e302bfb77885ed5587908d30b2a0e94ed07038a7</td>
+    </tr>
+    <tr class="first">
+      <td>NDE63V</td>
+      <td>7.1.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-nde63v-factory-a66866ba.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: a66866ba4b8f9f1baa856828d46a747d769098add86098bece50854983ecea3e</td>
+    </tr>
+    <tr class="first">
+      <td>NDE63U</td>
+      <td>7.1.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-nde63u-factory-24e8abeb.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 24e8abeb4e1f09bff31577b46661110bf7d5745abb9269b638f6fb86a338d271</td>
+    </tr>
     <tr class="first">
       <td>NDE63H</td>
       <td>7.1.0</td>
@@ -233,7 +269,13 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NRD91D</div></td>
+      <td><div class="current">NRD91N</div></td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/ryu-nrd91n-factory-5abda8a4.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 5abda8a4f6fb35f1aa3d2fc5b347e6bf0b84f2747572ac4dbd7d9c902bb64694</td>
+    </tr>
+    <tr class="first">
+      <td>NRD91D</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/ryu-nrd91d-factory-13a00ca0.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 13a00ca040924b6101e9a6b4f9ba7327ad72364f7d4e6b27498bdf0a651a9fa7</td>
@@ -576,7 +618,13 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NBD90X</div></td>
+      <td><div class="current">NBD91K</div></td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/angler-nbd91k-factory-6f206c95.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 6f206c95da22ae17a26e5da22a14a09e676ded955ec401948493433c4b927fac</td>
+    </tr>
+    <tr class="first">
+      <td>NBD90X</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/angler-nbd90x-factory-4e17ed23.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 4e17ed23bd461960996a32453d2d378ee3ac036b964bef68e5c1df55971a65af</td>
@@ -1087,7 +1135,13 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NBD90W</div></td>
+      <td><div class="current">NRD91N</div></td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/bullhead-nrd91n-factory-7a2e3942.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 7a2e3942c5963e51ce31ad5cedcb0a634d3c258c85188e4c273c903fa1cece14</td>
+    </tr>
+    <tr class="first">
+      <td>NBD90W</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-nbd90w-factory-d2f11c5f.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: d2f11c5f22d71eff939996291cb7430be2b9c29e8078765a10c935c29d7e5c38</td>
@@ -1577,6 +1631,24 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
+      <td><div class="current">NBD91P</div></td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-nbd91p-factory-987282ff.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 987282ffca6918cf82585b040d6e3dccf4895b9241a23d807925c56adbb179a3</td>
+    </tr>
+    <tr class="first">
+      <td>MOB31K</td>
+      <td>6.0.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-mob31k-factory-49a4de6b.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 49a4de6b7ac963184da86e071002ccfb303b5afecf1a9b6fae77f5f6285c0a03</td>
+    </tr>
+    <tr class="first">
+      <td>MMB31C</td>
+      <td>6.0.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-mmb31c-factory-dd075f34.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: dd075f342df42597aefb588d4cc851cdfe22efbada1039db4e217e9232af1f6d</td>
+    </tr>
+    <tr class="first">
       <td>MMB30Y</td>
       <td>6.0.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-mmb30y-factory-95eac974.zip">Factory Image (ZIP)</a></td>
@@ -1590,7 +1662,7 @@ Jump to a specific device:<br />
       <td>SHA256: 9685a99394783ce7065c969d36eef3ed722c2d4fa325b4a1e45e28849e32717a</td>
     </tr>
     <tr class="first">
-      <td><div class="current">NBD90Z</div></td>
+      <td>NBD90Z</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-nbd90z-factory-92e7bb05.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 92e7bb058e3842fab33241feb2d315cb3ff9c00d9a8bb75d3fee4a70cfe9e841</td>
@@ -2807,7 +2879,13 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NRD91D</div></td>
+      <td><div class="current">NRD91N</div></td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/fugu-nrd91n-factory-c3105e53.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: c3105e53fbb91bcaa022d678358a426399d1260c459d8078a23e408040705723</td>
+    </tr>
+    <tr class="first">
+      <td>NRD91D</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/fugu-nrd91d-factory-60a7d0e5.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 60a7d0e500bfb45471c38b5aa4cf936fc992dd084dde743d664580b1763b589a</td>
@@ -3355,7 +3433,13 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NRD90R</div></td>
+      <td><div class="current">NRD91N</div></td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/volantisg-nrd91n-factory-972fb42b.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 972fb42bc769243968b833b2cae1f59082045392d548c63e3f675cf9fd51edac</td>
+    </tr>
+    <tr class="first">
+      <td>NRD90R</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/volantisg-nrd90r-factory-ba76b361.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: ba76b3613888e17fd9b36382dbfb5f4cf3e7416a612fbbeb5b6197d73c9be56f</td>
@@ -3925,7 +4009,13 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NRD91D</div></td>
+      <td><div class="current">NRD91N</div></td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/volantis-nrd91n-factory-97ea58be.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 97ea58bec951f11bf1ffff892ef0a8de746e9ae92a0657b90a305e4e58624fee</td>
+    </tr>
+    <tr class="first">
+      <td>NRD91D</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/volantis-nrd91d-factory-a27db9bc.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: a27db9bc4613f5fc41ce30372ce8401d445bee46358517389dbcfd0fa4de1289</td>
