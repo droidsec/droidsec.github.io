@@ -57,7 +57,7 @@ Jump to a specific device:<br />
 <br /><br />
 
 <a name="sailfish"></a>
-<h2>"sailfish" for </h2>
+<h2>"sailfish" for Pixel</h2>
 <div class="current">This device is currently being supported by Google.</div><table>
   <thead>
     <tr class="hdr">
@@ -146,12 +146,19 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/sailfish-ota-nde63p-688a930b.zip">Full OTA Image</a></td>
       <td>SHA256: 688a930ba2bd1b6fda84cfb88367dd3df1cc506774cc74b9f6521a1ee5540ae0</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_sailfish_sailfish/3e9983d30f8e7541815bcff20209b0a4a2fa65b4.zip">OTA Update to NDE63V</a></td>
+      <td>SHA1: 3e9983d30f8e7541815bcff20209b0a4a2fa65b4</td>
+    </tr>
   </tbody>
 </table>
 
 
 <a name="marlin"></a>
-<h2>"marlin" for </h2>
+<h2>"marlin" for Pixel XL</h2>
 <div class="current">This device is currently being supported by Google.</div><table>
   <thead>
     <tr class="hdr">
