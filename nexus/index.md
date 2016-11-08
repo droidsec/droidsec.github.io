@@ -94,6 +94,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/sailfish-ota-nde63v-4dd1942e.zip">Full OTA Image</a></td>
       <td>SHA256: 4dd1942eca61766e1f14d5b5eb442be1117ed9cfbdf3bb4d07692985478ca8ba</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_sailfish_sailfish/a8cf302702e4e533f080b049675178391ada34f0.zip">Full OTA Image</a></td>
+      <td>SHA1: a8cf302702e4e533f080b049675178391ada34f0</td>
+    </tr>
     <tr class="first">
       <td>NDE63U</td>
       <td>7.1.0</td>
@@ -120,6 +127,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/sailfish-ota-nde63h-995d0511.zip">Full OTA Image</a></td>
       <td>SHA256: 995d05114406218a859a707cb4af4d5aa68eb3659aaaecbf192b5c8139c7ad9e</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_sailfish_sailfish/9bb4d55b5dbfaac1410f07bff89687070fc051b2.zip">OTA Update to NDE63V</a></td>
+      <td>SHA1: 9bb4d55b5dbfaac1410f07bff89687070fc051b2</td>
+    </tr>
     <tr class="first">
       <td>NDE63L</td>
       <td>7.1.0</td>
@@ -132,6 +146,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/sailfish-ota-nde63l-8223118b.zip">Full OTA Image</a></td>
       <td>SHA256: 8223118bd7ca7c53e063a5d7539c93223514073dbf7c967a6fe0eae11dfae344</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_sailfish_sailfish/d9553d1942058aa0df748dba2d040a4503aa39a1.zip">OTA Update to NDE63V</a></td>
+      <td>SHA1: d9553d1942058aa0df748dba2d040a4503aa39a1</td>
     </tr>
     <tr class="first">
       <td>NDE63P</td>
@@ -195,6 +216,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-nde63v-272853b5.zip">Full OTA Image</a></td>
       <td>SHA256: 272853b51eefde37e7a8b159f4f4d1ccb125c56da2b81708d6451a5e4d970ecf</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_marlin_marlin/8926e2be4193ef7aed56c37a631a782272169879.zip">Full OTA Image</a></td>
+      <td>SHA1: 8926e2be4193ef7aed56c37a631a782272169879</td>
+    </tr>
     <tr class="first">
       <td>NDE63U</td>
       <td>7.1.0</td>
@@ -221,6 +249,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-nde63h-0c0ed502.zip">Full OTA Image</a></td>
       <td>SHA256: 0c0ed502c19913c3a328eafe4e8142cbda1325be18a377e6e4122b486763e1c8</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_marlin_marlin/1448ae8e114c07e219b779f67fd04d2ab4bbc75e.zip">OTA Update to NDE63V</a></td>
+      <td>SHA1: 1448ae8e114c07e219b779f67fd04d2ab4bbc75e</td>
+    </tr>
     <tr class="first">
       <td>NDE63L</td>
       <td>7.1.0</td>
@@ -234,6 +269,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-nde63l-205d22e7.zip">Full OTA Image</a></td>
       <td>SHA256: 205d22e797998ce5aa4ad3c877a09900c3f55067c0b2dfd8661de441a2db786d</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_marlin_marlin/c958fb238910a59242976d7f67c201f73f555670.zip">OTA Update to NDE63V</a></td>
+      <td>SHA1: c958fb238910a59242976d7f67c201f73f555670</td>
+    </tr>
     <tr class="first">
       <td>NDE63P</td>
       <td>7.1.0</td>
@@ -246,6 +288,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-nde63p-20858ae7.zip">Full OTA Image</a></td>
       <td>SHA256: 20858ae7151f25963bf1a5b1bb54d3129fec9f3766e8e29ad2982bf8c80d8244</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_marlin_marlin/6433fdddbcdd611665d1c36e6ec7aedaa7077dc4.zip">OTA Update to NDE63V</a></td>
+      <td>SHA1: 6433fdddbcdd611665d1c36e6ec7aedaa7077dc4</td>
     </tr>
   </tbody>
 </table>
@@ -3002,6 +3051,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/fugu-ota-nrd91d-647860d6.zip">Full OTA Image</a></td>
       <td>SHA256: 647860d6462cea38b926b25c125fe6bcbc7476e83f8ba0089ea33e35986fc7e4</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_fugu_fugu/68651165d91227f950987be1bec65f6285192ba7.zip">OTA Update to NRD91N</a></td>
+      <td>SHA1: 68651165d91227f950987be1bec65f6285192ba7</td>
+    </tr>
     <tr class="first">
       <td>NRD90R</td>
       <td>7.0.0</td>
@@ -4145,6 +4201,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/volantis-ota-nrd91d-f88a707f.zip">Full OTA Image</a></td>
       <td>SHA256: f88a707f06b531cc2b5fa8fde4379b940ae4ed5f8d3cd3d5a3984fd2edfee890</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_flounder_volantis/fdab19e585e3fad88002a3cdedf7cc94d45698ab.zip">OTA Update to NRD91N</a></td>
+      <td>SHA1: fdab19e585e3fad88002a3cdedf7cc94d45698ab</td>
     </tr>
     <tr class="first">
       <td>NRD90R</td>
