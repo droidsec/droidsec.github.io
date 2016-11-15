@@ -755,6 +755,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-nbd90x-78b5a5f8.zip">Full OTA Image</a></td>
       <td>SHA256: 78b5a5f8a794ccec0015d63e6762bae019b5ff43cfac7688d53ac87d49f7fbb0</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_angler_angler/0afcdc0c9ed6e8d0ed7c3145dba600638a5b0f7a.zip">OTA Update to NBD91K</a></td>
+      <td>SHA1: 0afcdc0c9ed6e8d0ed7c3145dba600638a5b0f7a</td>
+    </tr>
     <tr class="first">
       <td>NRD90U</td>
       <td>7.0.0</td>
