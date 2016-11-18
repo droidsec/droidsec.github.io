@@ -1299,6 +1299,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-ota-nbd90w-5b7cbeb8.zip">Full OTA Image</a></td>
       <td>SHA256: 5b7cbeb8efd9391e1585d2494bb2f4a659882c0871d4d35a4da98d214d958d81</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_bullhead_bullhead/a14409d4da46fae8ed39105c14bd6aa1f18978ec.zip">OTA Update to N5D91L</a></td>
+      <td>SHA1: a14409d4da46fae8ed39105c14bd6aa1f18978ec</td>
+    </tr>
     <tr class="first">
       <td>NRD90S</td>
       <td>7.0.0</td>
