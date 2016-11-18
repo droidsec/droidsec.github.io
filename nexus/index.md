@@ -1261,7 +1261,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NRD91N</div></td>
+      <td><div class="current">N5D91L</div></td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/bullhead-n5d91l-factory-7151a923.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 7151a9237e64b64f53e50684bc1e0cef5143a40aebf74d4906425edf06f2ed89</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/bullhead-ota-n5d91l-b2644ba5.zip">Full OTA Image</a></td>
+      <td>SHA256: b2644ba541d725a7d9ebbb5fb5069816c9a1fd57faa07f66c68899646cbe8b08</td>
+    </tr>
+    <tr class="first">
+      <td>NRD91N</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-nrd91n-factory-7a2e3942.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 7a2e3942c5963e51ce31ad5cedcb0a634d3c258c85188e4c273c903fa1cece14</td>
