@@ -1855,6 +1855,13 @@ Jump to a specific device:<br />
       <td><a href="https://android.googleapis.com/packages/ota/google_shamu_shamu/30e579c5ef18e24ece3adefe7fa9f84e33feda8e.zip">Full OTA Image</a></td>
       <td>SHA1: 30e579c5ef18e24ece3adefe7fa9f84e33feda8e</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_shamu_shamu/12d386b532a3c37c0e5cdd9340193d5ec0435886.zip">OTA Update to NBD91P</a></td>
+      <td>SHA1: 12d386b532a3c37c0e5cdd9340193d5ec0435886</td>
+    </tr>
     <tr class="first">
       <td>MOB31H</td>
       <td>6.0.1</td>
