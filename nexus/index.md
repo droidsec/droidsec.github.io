@@ -418,6 +418,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/ryu-ota-nrd91n-de36f08b.zip">Full OTA Image</a></td>
       <td>SHA256: de36f08b18db2847b8597fbc95921fced971dd2ac2f71055ac7efa7d09420b67</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_dragon_ryu/18da0fe23cd709cb5ed592c80258d1c30f351893.zip">OTA Update to NMF26H</a></td>
+      <td>SHA1: 18da0fe23cd709cb5ed592c80258d1c30f351893</td>
+    </tr>
     <tr class="first">
       <td>NRD91D</td>
       <td>7.0.0</td>
@@ -793,6 +800,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-nbd91k-32c2eac8.zip">Full OTA Image</a></td>
       <td>SHA256: 32c2eac8b2d8186e97aeb8914a49f2c378fa9fb1178bc73ddc81ba2590a06b52</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota/google_angler_angler/443b3bb7b854b439c76af4d0266ee87e4cc77137.zip">OTA Update to NMF26F</a></td>
+      <td>SHA1: 443b3bb7b854b439c76af4d0266ee87e4cc77137</td>
     </tr>
     <tr class="first">
       <td>NBD90X</td>
@@ -1325,6 +1339,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-ota-nmf26f-27b4075c.zip">Full OTA Image</a></td>
       <td>SHA256: 27b4075c09857058a24b02d790014be6c2fe7ee2fd5fb5abc80736463eb4c5b5</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_bullhead_bullhead/787c9918530955c104f7e093b90de60c20edc565.zip">Full OTA Image</a></td>
+      <td>SHA1: 787c9918530955c104f7e093b90de60c20edc565</td>
+    </tr>
     <tr class="first">
       <td>NRD91P</td>
       <td>7.0.0</td>
@@ -1350,6 +1371,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-ota-n5d91l-b2644ba5.zip">Full OTA Image</a></td>
       <td>SHA256: b2644ba541d725a7d9ebbb5fb5069816c9a1fd57faa07f66c68899646cbe8b08</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_bullhead_bullhead/82ddedfae3ac6b62a023d154d40f0c7e5ebaca57.zip">OTA Update to NMF26F</a></td>
+      <td>SHA1: 82ddedfae3ac6b62a023d154d40f0c7e5ebaca57</td>
     </tr>
     <tr class="first">
       <td>NRD91N</td>
@@ -3189,6 +3217,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/fugu-ota-nrd91n-f340b315.zip">Full OTA Image</a></td>
       <td>SHA256: f340b3154b60fb5b402a1ca92eba6da4bef1180559458726484b682e783fbd14</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_fugu_fugu/d61d68c09a4daa903854828c320812c0cc3b6e0b.zip">OTA Update to NMF26J</a></td>
+      <td>SHA1: d61d68c09a4daa903854828c320812c0cc3b6e0b</td>
+    </tr>
     <tr class="first">
       <td>NRD91D</td>
       <td>7.0.0</td>
@@ -4365,6 +4400,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/volantis-ota-nrd91n-0319bbd6.zip">Full OTA Image</a></td>
       <td>SHA256: 0319bbd6c08e8e941d7d74069f8c71fbd4c4c6934411926f7a06cc0ceb646647</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_flounder_volantis/4049ce245701c4f6a743f0fda97e3a4ae25222bb.zip">OTA Update to NMF26F</a></td>
+      <td>SHA1: 4049ce245701c4f6a743f0fda97e3a4ae25222bb</td>
     </tr>
     <tr class="first">
       <td>NRD91D</td>
