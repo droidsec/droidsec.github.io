@@ -4994,7 +4994,7 @@ Jump to a specific device:<br />
 
 <a name="hammerhead"></a>
 <h2>"hammerhead" for Nexus 5</h2>
-<div class="current">This device is currently being supported by Google.</div><table>
+<div class="unsupported">WARNING! This device is no longer being supported by Google and thus is vulnerable to a multitude of publicly disclosed security issues.</div><table>
   <thead>
     <tr class="hdr">
       <th>Build</th>
