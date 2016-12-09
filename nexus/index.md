@@ -5005,7 +5005,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">M4B30X</div></td>
+      <td><div class="current">M4B30Z</div></td>
+      <td>6.0.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/hammerhead-m4b30z-factory-625c027b.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 625c027b21afe6de7c3d0de66e3a42000269dd00c2ef9a5347007734537f3ea2</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/hammerhead-ota-m4b30z-752c16b1.zip">Full OTA Image</a></td>
+      <td>SHA256: 752c16b1f819d051d1d11ebd5be001c6118abbb0e31d099c6a286dbd30342f67</td>
+    </tr>
+    <tr class="first">
+      <td>M4B30X</td>
       <td>6.0.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/hammerhead-m4b30x-factory-10cfaa5c.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 10cfaa5c8ff1753af20283f5e5f938ddebbad094c4e22aadbd925ecdc806e8b3</td>
