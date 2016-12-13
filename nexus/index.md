@@ -69,7 +69,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NMF26O</div></td>
+      <td><div class="current">NMF26Q</div></td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-nmf26q-factory-a84e0e4b.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: a84e0e4b2f80bf8b88857cbde28e0617380a94590dcfc24713aa1bc1ec3671fb</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-ota-nmf26q-6478188a.zip">Full OTA Image</a></td>
+      <td>SHA256: 6478188a18919c8e856ade7668d571edf870ef6d2f314074a7fe787fbbc0da8a</td>
+    </tr>
+    <tr class="first">
+      <td>NMF26O</td>
       <td>7.1.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/sailfish-nmf26o-factory-58719f26.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 58719f26685322bc1c7bc0a313746ceaec6772499913fc671d58f4f0150a9278</td>
@@ -239,7 +252,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NMF26O</div></td>
+      <td><div class="current">NMF26Q</div></td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-nmf26q-factory-5d515cbc.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 5d515cbc8d5b98bc36375355ef34af73e27afdfd0a1f7f0bde6ca8fe4cca6564</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-nmf26q-2337023a.zip">Full OTA Image</a></td>
+      <td>SHA256: 2337023a7a51e166fd05d672f85486bf686d9f113dfc78754e5494b435ce9863</td>
+    </tr>
+    <tr class="first">
+      <td>NMF26O</td>
       <td>7.1.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/marlin-nmf26o-factory-4f68765c.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 4f68765c108fc3d45ece7bca8e873561e29c5ee83c8671f1b7785f57a8888070</td>
