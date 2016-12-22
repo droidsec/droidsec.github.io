@@ -94,6 +94,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/sailfish-ota-nmf26o-3e7c4b66.zip">Full OTA Image</a></td>
       <td>SHA256: 3e7c4b669b7eee6991c2b6583332da95f7bb07caee55c9aece0a706cd75e3ba4</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_sailfish_sailfish/dead1caab713a92c1d1802e664b06ce4149ead76.zip">Full OTA Image</a></td>
+      <td>SHA1: dead1caab713a92c1d1802e664b06ce4149ead76</td>
+    </tr>
     <tr class="first">
       <td>NDE63X</td>
       <td>7.1.0</td>
@@ -276,6 +283,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-nmf26o-54bb505e.zip">Full OTA Image</a></td>
       <td>SHA256: 54bb505e0144abdce6e8b2d185bbc633e01ce81d45730594ae49441cedb56bdd</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_marlin_marlin/2fa4d1eedc627d06d1bc428868372c23db8af033.zip">Full OTA Image</a></td>
+      <td>SHA1: 2fa4d1eedc627d06d1bc428868372c23db8af033</td>
     </tr>
     <tr class="first">
       <td>NDE63X</td>
@@ -3929,6 +3943,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/volantisg-ota-nrd91n-0a631340.zip">Full OTA Image</a></td>
       <td>SHA256: 0a6313402f7d9b4f786c12e6db448bbebd73f5cc5a551aefd04ef82895c41115</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_flounderlte_volantisg/fd4c3b9d45328c7d147ed796dc3bf8eae6fedea4.zip">OTA Update to NMF26F</a></td>
+      <td>SHA1: fd4c3b9d45328c7d147ed796dc3bf8eae6fedea4</td>
+    </tr>
     <tr class="first">
       <td>NRD90R</td>
       <td>7.0.0</td>
@@ -3962,6 +3983,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://android.googleapis.com/packages/ota/google_flounderlte_volantisg/99273f2e9a8ba3a541ca90d027ceee110dc0b45c.zip">OTA Update to NRD91D</a></td>
       <td>SHA1: 99273f2e9a8ba3a541ca90d027ceee110dc0b45c</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_flounderlte_volantisg/5fe488ed51c5c0be14b60d091080d42638c564e4.zip">OTA Update to NMF26F</a></td>
+      <td>SHA1: 5fe488ed51c5c0be14b60d091080d42638c564e4</td>
     </tr>
     <tr class="first">
       <td>MOB31E</td>
