@@ -2125,7 +2125,33 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NBD91U</div></td>
+      <td><div class="current">N6F26Q</div></td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-n6f26q-factory-460b565b.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 460b565b5939e29cd74811392f12690a0bb9fc8ced172df13935248e3f9f657b</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-n6f26q-f4492864.zip">Full OTA Image</a></td>
+      <td>SHA256: f44928649c6eaff46f13c36bc34dea4fe926aac5e1077e874e319dd1329173fb</td>
+    </tr>
+    <tr class="first">
+      <td>NBD91X</td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-nbd91x-factory-f653ffea.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: f653ffeabf1a2ef0d1c8b7b9cf85511198fcf5a2961982dc030d8f82b3830540</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-nbd91x-c809432c.zip">Full OTA Image</a></td>
+      <td>SHA256: c809432ce6fae530b02b74051f1accb5042840cf00a4d792dfb1a236eba9cd2b</td>
+    </tr>
+    <tr class="first">
+      <td>NBD91U</td>
       <td>7.0.0</td>
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-nbd91u-factory-1aca1562.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 1aca15622a90922a37a8b0071c60edabe241e72303c23219ce9d4f1e5a67f6a1</td>
