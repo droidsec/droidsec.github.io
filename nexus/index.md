@@ -127,6 +127,13 @@ Jump to a specific device:<br />
       <td><a href="https://android.googleapis.com/packages/ota/google_sailfish_sailfish/dead1caab713a92c1d1802e664b06ce4149ead76.zip">Full OTA Image</a></td>
       <td>SHA1: dead1caab713a92c1d1802e664b06ce4149ead76</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota/google_sailfish_sailfish/8ee38294041837b0d077b53e1c19afd374bfa23d.zip">OTA Update to NMF26U</a></td>
+      <td>SHA1: 8ee38294041837b0d077b53e1c19afd374bfa23d</td>
+    </tr>
     <tr class="first">
       <td>NDE63X</td>
       <td>7.1.0</td>
@@ -342,6 +349,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://android.googleapis.com/packages/ota/google_marlin_marlin/2fa4d1eedc627d06d1bc428868372c23db8af033.zip">Full OTA Image</a></td>
       <td>SHA1: 2fa4d1eedc627d06d1bc428868372c23db8af033</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota/google_marlin_marlin/99fb078aa930bd0c7f4d7a5ac1c18e1b679bfabb.zip">OTA Update to NMF26U</a></td>
+      <td>SHA1: 99fb078aa930bd0c7f4d7a5ac1c18e1b679bfabb</td>
     </tr>
     <tr class="first">
       <td>NDE63X</td>
@@ -586,6 +600,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://android.googleapis.com/packages/ota/google_dragon_ryu/dd301314a565b84070444c9e18f0300685bbdb85.zip">Full OTA Image</a></td>
       <td>SHA1: dd301314a565b84070444c9e18f0300685bbdb85</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_dragon_ryu/3d061b3e40ea9934c861b9847444b6c11275d3bb.zip">OTA Update to N4F26I</a></td>
+      <td>SHA1: 3d061b3e40ea9934c861b9847444b6c11275d3bb</td>
     </tr>
     <tr class="first">
       <td>NRD91N</td>
@@ -1009,6 +1030,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://ota.googlezip.net/packages/ota/google_angler_angler/2dee5d2c56cda7b08908976e0f9a9004e0634e61.zip">Full OTA Image</a></td>
       <td>SHA1: 2dee5d2c56cda7b08908976e0f9a9004e0634e61</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota/google_angler_angler/aada42a9d4ae7f153f1296803bfbac652ce6d1de.zip">OTA Update to N4F26I</a></td>
+      <td>SHA1: aada42a9d4ae7f153f1296803bfbac652ce6d1de</td>
     </tr>
     <tr class="first">
       <td>NBD91K</td>
@@ -1580,6 +1608,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://android.googleapis.com/packages/ota/google_bullhead_bullhead/787c9918530955c104f7e093b90de60c20edc565.zip">Full OTA Image</a></td>
       <td>SHA1: 787c9918530955c104f7e093b90de60c20edc565</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota/google_bullhead_bullhead/de8a767361617ff33ce84cc731ae29f428c57ca2.zip">OTA Update to N4F26I</a></td>
+      <td>SHA1: de8a767361617ff33ce84cc731ae29f428c57ca2</td>
     </tr>
     <tr class="first">
       <td>NRD91P</td>
@@ -3485,6 +3520,13 @@ Jump to a specific device:<br />
       <td><a href="https://android.googleapis.com/packages/ota/google_fugu_fugu/08fcc21501600b32a54a85f7797d280b9b90af56.zip">Full OTA Image</a></td>
       <td>SHA1: 08fcc21501600b32a54a85f7797d280b9b90af56</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_fugu_fugu/10491e0ddfba53a572111f24064ffaac7e998d0b.zip">OTA Update to NMF26R</a></td>
+      <td>SHA1: 10491e0ddfba53a572111f24064ffaac7e998d0b</td>
+    </tr>
     <tr class="first">
       <td>NRD91N</td>
       <td>7.0.0</td>
@@ -4695,6 +4737,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/volantis-ota-nmf26f-de961a3c.zip">Full OTA Image</a></td>
       <td>SHA256: de961a3cdc899c8dbe5dd2539c23c2c0d2e3bd1e2e42ff894ec5a168ff3901bd</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_flounder_volantis/3906ca81c5890fc4a0d1c047357ab42428dbe5c7.zip">OTA Update to N4F26M</a></td>
+      <td>SHA1: 3906ca81c5890fc4a0d1c047357ab42428dbe5c7</td>
     </tr>
     <tr class="first">
       <td>NRD91N</td>
