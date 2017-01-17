@@ -221,6 +221,13 @@ Jump to a specific device:<br />
       <td><a href="https://android.googleapis.com/packages/ota/google_sailfish_sailfish/eadaa9ce980bc6dbbdf48a4fc8e1b34c841cf729.zip">OTA Update to NMF26O</a></td>
       <td>SHA1: eadaa9ce980bc6dbbdf48a4fc8e1b34c841cf729</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota/google_sailfish_sailfish/ec2850c958ab03d3894cee57a962bb6bf1dde462.zip">OTA Update to NMF26U</a></td>
+      <td>SHA1: ec2850c958ab03d3894cee57a962bb6bf1dde462</td>
+    </tr>
     <tr class="first">
       <td>NDE63L</td>
       <td>7.1.0</td>
@@ -248,6 +255,13 @@ Jump to a specific device:<br />
       <td><a href="https://android.googleapis.com/packages/ota/google_sailfish_sailfish/56455923f4f06140bea763db36abad2d13be6cb7.zip">OTA Update to NMF26O</a></td>
       <td>SHA1: 56455923f4f06140bea763db36abad2d13be6cb7</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota/google_sailfish_sailfish/baf00643bd516d620025683ab710ed4ca14c804a.zip">OTA Update to NMF26U</a></td>
+      <td>SHA1: baf00643bd516d620025683ab710ed4ca14c804a</td>
+    </tr>
     <tr class="first">
       <td>NDE63P</td>
       <td>7.1.0</td>
@@ -274,6 +288,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://android.googleapis.com/packages/ota/google_sailfish_sailfish/163e281b05767979e555a4dbb800dfd787c48f7b.zip">OTA Update to NMF26O</a></td>
       <td>SHA1: 163e281b05767979e555a4dbb800dfd787c48f7b</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota/google_sailfish_sailfish/137d7e6873f2eff236fcd1fb097adbcc13b74cc8.zip">OTA Update to NMF26U</a></td>
+      <td>SHA1: 137d7e6873f2eff236fcd1fb097adbcc13b74cc8</td>
     </tr>
   </tbody>
 </table>
@@ -444,6 +465,13 @@ Jump to a specific device:<br />
       <td><a href="https://android.googleapis.com/packages/ota/google_marlin_marlin/868ecdfdf836b52d16a1d81170600f2c4d53fe8f.zip">OTA Update to NMF26O</a></td>
       <td>SHA1: 868ecdfdf836b52d16a1d81170600f2c4d53fe8f</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota/google_marlin_marlin/b5d9fc099caa820fa434e29a12110deafebe0fd9.zip">OTA Update to NMF26U</a></td>
+      <td>SHA1: b5d9fc099caa820fa434e29a12110deafebe0fd9</td>
+    </tr>
     <tr class="first">
       <td>NDE63L</td>
       <td>7.1.0</td>
@@ -471,6 +499,13 @@ Jump to a specific device:<br />
       <td><a href="https://android.googleapis.com/packages/ota/google_marlin_marlin/ab9128b382a54ad4bee99ad1880aa7a2cbe946e9.zip">OTA Update to NMF26O</a></td>
       <td>SHA1: ab9128b382a54ad4bee99ad1880aa7a2cbe946e9</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota/google_marlin_marlin/35167bb3f5ff6f49f4e09446de58cf8cf90be78b.zip">OTA Update to NMF26U</a></td>
+      <td>SHA1: 35167bb3f5ff6f49f4e09446de58cf8cf90be78b</td>
+    </tr>
     <tr class="first">
       <td>NDE63P</td>
       <td>7.1.0</td>
@@ -497,6 +532,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://android.googleapis.com/packages/ota/google_marlin_marlin/c401b1240f54a1055a8fee13cf8de5cd0bd08e96.zip">OTA Update to NMF26O</a></td>
       <td>SHA1: c401b1240f54a1055a8fee13cf8de5cd0bd08e96</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota/google_marlin_marlin/183bdd867b6f8275e7a30e1037896153b6d83dba.zip">OTA Update to NMF26U</a></td>
+      <td>SHA1: 183bdd867b6f8275e7a30e1037896153b6d83dba</td>
     </tr>
   </tbody>
 </table>
