@@ -4791,6 +4791,13 @@ Jump to a specific device:<br />
     <tr>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_flounder_volantis/d1a4e6768fbf80ae801f691fe9641ad2d8382f31.zip">Full OTA Image</a></td>
+      <td>SHA1: d1a4e6768fbf80ae801f691fe9641ad2d8382f31</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
       <td><a href="https://android.googleapis.com/packages/ota/google_flounder_volantis/3906ca81c5890fc4a0d1c047357ab42428dbe5c7.zip">OTA Update to N4F26M</a></td>
       <td>SHA1: 3906ca81c5890fc4a0d1c047357ab42428dbe5c7</td>
     </tr>
@@ -5442,6 +5449,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/hammerhead-ota-m4b30x-f2eb90a8.zip">Full OTA Image</a></td>
       <td>SHA256: f2eb90a8da6bb28731dbcd72b47b2e228720cb815954614f707d421751c02881</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_hammerhead/aa72b653afdaccb053f16850f1721f3642ea0efb.zip">OTA Update to M4B30Z</a></td>
+      <td>SHA1: aa72b653afdaccb053f16850f1721f3642ea0efb</td>
     </tr>
     <tr class="first">
       <td>MOB31E</td>
