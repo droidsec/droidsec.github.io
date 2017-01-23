@@ -2240,6 +2240,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-nbd91u-344a7338.zip">Full OTA Image</a></td>
       <td>SHA256: 344a7338c1aca94b769946b4392bb14356ef7bd66ad66ba649eac4cee4a2b4c4</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_shamu_shamu/043dcf8ca934e2ad7a6bff1df7e62eee4a4a861a.zip">OTA Update to NBD91X</a></td>
+      <td>SHA1: 043dcf8ca934e2ad7a6bff1df7e62eee4a4a861a</td>
+    </tr>
     <tr class="first">
       <td>NBD91S</td>
       <td>7.0.0</td>
