@@ -2202,7 +2202,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">N6F26Q</div></td>
+      <td><div class="current">MOB31S</div></td>
+      <td>6.0.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-mob31s-factory-c73a35ef.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: c73a35efb3e089177f94f758de9dff8fde0df77c27bb26be4cc876ee47d0d171</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-mob31s-cb600f3e.zip">Full OTA Image</a></td>
+      <td>SHA256: cb600f3ebc170e928e76fbf9314d796b00e6e4720e316271fde57c74495e3b02</td>
+    </tr>
+    <tr class="first">
+      <td>N6F26Q</td>
       <td>7.1.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-n6f26q-factory-460b565b.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 460b565b5939e29cd74811392f12690a0bb9fc8ced172df13935248e3f9f657b</td>
