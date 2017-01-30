@@ -400,7 +400,7 @@ members:
     github: haykuro
     title: Security Researcher, Software Engineer
     bio: Good at computers. "He can unjam the printer really fast."
- 
+
   citypw:
     name: Shawn C
     display_name: citypw
@@ -411,3 +411,14 @@ members:
     github: citypw
     title: Security consultant, Coder
     bio: Doing FLOSS( Free/Libre & Open Source) security consulting by building defensive solution for GNU/Linux/Android security. Founder of HardenedLinux( https://github.com/hardenedlinux).
+
+  tykoth:
+    name: Thiago Bocchile
+    display_name: tykoth
+    gravatar: c0347d045abc22f31328d2b0abd19d9f
+    email: tykoth[at]gmail[dot]com
+    web: https://github.com/tykoth
+    twitter: tykoth
+    github: tykoth
+    title: Software Developer, AI Researcher and Game Producer
+    bio: I like to study and code. 
