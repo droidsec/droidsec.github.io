@@ -69,7 +69,33 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NMF26V</div></td>
+      <td><div class="current">NOF26W</div></td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-nof26w-factory-277fc900.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 277fc9006dca8b34bfc616b4bf83626d84271f7555e2c1aa41248cd68d481e13</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-ota-nof26w-1b59bd54.zip">Full OTA Image</a></td>
+      <td>SHA256: 1b59bd54f76fa231c083a682483488dcf9bd53b91fbdb4448d3197bf2c230d55</td>
+    </tr>
+    <tr class="first">
+      <td>NOF26V</td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-nof26v-factory-65092b38.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 65092b3813a769483af3b810635452c8e016b19f71c1920a8c33711ab875b84f</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-ota-nof26v-4bbb310d.zip">Full OTA Image</a></td>
+      <td>SHA256: 4bbb310d98c028e9a90a063d59b811ca207abeeb88e98bb726784035295d8a3a</td>
+    </tr>
+    <tr class="first">
+      <td>NMF26V</td>
       <td>7.1.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/sailfish-nmf26v-factory-8ba1f89e.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 8ba1f89e1db6cf9a770abc065a63db96ac9ac00613a7ec088ccb35440feb645e</td>
@@ -313,7 +339,33 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NMF26V</div></td>
+      <td><div class="current">NOF26W</div></td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-nof26w-factory-d2cb0574.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: d2cb05747fbd11e2590faf3c4675bd32e61e5aa401d7548786ef0fed17096968</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-nof26w-591f4655.zip">Full OTA Image</a></td>
+      <td>SHA256: 591f4655b4d1be3472629e5701b041d1b9f4f68e698b73eeb7e9bdbedbb703d8</td>
+    </tr>
+    <tr class="first">
+      <td>NOF26V</td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-nof26v-factory-1dce14a1.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 1dce14a1cde69ac72e14894c980a823920885c78410d8f1b431565517a56e72f</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-nof26v-51079639.zip">Full OTA Image</a></td>
+      <td>SHA256: 5107963915c386d48b99fe60a2adb34e7910277d46a9c4317f21a17b2aef20b4</td>
+    </tr>
+    <tr class="first">
+      <td>NMF26V</td>
       <td>7.1.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/marlin-nmf26v-factory-e6bda208.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: e6bda2087d010f86589e799dae19d56d7beff307251bd2820693cfac360e65e8</td>
@@ -611,7 +663,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">N4F26I</div></td>
+      <td><div class="current">N4F26O</div></td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/ryu-n4f26o-factory-307fc15e.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 307fc15eac81233b93ced1bd87570c891ad0ca4290288e56cadd750d9f544e1d</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/ryu-ota-n4f26o-3e34a8bf.zip">Full OTA Image</a></td>
+      <td>SHA256: 3e34a8bf98c96df4f04bfd6b1c8a437dea651d5e03dbd2085fbc013788d097d4</td>
+    </tr>
+    <tr class="first">
+      <td>N4F26I</td>
       <td>7.1.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/ryu-n4f26i-factory-2aa98ca1.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 2aa98ca14987da8229eca8210bc1c15b4fbba75abe25dfec0f4e8583af024d9a</td>
@@ -1028,7 +1093,33 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">N4F26J</div></td>
+      <td><div class="current">NUF26K</div></td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/angler-nuf26k-factory-bde381d4.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: bde381d45306c6adfcbb0c14c5e0603b0230a1a983a2492b0117197efa263143</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-nuf26k-baec5b5e.zip">Full OTA Image</a></td>
+      <td>SHA256: baec5b5e037c056acc677b85ae4ae3f925015bd7d930ae053bd0ae4d100585b3</td>
+    </tr>
+    <tr class="first">
+      <td>N4F26O</td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/angler-n4f26o-factory-c53f0a50.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: c53f0a502154f4e78884d6b39041a2a7adda89c928c3681e0d613a34b864ff13</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-n4f26o-6a853f19.zip">Full OTA Image</a></td>
+      <td>SHA256: 6a853f192bd0568f568d2caae523da1a4ef16d5438eb25481fd2f2225a84e8ae</td>
+    </tr>
+    <tr class="first">
+      <td>N4F26J</td>
       <td>7.1.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/angler-n4f26j-factory-01874fd6.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 01874fd682f11ee513242fa5c75a15c52f97371b1c06a8795bf288fc913ef7bb</td>
@@ -1619,7 +1710,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">N4F26I</div></td>
+      <td><div class="current">N4F26O</div></td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/bullhead-n4f26o-factory-1da5304e.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 1da5304e52c43ae0fad1828fce9b60656b3c0613120a43f97d1101e857fdef75</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/bullhead-ota-n4f26o-6624f529.zip">Full OTA Image</a></td>
+      <td>SHA256: 6624f52963cab4022ad421a067b682476dd35c5b8087e4df0984f2f622db0e4d</td>
+    </tr>
+    <tr class="first">
+      <td>N4F26I</td>
       <td>7.1.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-n4f26i-factory-03896e0a.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 03896e0adb2ed6b19f0e3b8554763e48a16d9239449724c9a483cb69f6db93f7</td>
@@ -2202,7 +2306,46 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">MOB31S</div></td>
+      <td><div class="current">NBD91Z</div></td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-nbd91z-factory-ffb1f6a6.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: ffb1f6a6beb63fb932c86cc329c59038f4e49254316dcf2d825376e77beb5a48</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-nbd91z-aa71753c.zip">Full OTA Image</a></td>
+      <td>SHA256: aa71753cdc5ed805f1134cadb99761bb16da164abd1c99394845959986b70152</td>
+    </tr>
+    <tr class="first">
+      <td>NBD91Y</td>
+      <td>7.0.0</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-nbd91y-factory-7e2f4915.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 7e2f49150a570961f6e0a28083d9f932b2ff401af983c6b02e898bcd9bd4be18</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-nbd91y-92882eed.zip">Full OTA Image</a></td>
+      <td>SHA256: 92882eed1864c9ae6646a2b64817388984fcedc65f1a57fcd780ac4b0ad86d89</td>
+    </tr>
+    <tr class="first">
+      <td>N6F26R</td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-n6f26r-factory-d68bd4ce.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: d68bd4ce70cd7d94a098d16e949c6677264cb699d36e8ee29acb7162103dfeee</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-n6f26r-f3fd968c.zip">Full OTA Image</a></td>
+      <td>SHA256: f3fd968c37e14a04a7163994dbdd8d9fc1902bec76343acf3527f6e9800f99b8</td>
+    </tr>
+    <tr class="first">
+      <td>MOB31S</td>
       <td>6.0.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-mob31s-factory-c73a35ef.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: c73a35efb3e089177f94f758de9dff8fde0df77c27bb26be4cc876ee47d0d171</td>
@@ -3550,7 +3693,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NMF26R</div></td>
+      <td><div class="current">NMF26X</div></td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/fugu-nmf26x-factory-ace86f3e.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: ace86f3e26d5b4d623dcf9a5629ca45b23c8da2c70bb8800535e0eec75519299</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/fugu-ota-nmf26x-dd6b5ed2.zip">Full OTA Image</a></td>
+      <td>SHA256: dd6b5ed238ffd1efc0cfb1096f6c4012c10743b2a3bf9ea91e60000f1b5d542c</td>
+    </tr>
+    <tr class="first">
+      <td>NMF26R</td>
       <td>7.1.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/fugu-nmf26r-factory-ab8fe2f8.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: ab8fe2f85e521640aaaeba566030175ea1d3fdf1b77c23537338d596146485ae</td>
@@ -4165,7 +4321,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NMF26F</div></td>
+      <td><div class="current">N4F26Q</div></td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/volantisg-n4f26q-factory-52cefc27.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 52cefc279dc73193125f7531c3e9a49852776411b41eca64b0095197d8471280</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/volantisg-ota-n4f26q-753c09a2.zip">Full OTA Image</a></td>
+      <td>SHA256: 753c09a2470ab95024b878830ac3a73b2f655e9ef573c773a65149ff3d0f1b1c</td>
+    </tr>
+    <tr class="first">
+      <td>NMF26F</td>
       <td>7.1.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/volantisg-nmf26f-factory-cb15d790.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: cb15d79007c1421b612fe6256268eb35c8ab2e7caa6ec4fa26be5b772bb5e117</td>
@@ -4775,7 +4944,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">N4F26M</div></td>
+      <td><div class="current">N4F26Q</div></td>
+      <td>7.1.1</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/volantis-n4f26q-factory-2207298d.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 2207298d3ef06cba1367a9e1fe4d7bf2483ed7e8dd6b735136ad9f448ec0ff3a</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/volantis-ota-n4f26q-c1d0968b.zip">Full OTA Image</a></td>
+      <td>SHA256: c1d0968b864889bea2e2b4ee179e5b9cfa414d468304132db9376c866f048d03</td>
+    </tr>
+    <tr class="first">
+      <td>N4F26M</td>
       <td>7.1.1</td>
       <td><a href="https://dl.google.com/dl/android/aosp/volantis-n4f26m-factory-c8b6741d.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: c8b6741d3327ecda89c8cd47625eff4ff213b3e00573e5fd291934b6979f06d1</td>
