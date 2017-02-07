@@ -688,6 +688,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/ryu-ota-n4f26i-c26b5ea4.zip">Full OTA Image</a></td>
       <td>SHA256: c26b5ea49025284364828e1b2aed83e000ab232de85e4f4e87ec8e09d917613b</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_dragon_ryu/ec8bab448012148a7c1199912865f8b7d378cc1c.zip">OTA Update to N4F26O</a></td>
+      <td>SHA1: ec8bab448012148a7c1199912865f8b7d378cc1c</td>
+    </tr>
     <tr class="first">
       <td>NMF26H</td>
       <td>7.1.1</td>
