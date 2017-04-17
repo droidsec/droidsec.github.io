@@ -2826,6 +2826,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-nbd92d-4f146eba.zip">Full OTA Image</a></td>
       <td>SHA256: 4f146ebac9c72ff3c268d2c74b982c34f807fcc09d4c2e0fa2fa9c97fbfa5bac</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_shamu_shamu/933961642a8f3e1bea12a9b4e30777537b6ba59d.zip">OTA Update to NBD92G</a></td>
+      <td>SHA1: 933961642a8f3e1bea12a9b4e30777537b6ba59d</td>
+    </tr>
     <tr class="first">
       <td>MOB31T</td>
       <td>6.0.1</td>
@@ -4947,6 +4954,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/volantisg-ota-n4f26t-441953ff.zip">Full OTA Image</a></td>
       <td>SHA256: 441953ff9c1198d53db4faa8dc88a7111325a9ff0b17d769d9312b69d9baea26</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_flounderlte_volantisg/32acbb26e8282fc1831b692c021da1c927f8af90.zip">OTA Update to N4F26X</a></td>
+      <td>SHA1: 32acbb26e8282fc1831b692c021da1c927f8af90</td>
+    </tr>
     <tr class="first">
       <td>N4F26Q</td>
       <td>7.1.1</td>
@@ -5616,6 +5630,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/volantis-ota-n4f26t-1d2abb81.zip">Full OTA Image</a></td>
       <td>SHA256: 1d2abb81d1a163dd8b897f46a8e0ab9d40129583f3c26025481bebccbdbc1457</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_flounder_volantis/b2046aab16ba59519702237ac5ad1393e5d75d49.zip">OTA Update to N4F26X</a></td>
+      <td>SHA1: b2046aab16ba59519702237ac5ad1393e5d75d49</td>
     </tr>
     <tr class="first">
       <td>N4F26Q</td>
