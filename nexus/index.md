@@ -69,7 +69,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">N2G47J</div></td>
+      <td><div class="current">NHG47K</div></td>
+      <td>7.1.2</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-nhg47k-factory-59f23c7a.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: 59f23c7a6e672337c4a5e4b98f240de63db7f2d161c08d05cf23ca92c31114c9</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/sailfish-ota-nhg47k-2abd5688.zip">Full OTA Image</a></td>
+      <td>SHA256: 2abd56882e4207b49b49e99d57456689c091ffe1fec3f03d1e51c952c89166cd</td>
+    </tr>
+    <tr class="first">
+      <td>N2G47J</td>
       <td>7.1.2</td>
       <td><a href="https://dl.google.com/dl/android/aosp/sailfish-n2g47j-factory-0a166464.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 0a1664643d721ebb6235b291ad6d2ce77c01286dfbd63469b0f43b331ab64bb1</td>
@@ -459,7 +472,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">N2G47J</div></td>
+      <td><div class="current">NHG47K</div></td>
+      <td>7.1.2</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-nhg47k-factory-fc027c3b.zip">Factory Image (ZIP)</a></td>
+      <td>SHA256: fc027c3b428914d1a52fae80d88f5d3fd4f7ce9ac055edaa571ae5afcb85044d</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-nhg47k-e96ce5e0.zip">Full OTA Image</a></td>
+      <td>SHA256: e96ce5e0f24d45ac8aad8be27866b9e2c66fa1f01bc74e70c4c234371f309c96</td>
+    </tr>
+    <tr class="first">
+      <td>N2G47J</td>
       <td>7.1.2</td>
       <td><a href="https://dl.google.com/dl/android/aosp/marlin-n2g47j-factory-503d88f5.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 503d88f556a481677ecaadb62e83fa3a2b73f103271b954f629838f45ea4168a</td>
