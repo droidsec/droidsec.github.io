@@ -602,6 +602,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-n2g47e-a3451543.zip">Full OTA Image</a></td>
       <td>SHA256: a3451543b281a7f4215e365b8f85d411ac0a7c45abaf96c6e6898b60a330064b</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_marlin_marlin/6ea1ccda14a13cd03ab763d27fd7047025a53d3f.zip">OTA Update to N2G47O</a></td>
+      <td>SHA1: 6ea1ccda14a13cd03ab763d27fd7047025a53d3f</td>
+    </tr>
     <tr class="first">
       <td>NOF27D</td>
       <td>7.1.1</td>
@@ -5884,6 +5891,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/volantis-ota-n4f26x-e2cc193d.zip">Full OTA Image</a></td>
       <td>SHA256: e2cc193d4bba9950447709069a663663eb02e3c833e5cede1b79fba2b569507b</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_flounder_volantis/386a2d9b117451ce6663081baa7fafd1ce9d586d.zip">OTA Update to N4F27B</a></td>
+      <td>SHA1: 386a2d9b117451ce6663081baa7fafd1ce9d586d</td>
     </tr>
     <tr class="first">
       <td>N4F26T</td>
