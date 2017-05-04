@@ -13,7 +13,7 @@ title: News
   <h1>News</h1>
 
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.blog.posts %}
     <li>
       <a class=post_title href="{{ post.url }}">{{ post.title }}</a><br />
       <span class=post_meta><span class=post_date>{{ post.date | date_to_string }}</span> by <span class=post_author>{{ post.author }}</span></span><br />
