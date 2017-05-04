@@ -3,7 +3,7 @@ layout: post
 title:  "December 2015 Android OTA Update Links"
 date:   2015-12-13 23:00:00
 author: jduck
-categories: news
+categories: news blog
 redirect_from:
  - /news/2015/12/08/nexus-ota-updates-december-2015.html
 ---
