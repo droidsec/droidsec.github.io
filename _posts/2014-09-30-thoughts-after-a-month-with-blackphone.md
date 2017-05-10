@@ -190,13 +190,11 @@ While using the Blackphone, the following changes from AOSP were observed:
 
 * The bootloader on the Blackphone is easily unlockable, but immediately re-locks itself after booting up.
 This is annoying when developing, but is a great feature for those that might forget to re-lock the bootloader.
-
 * The recovery mode on the device appears changed, but it's not clear how exactly at this point.
 First off, it's difficult to get into.
 To do so, you have to use "adb reboot recovery" or quickly hit Vol-Up and Vol-Dn after powering the device on.
 Once you get in to recovery mode, the buttons don't appear to do anything at all.
 This means no sideloading updates and so on.
-
 * Permissions handling code within the Android Framework must have been modified to support the Permissions Privacy feature.
 This is presumably the biggest change that Blackphone has made to AOSP.
 
