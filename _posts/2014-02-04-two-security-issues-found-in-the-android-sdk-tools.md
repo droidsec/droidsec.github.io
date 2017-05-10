@@ -170,7 +170,7 @@ Upon discovery, patches for both issues were developed and submitted to the Andr
 
 The patch for issue #1 was committed to Google's internal Android tree as part of an embargo scheduled for Februrary 1st, 2014. That date has since elapsed and Google has made no effort to coordinate by acknowledging our proposed date or proposing a different date. The patch for issue #1 is as follows:
 
-<o>
+<p>
 {% highlight diff %}
 diff --git a/adb/adb_client.c b/adb/adb_client.c
 index 8340738..ef0077b 100644
@@ -199,11 +199,10 @@ index 8340738..ef0077b 100644
 The patch submitted for issue #2 required being split in two and underwent several revisions before being accepted. One patch enables non-executable stack. The other enables position independent execution (PIE) for binary base randomization. Once accepted, the patches were merged into the aosp/master branch of the Android Open Source Project repository. More information, including links to Google's Gerrit code review system and the commits/patches themselves, follow:
 
 <ul>
-<li><a href="https://android-review.googlesource.com/#/c/72228/">Enable NX protections</a> / <a href="https://android.googlesource.com/platform/build/+/afb45637b2581be3501e520477b6b264fb2fed9e">afb45637b2581be3501e520477b6b264fb2fed9e</a>
+<li><a href="https://android-review.googlesource.com/#/c/72228/">Enable NX protections</a> (<a href="https://android.googlesource.com/platform/build/+/afb45637b2581be3501e520477b6b264fb2fed9e">afb4563</a>)
 </li>
 
-<li><a href="https://android-review.googlesource.com/#/c/72229/">Enable PIE for dynamically linked Linux host executables</a> / <br />
-<a href="https://android.googlesource.com/platform/build/+/b0eafa21b9ac578e279198b8650fafbee6b83dc3">b0eafa21b9ac578e279198b8650fafbee6b83dc3</a>
+<li><a href="https://android-review.googlesource.com/#/c/72229/">Enable PIE for dynamically linked Linux host executables</a> (<a href="https://android.googlesource.com/platform/build/+/b0eafa21b9ac578e279198b8650fafbee6b83dc3">b0eafa2</a>)
 </li>
 </ul>
 <p></p>
