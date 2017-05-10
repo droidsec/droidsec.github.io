@@ -209,7 +209,7 @@ The patch submitted for issue #2 required being split in two and underwent sever
 
 Credits
 -------
-Joshua J. Drake of <a href=http://www.droidsec.org/>droidsec.org</a> discovered and provided patches for these issues.
+Joshua J. Drake of [droidsec.org](http://www.droidsec.org/) discovered and provided patches for these issues.
 
 
 Timeline
