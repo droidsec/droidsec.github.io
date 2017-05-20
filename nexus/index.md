@@ -94,7 +94,7 @@ Jump to a specific device:<br />
       <td>SHA256: fabdd5f09f8c2d9a80d73aa64da518fda0daea3fe6d5881943761d79decb684c</td>
     </tr>
     <tr class="first">
-      <td>N2G47T</td>
+      <td><div class="current">N2G47T</div></td>
       <td>7.1.2</td>
       <td><a href="https://dl.google.com/dl/android/aosp/sailfish-n2g47t-factory-fecae045.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: fecae045bc1444880a2325207a25780770581eedf931c3a9c01aa46b1a670c68</td>
@@ -107,7 +107,7 @@ Jump to a specific device:<br />
       <td>SHA256: 88d76dfd8d4d55f164c0a6e413f6633539fc6527d4ae6798fa6cd6b1e64858a4</td>
     </tr>
     <tr class="first">
-      <td>N2G47O</td>
+      <td><div class="current">N2G47O</div></td>
       <td>7.1.2</td>
       <td><a href="https://dl.google.com/dl/android/aosp/sailfish-n2g47o-factory-f2bc8024.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: f2bc8024b015fdf1e79d0ae3da187cb0c371c7fd5a24e384abe75a0c7c1bdb41</td>
@@ -562,7 +562,7 @@ Jump to a specific device:<br />
       <td>SHA256: 1b06c59695031c8f70c7236208263fd367015f259b6dba5f1d3a060f487290c1</td>
     </tr>
     <tr class="first">
-      <td>N2G47T</td>
+      <td><div class="current">N2G47T</div></td>
       <td>7.1.2</td>
       <td><a href="https://dl.google.com/dl/android/aosp/marlin-n2g47t-factory-a25a7b1b.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: a25a7b1b3d0cc3bbacde793348ea7c35d5e89b7d6ae7c0dd2831a7715580e870</td>
@@ -575,7 +575,7 @@ Jump to a specific device:<br />
       <td>SHA256: fb903a4e9ad6ac89ba42425b85d6739d1dd433f55e8229bb6c48cd7d9882a6f6</td>
     </tr>
     <tr class="first">
-      <td>N2G47O</td>
+      <td><div class="current">N2G47O</div></td>
       <td>7.1.2</td>
       <td><a href="https://dl.google.com/dl/android/aosp/marlin-n2g47o-factory-7150cd63.zip">Factory Image (ZIP)</a></td>
       <td>SHA256: 7150cd63ebb56bdb518a9915116773f6541cea7f01540580151d2ceb0814b65d</td>
