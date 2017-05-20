@@ -2373,6 +2373,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-ota-n4f26u-a15b50b3.zip">Full OTA Image</a></td>
       <td>SHA256: a15b50b31223cc2832fc7c163b92e2d38a7b063b1a9742fafaf7dee383cdc73c</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota/google_bullhead_bullhead/3f9c429da7d87007ea826c26a816a14b79a42cac.zip">OTA Update to N2G47F</a></td>
+      <td>SHA1: 3f9c429da7d87007ea826c26a816a14b79a42cac</td>
+    </tr>
     <tr class="first">
       <td>OPP1.170223.012</td>
       <td>O</td>
