@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "A Simple Tool for Linux Kernel Audits"
-date:   2017-05-22 23:00:00
+date:   2017-05-22 10:00:00
 author: jduck
 categories: blogs
+redirect_from:
+ - /news/2017/05/22/simple-trick-for-working-with-the-linux-kernel.html
 ---
 
 In Android, the Linux kernel is the crux of security. It is responsible for enforcing access control to just about everything in the system. If an attacker can gain arbitrary code execution in kernel mode, they can bypass application sandboxing, access hardware directly, and more.
