@@ -193,6 +193,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/sailfish-ota-nhg47k-2abd5688.zip">Full OTA Image</a></td>
       <td>SHA256: 2abd56882e4207b49b49e99d57456689c091ffe1fec3f03d1e51c952c89166cd</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/8757469a6d7280155bceeccdd7031d1b056eb94f.zip">OTA Update to NHG47L</a></td>
+      <td>SHA1: 8757469a6d7280155bceeccdd7031d1b056eb94f</td>
+    </tr>
     <tr class="first">
       <td>N2G47J</td>
       <td>7.1.2</td>
@@ -720,6 +727,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-nhg47k-e96ce5e0.zip">Full OTA Image</a></td>
       <td>SHA256: e96ce5e0f24d45ac8aad8be27866b9e2c66fa1f01bc74e70c4c234371f309c96</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_marlin_marlin/928066002f55cfb3bbed3efa82d254c404ff4d1a.zip">OTA Update to NHG47L</a></td>
+      <td>SHA1: 928066002f55cfb3bbed3efa82d254c404ff4d1a</td>
+    </tr>
     <tr class="first">
       <td>N2G47J</td>
       <td>7.1.2</td>
@@ -732,6 +746,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-n2g47j-38b606eb.zip">Full OTA Image</a></td>
       <td>SHA256: 38b606ebe933074e3c650b84bf8da88162037b3fbbb44890affcb1b56d47f852</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_marlin_marlin/32a86fa962f7c635f11033cf67e38f7027e2d5fb.zip">OTA Update to NHG47L</a></td>
+      <td>SHA1: 32a86fa962f7c635f11033cf67e38f7027e2d5fb</td>
     </tr>
     <tr class="first">
       <td>N2G47E</td>
@@ -1857,6 +1878,13 @@ Jump to a specific device:<br />
       <td><a title="Verizon Only" href="https://dl.google.com/dl/android/aosp/angler-ota-nuf26k-baec5b5e.zip">Full OTA Image</a><sup>1</sup></td>
       <td>SHA256: baec5b5e037c056acc677b85ae4ae3f925015bd7d930ae053bd0ae4d100585b3</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_angler_angler/3dfc6420d1659165430e574b8fb0789f88afccd6.zip">OTA Update to NUF26N</a></td>
+      <td>SHA1: 3dfc6420d1659165430e574b8fb0789f88afccd6</td>
+    </tr>
     <tr class="first">
       <td>N4F26O</td>
       <td>7.1.1</td>
@@ -1889,6 +1917,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-n4f26j-36f7979e.zip">Full OTA Image</a></td>
       <td>SHA256: 36f7979e487c03117d7d6b39d6eeed627bc8f2916f3a33e04b3740510e87f8c3</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota/google_angler_angler/72236210a0fb367a53d8736c83496b32fda81a3e.zip">OTA Update to NUF26K</a></td>
+      <td>SHA1: 72236210a0fb367a53d8736c83496b32fda81a3e</td>
     </tr>
     <tr class="first">
       <td>N4F26I</td>
@@ -3320,6 +3355,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-mob31t-7cb1402d.zip">Full OTA Image</a></td>
       <td>SHA256: 7cb1402df13cfc10fed495728855e2241501eb660d085c9796379aadd34da80b</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_shamu_shamu/4c403d6ad902d1951217abd399429c3e0b12cd1a.zip">OTA Update to NBD92D</a></td>
+      <td>SHA1: 4c403d6ad902d1951217abd399429c3e0b12cd1a</td>
+    </tr>
     <tr class="first">
       <td>NBD91Z</td>
       <td>7.0.0</td>
@@ -3371,6 +3413,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-mob31s-cb600f3e.zip">Full OTA Image</a></td>
       <td>SHA256: cb600f3ebc170e928e76fbf9314d796b00e6e4720e316271fde57c74495e3b02</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_shamu_shamu/5698b7074ada8087c4e00496334f115b2ea4ce64.zip">OTA Update to MOB31T</a></td>
+      <td>SHA1: 5698b7074ada8087c4e00496334f115b2ea4ce64</td>
     </tr>
     <tr class="first">
       <td>N6F26Q</td>
@@ -3457,6 +3506,12 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/shamu-ota-nbd91p-884ad5e6.zip">Full OTA Image</a></td>
       <td>SHA256: 884ad5e6de93777c397abbd8c629c9337237bcde398be9d1a355ff6cbaf450d7</td>
+    </tr>
+    <tr class="first">
+      <td>NBD91L</td>
+      <td></td>
+      <td><a href="https://android.googleapis.com/packages/ota/google_shamu_shamu/4c00b89f44b1d9e05b1d7534451762f774e27abd.zip">Full OTA Image</a></td>
+      <td>SHA1: 4c00b89f44b1d9e05b1d7534451762f774e27abd</td>
     </tr>
     <tr class="first">
       <td>MOB31K</td>
