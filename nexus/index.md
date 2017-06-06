@@ -173,6 +173,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/sailfish-ota-n2g47o-2fa538ea.zip">Full OTA Image</a></td>
       <td>SHA256: 2fa538eaf866d0f641a6af0d8e71ca398efa16b9ba81feedc138cc1d658f54fd</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/66f44ab398d5c01e0c7fd951682a01d8d36a118a.zip">OTA Update to NJH47B</a></td>
+      <td>SHA1: 66f44ab398d5c01e0c7fd951682a01d8d36a118a</td>
+    </tr>
     <tr class="first">
       <td>NHG47K</td>
       <td>7.1.2</td>
@@ -693,6 +700,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/marlin-ota-n2g47o-61bf55a3.zip">Full OTA Image</a></td>
       <td>SHA256: 61bf55a324e66a8503dc63c67204e4f33b5fb396711799116db8131b4a78178a</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_marlin_marlin/1b42af10c58790f813af059431f37b2458cbb78e.zip">OTA Update to NJH47B</a></td>
+      <td>SHA1: 1b42af10c58790f813af059431f37b2458cbb78e</td>
+    </tr>
     <tr class="first">
       <td>NHG47K</td>
       <td>7.1.2</td>
@@ -1208,6 +1222,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/ryu-ota-n2g47o-64e86c52.zip">Full OTA Image</a></td>
       <td>SHA256: 64e86c52c27d2eae29f02eec00b0218a2e5227600b4586302a6b8aca0524b843</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_dragon_ryu/a26da3023ec2f69dea981b53d92f5e739ec755d0.zip">OTA Update to N2G47W</a></td>
+      <td>SHA1: a26da3023ec2f69dea981b53d92f5e739ec755d0</td>
     </tr>
     <tr class="first">
       <td>N2G47D</td>
@@ -1736,6 +1757,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/angler-ota-n2g47o-ec3f4df1.zip">Full OTA Image</a></td>
       <td>SHA256: ec3f4df1327284bc68fef0fca9d99a9287034873cb7e338a76b3ae14fc3e807e</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_angler_angler/579c4cd12810ebdc94376ab3d118bafb2d6319a7.zip">OTA Update to N2G47W</a></td>
+      <td>SHA1: 579c4cd12810ebdc94376ab3d118bafb2d6319a7</td>
     </tr>
     <tr class="first">
       <td>N2G47H</td>
@@ -2484,6 +2512,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/bullhead-ota-n2g47o-b6cdc215.zip">Full OTA Image</a></td>
       <td>SHA256: b6cdc215d284184b8a8a01a7c480f8698eb5c96f21735de73235a3456e9f7b50</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_bullhead_bullhead/c212e927d41a0cbe1d1da092020c61c130399880.zip">OTA Update to N2G47W</a></td>
+      <td>SHA1: c212e927d41a0cbe1d1da092020c61c130399880</td>
     </tr>
     <tr class="first">
       <td>N2G47F</td>
@@ -5445,6 +5480,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/volantisg-ota-n4f27b-aefcb323.zip">Full OTA Image</a></td>
       <td>SHA256: aefcb323f3b6e1246528bd9ba078b008b3d942c575b8ca5c9d77b13c2d55eb22</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_flounderlte_volantisg/803280adf45fef6c67bd2cc21ce7934318dffd11.zip">OTA Update to N4F27E</a></td>
+      <td>SHA1: 803280adf45fef6c67bd2cc21ce7934318dffd11</td>
+    </tr>
     <tr class="first">
       <td>N4F26X</td>
       <td>7.1.1</td>
@@ -6154,6 +6196,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://dl.google.com/dl/android/aosp/volantis-ota-n4f27b-e5b3a8a9.zip">Full OTA Image</a></td>
       <td>SHA256: e5b3a8a9db123a9aa5cc9443dfe53b5b4c310b9995e7f00cbad3e902e0c50232</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_flounder_volantis/138ea0240004fdea36e88c42449e1ecf8051f9c9.zip">OTA Update to N9F27C</a></td>
+      <td>SHA1: 138ea0240004fdea36e88c42449e1ecf8051f9c9</td>
     </tr>
     <tr class="first">
       <td>N4F26X</td>
