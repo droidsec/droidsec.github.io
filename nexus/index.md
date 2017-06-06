@@ -4766,6 +4766,13 @@ Jump to a specific device:<br />
       <td><a href="https://dl.google.com/dl/android/aosp/fugu-ota-n2g47r-689c6f92.zip">Full OTA Image</a></td>
       <td>SHA256: 689c6f92586e97f3b6f5ccc76137bd42542adca639fbb9a5d83654ac6261a7fa</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_fugu_fugu/1d2c6570a7d64fd92ce4659000b31f1fa6fdf04d.zip">OTA Update to N2G47X</a></td>
+      <td>SHA1: 1d2c6570a7d64fd92ce4659000b31f1fa6fdf04d</td>
+    </tr>
     <tr class="first">
       <td>N2G47H</td>
       <td>7.1.2</td>
