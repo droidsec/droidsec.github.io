@@ -71,6 +71,12 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
+      <td>OPP3.170518.006</td>
+      <td>O</td>
+      <td><a href="http://storage.googleapis.com/androiddevelopers/shareables/preview/sailfish-opp3.170518.006-factory-b0aa7b51.zip">Preview Image</a></td>
+      <td>SHA256: b0aa7b51b95c17fc602587f7643c31f76c401516f8e6f742c6a01b197a97a8a3</td>
+    </tr>
+    <tr class="first">
       <td><div class="current">NKG47L</div></td>
       <td>7.1.2</td>
       <td><a title="Jun 2017, T-Mobile, Fi carriers, and Rogers" href="https://dl.google.com/dl/android/aosp/sailfish-nkg47l-factory-2a584648.zip">Factory Image (ZIP)</a><sup>1</sup></td>
@@ -604,6 +610,12 @@ Jump to a specific device:<br />
     </tr>
   </thead>
   <tbody>
+    <tr class="first">
+      <td>OPP3.170518.006</td>
+      <td>O</td>
+      <td><a href="http://storage.googleapis.com/androiddevelopers/shareables/preview/marlin-opp3.170518.006-factory-fed063ff.zip">Preview Image</a></td>
+      <td>SHA256: fed063ff514489f54811bc7f17248bd7afe208b53985575ac5cbf12211fb7731</td>
+    </tr>
     <tr class="first">
       <td><div class="current">NKG47L</div></td>
       <td>7.1.2</td>
@@ -1207,6 +1219,12 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
+      <td>OPP3.170518.006</td>
+      <td>O</td>
+      <td><a href="http://storage.googleapis.com/androiddevelopers/shareables/preview/ryu-opp3.170518.006-factory-18651a21.zip">Preview Image</a></td>
+      <td>SHA256: 18651a21341979d4b73d31aa76dd2151e8df17f710da190116ca6b4f9cc991e3</td>
+    </tr>
+    <tr class="first">
       <td><div class="current">N2G47W</div></td>
       <td>7.1.2</td>
       <td><a title="Jun 2017" href="https://dl.google.com/dl/android/aosp/ryu-n2g47w-factory-45c8abfa.zip">Factory Image (ZIP)</a><sup>1</sup></td>
@@ -1741,6 +1759,12 @@ Jump to a specific device:<br />
     </tr>
   </thead>
   <tbody>
+    <tr class="first">
+      <td>OPP3.170518.006</td>
+      <td>O</td>
+      <td><a href="http://storage.googleapis.com/androiddevelopers/shareables/preview/angler-opp3.170518.006-factory-f222dd17.zip">Preview Image</a></td>
+      <td>SHA256: f222dd176f0e3b78f3d15ece54dce23b52e3b14baf7400dbe4b1531e75aa9a32</td>
+    </tr>
     <tr class="first">
       <td><div class="current">N2G47W</div></td>
       <td>7.1.2</td>
@@ -2510,6 +2534,12 @@ Jump to a specific device:<br />
     </tr>
   </thead>
   <tbody>
+    <tr class="first">
+      <td>OPP3.170518.006</td>
+      <td>O</td>
+      <td><a href="http://storage.googleapis.com/androiddevelopers/shareables/preview/bullhead-opp3.170518.006-factory-1e63004d.zip">Preview Image</a></td>
+      <td>SHA256: 1e63004d559afb3fbe4c7bb9651383957ffc3caa5a92b997271e7358aeb411d1</td>
+    </tr>
     <tr class="first">
       <td><div class="current">N2G47W</div></td>
       <td>7.1.2</td>
@@ -4783,6 +4813,12 @@ Jump to a specific device:<br />
     </tr>
   </thead>
   <tbody>
+    <tr class="first">
+      <td>OPP3.170518.006</td>
+      <td>O</td>
+      <td><a href="http://storage.googleapis.com/androiddevelopers/shareables/preview/fugu-opp3.170518.006-factory-d98a9a5c.zip">Preview Image</a></td>
+      <td>SHA256: d98a9a5c589d54efedbe1a8e3fc1f51c34b2c8acd64d8d31c605a39387fd6719</td>
+    </tr>
     <tr class="first">
       <td><div class="current">N2G47X</div></td>
       <td>7.1.2</td>
