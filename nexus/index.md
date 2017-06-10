@@ -331,6 +331,13 @@ Jump to a specific device:<br />
       <td><a href="https://ota.googlezip.net/packages/ota/google_sailfish_sailfish/7bad6688385deb9cfa8c47bff12294b3a545ee36.zip">OTA Update to NOF27B</a></td>
       <td>SHA1: 7bad6688385deb9cfa8c47bff12294b3a545ee36</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/1a0b51a388ded3949553dc9e892836296489f001.zip">OTA Update to NJH47B</a></td>
+      <td>SHA1: 1a0b51a388ded3949553dc9e892836296489f001</td>
+    </tr>
     <tr class="first">
       <td>NMF26V</td>
       <td>7.1.1</td>
@@ -512,6 +519,13 @@ Jump to a specific device:<br />
       <td><a href="https://ota.googlezip.net/packages/ota/google_sailfish_sailfish/9cba95bf710ee4903c6a3f19afc931f135286234.zip">OTA Update to NOF26V</a></td>
       <td>SHA1: 9cba95bf710ee4903c6a3f19afc931f135286234</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/4ab643c98075bcb88e3d136b21e1afc46e8953aa.zip">OTA Update to N2G47O</a></td>
+      <td>SHA1: 4ab643c98075bcb88e3d136b21e1afc46e8953aa</td>
+    </tr>
     <tr class="first">
       <td>NDE63L</td>
       <td>7.1.0</td>
@@ -552,6 +566,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://ota.googlezip.net/packages/ota/google_sailfish_sailfish/6f2242eaf3476a891f7fb6967d6b5ac64bfc7e1c.zip">OTA Update to NOF26V</a></td>
       <td>SHA1: 6f2242eaf3476a891f7fb6967d6b5ac64bfc7e1c</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/852e62d0aad1a90d8969d74088d3935e5eb89526.zip">OTA Update to NJH47B</a></td>
+      <td>SHA1: 852e62d0aad1a90d8969d74088d3935e5eb89526</td>
     </tr>
     <tr class="first">
       <td>NDE63P</td>
@@ -885,6 +906,13 @@ Jump to a specific device:<br />
       <td><a href="https://ota.googlezip.net/packages/ota-api/google_marlin_marlin/c51fb533c30ff423e15c44c1283d016ba4681384.zip">OTA Update to NOF27B</a></td>
       <td>SHA1: c51fb533c30ff423e15c44c1283d016ba4681384</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_marlin_marlin/cc1eea6659797df17326ad033ee6da780f6f8193.zip">OTA Update to NJH47B</a></td>
+      <td>SHA1: cc1eea6659797df17326ad033ee6da780f6f8193</td>
+    </tr>
     <tr class="first">
       <td>NMF26V</td>
       <td>7.1.1</td>
@@ -1066,6 +1094,13 @@ Jump to a specific device:<br />
       <td><a href="https://ota.googlezip.net/packages/ota/google_marlin_marlin/451e6d07868668965fbceb58de42d9a5499f271c.zip">OTA Update to NOF27B</a></td>
       <td>SHA1: 451e6d07868668965fbceb58de42d9a5499f271c</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_marlin_marlin/eceb9d08a3f2f4e41574f8980206c09ac5fe040f.zip">OTA Update to NJH47B</a></td>
+      <td>SHA1: eceb9d08a3f2f4e41574f8980206c09ac5fe040f</td>
+    </tr>
     <tr class="first">
       <td>NDE63L</td>
       <td>7.1.0</td>
@@ -1106,6 +1141,20 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://android.googleapis.com/packages/ota/google_marlin_marlin/b4bd3cfe9751e7a1cf39786541a075fc8509131d.zip">OTA Update to NOF27B</a></td>
       <td>SHA1: b4bd3cfe9751e7a1cf39786541a075fc8509131d</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_marlin_marlin/a8626be9247dc8d6a46fe997d577d9e048c4017d.zip">OTA Update to NJH47B</a></td>
+      <td>SHA1: a8626be9247dc8d6a46fe997d577d9e048c4017d</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_marlin_marlin/10575eaf11e837d22b50bbb8f7f42166c345049c.zip">OTA Update to N2G47O</a></td>
+      <td>SHA1: 10575eaf11e837d22b50bbb8f7f42166c345049c</td>
     </tr>
     <tr class="first">
       <td>NDE63P</td>
