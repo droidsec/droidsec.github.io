@@ -154,6 +154,13 @@ Jump to a specific device:<br />
       <td><a title="Jun 2017" href="https://dl.google.com/dl/android/aosp/sailfish-ota-njh47b-ed08e156.zip">Full OTA Image</a><sup>1</sup></td>
       <td>SHA256: ed08e156990fa2b2512985c58ea4bf56e8634b261e700a98337531fbd294c055</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/2f6e3754aeacec25305cd3e64f886a06f7c6c4b0.zip">OTA Update to NJH47D</a></td>
+      <td>SHA1: 2f6e3754aeacec25305cd3e64f886a06f7c6c4b0</td>
+    </tr>
     <tr class="first">
       <td>NJH34C</td>
       <td>7.1.2</td>
@@ -179,6 +186,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a title="Jun 2017, NHG47N" href="https://dl.google.com/dl/android/aosp/sailfish-ota-nhg47n-762d1418.zip">Full OTA Image</a><sup>1</sup></td>
       <td>SHA256: 762d14186fbe0f08a828c4a0ce439cafa0987e2b06b890ce3625ca8be2cdb432</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/cbc6afb068c252f9ae5e7983c0072e8281147a94.zip">OTA Update to NJH47D</a></td>
+      <td>SHA1: cbc6afb068c252f9ae5e7983c0072e8281147a94</td>
     </tr>
     <tr class="first">
       <td>OPP2.170420.019</td>
@@ -390,6 +404,13 @@ Jump to a specific device:<br />
       <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/1a0b51a388ded3949553dc9e892836296489f001.zip">OTA Update to NJH47B</a></td>
       <td>SHA1: 1a0b51a388ded3949553dc9e892836296489f001</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/fbc6b186131f0d4d1c4714fcd1a0a3faf7985168.zip">OTA Update to NJH47D</a></td>
+      <td>SHA1: fbc6b186131f0d4d1c4714fcd1a0a3faf7985168</td>
+    </tr>
     <tr class="first">
       <td>NMF26V</td>
       <td>7.1.1</td>
@@ -578,6 +599,20 @@ Jump to a specific device:<br />
       <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/4ab643c98075bcb88e3d136b21e1afc46e8953aa.zip">OTA Update to N2G47O</a></td>
       <td>SHA1: 4ab643c98075bcb88e3d136b21e1afc46e8953aa</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/b24db6ab5d247d5cad0d998f12f39f004aa73acb.zip">OTA Update to NJH47B</a></td>
+      <td>SHA1: b24db6ab5d247d5cad0d998f12f39f004aa73acb</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/0e2f734d4f6dad41fc34f031ba105a33f22ef710.zip">OTA Update to NJH47D</a></td>
+      <td>SHA1: 0e2f734d4f6dad41fc34f031ba105a33f22ef710</td>
+    </tr>
     <tr class="first">
       <td>NDE63L</td>
       <td>7.1.0</td>
@@ -625,6 +660,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/852e62d0aad1a90d8969d74088d3935e5eb89526.zip">OTA Update to NJH47B</a></td>
       <td>SHA1: 852e62d0aad1a90d8969d74088d3935e5eb89526</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/0c9fb70efae410e61cb7c94a0d824f087defa8f7.zip">OTA Update to NJH47D</a></td>
+      <td>SHA1: 0c9fb70efae410e61cb7c94a0d824f087defa8f7</td>
     </tr>
     <tr class="first">
       <td>NDE63P</td>
@@ -767,6 +809,13 @@ Jump to a specific device:<br />
       <td><a title="Jun 2017" href="https://dl.google.com/dl/android/aosp/marlin-ota-njh47b-8d52ade5.zip">Full OTA Image</a><sup>1</sup></td>
       <td>SHA256: 8d52ade5a0749fd86f22a8a9d74ea4ccb25a298d89abf7fe61672539215d1086</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_marlin_marlin/c39f921d2d2be514a7306b882e1f68a536ba438e.zip">OTA Update to NJH47D</a></td>
+      <td>SHA1: c39f921d2d2be514a7306b882e1f68a536ba438e</td>
+    </tr>
     <tr class="first">
       <td>NJH34C</td>
       <td>7.1.2</td>
@@ -792,6 +841,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a title="Jun 2017, Verizon" href="https://dl.google.com/dl/android/aosp/marlin-ota-nhg47n-9ee19a18.zip">Full OTA Image</a><sup>1</sup></td>
       <td>SHA256: 9ee19a1892c5989ad3a39ea5d4a47fd10495bfaeb1573385cad70f19ad678792</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_marlin_marlin/65f4f3b14b9571511a18a6c080cae60d851a7c35.zip">OTA Update to NJH47D</a></td>
+      <td>SHA1: 65f4f3b14b9571511a18a6c080cae60d851a7c35</td>
     </tr>
     <tr class="first">
       <td>OPP2.170420.019</td>
@@ -1016,6 +1072,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a href="https://ota.googlezip.net/packages/ota-api/google_marlin_marlin/cc1eea6659797df17326ad033ee6da780f6f8193.zip">OTA Update to NJH47B</a></td>
       <td>SHA1: cc1eea6659797df17326ad033ee6da780f6f8193</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_marlin_marlin/89b0ee0acffdde88b506439c17d77f229f8fc410.zip">OTA Update to NJH47D</a></td>
+      <td>SHA1: 89b0ee0acffdde88b506439c17d77f229f8fc410</td>
     </tr>
     <tr class="first">
       <td>NMF26V</td>
@@ -1402,6 +1465,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a title="Jun 2017" href="https://dl.google.com/dl/android/aosp/ryu-ota-n2g47w-7d6dac7b.zip">Full OTA Image</a><sup>1</sup></td>
       <td>SHA256: 7d6dac7be6fa2c26cb7a135f5ba66c0877001aecc42d45fd6611529649e1301d</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_dragon_ryu/44532247bd669e4dab7486801922c5f1b75d7895.zip">OTA Update to N2G48B</a></td>
+      <td>SHA1: 44532247bd669e4dab7486801922c5f1b75d7895</td>
     </tr>
     <tr class="first">
       <td>OPP2.170420.019</td>
@@ -1956,6 +2026,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a title="Jun 2017" href="https://dl.google.com/dl/android/aosp/angler-ota-n2g47w-135b87b2.zip">Full OTA Image</a><sup>1</sup></td>
       <td>SHA256: 135b87b267ca8dfe32a51ae2295c7df84ae60793ba173b6ead808d834ffeea71</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_angler_angler/0e4bc16bb93e02f4f890ce1642148ce698a32f7f.zip">OTA Update to N2G48B</a></td>
+      <td>SHA1: 0e4bc16bb93e02f4f890ce1642148ce698a32f7f</td>
     </tr>
     <tr class="first">
       <td>OPP2.170420.019</td>
@@ -2744,6 +2821,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a title="Jun 2017" href="https://dl.google.com/dl/android/aosp/bullhead-ota-n2g47w-60388647.zip">Full OTA Image</a><sup>1</sup></td>
       <td>SHA256: 603886472e96bbfa0b579fa21292b0e14bbda1548e36d89125231096dab41bc4</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_bullhead_bullhead/3c34fa73db25b761b0c2624bf46f0d6dca30c582.zip">OTA Update to N2G47Z</a></td>
+      <td>SHA1: 3c34fa73db25b761b0c2624bf46f0d6dca30c582</td>
     </tr>
     <tr class="first">
       <td>OPP2.170420.019</td>
@@ -5050,6 +5134,13 @@ Jump to a specific device:<br />
       <td><a title="Jun 2017" href="https://dl.google.com/dl/android/aosp/fugu-ota-n2g47x-9f1ac867.zip">Full OTA Image</a><sup>1</sup></td>
       <td>SHA256: 9f1ac867a983a35f15b663f465185cb313e58e180b45323040bccd87f96c77e9</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_fugu_fugu/a95442e7f48a20f1e1c40ad2fe70b861bea77df9.zip">OTA Update to N2G48B</a></td>
+      <td>SHA1: a95442e7f48a20f1e1c40ad2fe70b861bea77df9</td>
+    </tr>
     <tr class="first">
       <td>OPP2.170420.019</td>
       <td>O</td>
@@ -5796,6 +5887,13 @@ Jump to a specific device:<br />
       <td><a title="Jun 2017" href="https://dl.google.com/dl/android/aosp/volantisg-ota-n4f27e-229ddb0a.zip">Full OTA Image</a><sup>1</sup></td>
       <td>SHA256: 229ddb0a112ae2acff37caf26581e3e65e50693dc8355b8deb28cb1f15205bf5</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_flounderlte_volantisg/f5834f431305b0e05d802e07b1d245b8d107e527.zip">OTA Update to N4F27I</a></td>
+      <td>SHA1: f5834f431305b0e05d802e07b1d245b8d107e527</td>
+    </tr>
     <tr class="first">
       <td>N4F27B</td>
       <td>7.1.1</td>
@@ -6525,6 +6623,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a title="Jun 2017" href="https://dl.google.com/dl/android/aosp/volantis-ota-n9f27c-3a1f1bb8.zip">Full OTA Image</a><sup>1</sup></td>
       <td>SHA256: 3a1f1bb8d609c4250fb34b40911e1c8fb62c836cb78cace6e01f50ddbac359f9</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_flounder_volantis/d32494945da1247b24f8a3f0b4200af27a765847.zip">OTA Update to N9F27F</a></td>
+      <td>SHA1: d32494945da1247b24f8a3f0b4200af27a765847</td>
     </tr>
     <tr class="first">
       <td>N4F27B</td>
