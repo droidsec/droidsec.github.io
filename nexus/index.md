@@ -71,7 +71,33 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NZH54D</div></td>
+      <td><div class="current">OPR6.170623.012</div></td>
+      <td>8.0.0</td>
+      <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/sailfish-opr6.170623.012-factory-8ada9373.zip">Factory Image (ZIP)</a><sup>1</sup></td>
+      <td>SHA256: 8ada9373e6f86cac20023bd6c7889edb0449fc7085913d1e45f8a1491b17942c</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/sailfish-ota-opr6.170623.012-b48a822b.zip">Full OTA Image</a><sup>1</sup></td>
+      <td>SHA256: b48a822b76b8739a019a679979c905f933c750ca7085ee21e4b49668c9549232</td>
+    </tr>
+    <tr class="first">
+      <td><div class="current">OPR6.170623.011</div></td>
+      <td>8.0.0</td>
+      <td><a title="Aug 2017, Bell, Telus, Telstra, TMO, Sprint, USCC, Rogers/Fido" href="https://dl.google.com/dl/android/aosp/sailfish-opr6.170623.011-factory-0d712594.zip">Factory Image (ZIP)</a><sup>1</sup></td>
+      <td>SHA256: 0d71259400371b8da44e6300324dbd6cbe26d6ae2641745becab9d7d1607e9db</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a title="Aug 2017, Bell, Telus, Telstra, TMO, Sprint, USCC, Rogers/Fido" href="https://dl.google.com/dl/android/aosp/sailfish-ota-opr6.170623.011-b42cfa2f.zip">Full OTA Image</a><sup>1</sup></td>
+      <td>SHA256: b42cfa2f5549a6afb8b9e8f241eaf06f8eadd83e521977733df37f0a718cb206</td>
+    </tr>
+    <tr class="first">
+      <td>NZH54D</td>
       <td>7.1.2</td>
       <td><a title="Aug 2017, Deutsche Telekom" href="https://dl.google.com/dl/android/aosp/sailfish-nzh54d-factory-127f0583.zip">Factory Image (ZIP)</a><sup>1</sup></td>
       <td>SHA256: 127f058367fa854002e6fd4221cfbcdc748398b122a2b39dc5cad7aa9e902be3</td>
@@ -84,7 +110,7 @@ Jump to a specific device:<br />
       <td>SHA256: 2163742b2a40fd224c42d74ca553932fcfac9bb7947ac4b71709ca5e02889074</td>
     </tr>
     <tr class="first">
-      <td><div class="current">NKG47S</div></td>
+      <td>NKG47S</td>
       <td>7.1.2</td>
       <td><a title="Aug 2017, T-Mobile, Fi carriers, and Rogers" href="https://dl.google.com/dl/android/aosp/sailfish-nkg47s-factory-f4b60f10.zip">Factory Image (ZIP)</a><sup>1</sup></td>
       <td>SHA256: f4b60f104d33fed036efb00d33125bbf672b01b0a53f8a87b84836ed7959efb7</td>
@@ -97,7 +123,7 @@ Jump to a specific device:<br />
       <td>SHA256: 606df834f122cbcbd62d1b15be1d922c62e7da914319dd5ba33b03d3d27233c0</td>
     </tr>
     <tr class="first">
-      <td><div class="current">NJH47F</div></td>
+      <td>NJH47F</td>
       <td>7.1.2</td>
       <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/sailfish-njh47f-factory-6fd9b2c4.zip">Factory Image (ZIP)</a><sup>1</sup></td>
       <td>SHA256: 6fd9b2c42ebbde474fff37765b90c8b688128cda24b2fffbeb46523a5acdfa14</td>
@@ -110,7 +136,7 @@ Jump to a specific device:<br />
       <td>SHA256: b1b5d050cfaebfb710258bd2cc3b69efee76695ccdca7a7b54973732f429623d</td>
     </tr>
     <tr class="first">
-      <td><div class="current">NHG47Q</div></td>
+      <td>NHG47Q</td>
       <td>7.1.2</td>
       <td><a title="Aug 2017, Verizon" href="https://dl.google.com/dl/android/aosp/sailfish-nhg47q-factory-135beab7.zip">Factory Image (ZIP)</a><sup>1</sup></td>
       <td>SHA256: 135beab7f55a7f9fcf5ae3384d0e79bfb3b39fbd963dc836d3b61dbf23dab8ae</td>
@@ -840,7 +866,33 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">NZH54D</div></td>
+      <td><div class="current">OPR6.170623.012</div></td>
+      <td>8.0.0</td>
+      <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/marlin-opr6.170623.012-factory-6304451d.zip">Factory Image (ZIP)</a><sup>1</sup></td>
+      <td>SHA256: 6304451dd6744b1a2faadd7921f28a217e8dbe4bf20c6cfc20bf350b1e0f07df</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/marlin-ota-opr6.170623.012-f265546b.zip">Full OTA Image</a><sup>1</sup></td>
+      <td>SHA256: f265546b3f5bb19b6d18d61d59ef5a1c2720377c9f8351bf9d7afa3ea2ccbc69</td>
+    </tr>
+    <tr class="first">
+      <td><div class="current">OPR6.170623.011</div></td>
+      <td>8.0.0</td>
+      <td><a title="Aug 2017, Bell, Telus, Telstra, TMO, Sprint, USCC, Rogers/Fido" href="https://dl.google.com/dl/android/aosp/marlin-opr6.170623.011-factory-985fd412.zip">Factory Image (ZIP)</a><sup>1</sup></td>
+      <td>SHA256: 985fd412c40dd1ec6ee780185b30c5854627b5301da2a48f252155a0265116de</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a title="Aug 2017, Bell, Telus, Telstra, TMO, Sprint, USCC, Rogers/Fido" href="https://dl.google.com/dl/android/aosp/marlin-ota-opr6.170623.011-b4e02849.zip">Full OTA Image</a><sup>1</sup></td>
+      <td>SHA256: b4e02849ea8906487e45dbcc50e8a164ab9bf8bfff0262f098d8ee5a93aaab46</td>
+    </tr>
+    <tr class="first">
+      <td>NZH54D</td>
       <td>7.1.2</td>
       <td><a title="Aug 2017, Deutsche Telekom" href="https://dl.google.com/dl/android/aosp/marlin-nzh54d-factory-d34033fa.zip">Factory Image (ZIP)</a><sup>1</sup></td>
       <td>SHA256: d34033faf5631fb66f8bc31d26928bb69a97c71b621e93ccd4edca0bf259313a</td>
@@ -853,7 +905,7 @@ Jump to a specific device:<br />
       <td>SHA256: 2e78d8a13828c4ae7bf22fd567ba9ba881b3971c2623326a72585dc7aa5961d2</td>
     </tr>
     <tr class="first">
-      <td><div class="current">NKG47S</div></td>
+      <td>NKG47S</td>
       <td>7.1.2</td>
       <td><a title="Aug 2017, T-Mobile, Fi carriers, and Rogers" href="https://dl.google.com/dl/android/aosp/marlin-nkg47s-factory-a434e157.zip">Factory Image (ZIP)</a><sup>1</sup></td>
       <td>SHA256: a434e157f855427c929113e16aa5f54b73c135ea0fc5ae5fbac9ee8a08393ad8</td>
@@ -866,7 +918,7 @@ Jump to a specific device:<br />
       <td>SHA256: cfed311faf5012ca4e9cc7cc4237e854abf995d68b97d8996889ae8531ed83ed</td>
     </tr>
     <tr class="first">
-      <td><div class="current">NJH47F</div></td>
+      <td>NJH47F</td>
       <td>7.1.2</td>
       <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/marlin-njh47f-factory-497f7f66.zip">Factory Image (ZIP)</a><sup>1</sup></td>
       <td>SHA256: 497f7f663a8f31418ff4de343d123e70946e03253bceb908b1ac3ab87c72093f</td>
@@ -879,7 +931,7 @@ Jump to a specific device:<br />
       <td>SHA256: 72cd90c00f5d9fe03f81998d39a1dfddb4a6d17245a3ab40964825bfa4068d69</td>
     </tr>
     <tr class="first">
-      <td><div class="current">NHG47Q</div></td>
+      <td>NHG47Q</td>
       <td>7.1.2</td>
       <td><a title="Aug 2017, Verizon" href="https://dl.google.com/dl/android/aosp/marlin-nhg47q-factory-8b788af8.zip">Factory Image (ZIP)</a><sup>1</sup></td>
       <td>SHA256: 8b788af852d231a6ad99324aaed38f093ca07d4ad771b80609be7bf0d7033c2c</td>
@@ -1670,7 +1722,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">N2G48C</div></td>
+      <td><div class="current">OPR6.170623.010</div></td>
+      <td>8.0.0</td>
+      <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/ryu-opr6.170623.010-factory-81a1479d.zip">Factory Image (ZIP)</a><sup>1</sup></td>
+      <td>SHA256: 81a1479d62eddc5657c6b496a5581bafe07265b61f7e0c3b259430fcc7119758</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/ryu-ota-opr6.170623.010-6a4a2ae2.zip">Full OTA Image</a><sup>1</sup></td>
+      <td>SHA256: 6a4a2ae2b2cb685fd3e741fb0f3f718bbb04892ab5b8bea01aa1cd7a1d18d582</td>
+    </tr>
+    <tr class="first">
+      <td>N2G48C</td>
       <td>7.1.2</td>
       <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/ryu-n2g48c-factory-0bc0ee15.zip">Factory Image (ZIP)</a><sup>1</sup></td>
       <td>SHA256: 0bc0ee15ad02bd3bd222c7b0abc6f518512978c79470e5addb5f5f45646f2c0d</td>
@@ -2250,7 +2315,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">N2G48C</div></td>
+      <td><div class="current">OPR6.170623.013</div></td>
+      <td>8.0.0</td>
+      <td><a title="Aug 2017, Not for TMO/USCC/Fi" href="https://dl.google.com/dl/android/aosp/angler-opr6.170623.013-factory-a63b2f21.zip">Factory Image (ZIP)</a><sup>1</sup></td>
+      <td>SHA256: a63b2f21ad07d7b163cdb0ff26b4d3aedfa3869462d4b86369dc35d5653895bb</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a title="Aug 2017, Not for TMO/USCC/Fi" href="https://dl.google.com/dl/android/aosp/angler-ota-opr6.170623.013-517abdd6.zip">Full OTA Image</a><sup>1</sup></td>
+      <td>SHA256: 517abdd6acbd668de344a841236aee998a1a8c98cec9746e5c9e24b717c5a126</td>
+    </tr>
+    <tr class="first">
+      <td>N2G48C</td>
       <td>7.1.2</td>
       <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/angler-n2g48c-factory-6a21e528.zip">Factory Image (ZIP)</a><sup>1</sup></td>
       <td>SHA256: 6a21e52889246aee2be75479af1a684d4e1c78259dfc88a73a1e57e786cd771b</td>
@@ -3071,7 +3149,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">N2G48C</div></td>
+      <td><div class="current">OPR6.170623.013</div></td>
+      <td>8.0.0</td>
+      <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/bullhead-opr6.170623.013-factory-203642e1.zip">Factory Image (ZIP)</a><sup>1</sup></td>
+      <td>SHA256: 203642e1a27ee0f00302cbf0003adfb8fabfb27821a6f33bad393472a20b97c8</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/bullhead-ota-opr6.170623.013-87f85e44.zip">Full OTA Image</a><sup>1</sup></td>
+      <td>SHA256: 87f85e44518b4ab632f14403c7817c6afefe0c66304fa1368d9857c991e13925</td>
+    </tr>
+    <tr class="first">
+      <td>N2G48C</td>
       <td>7.1.2</td>
       <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/bullhead-n2g48c-factory-45d442a2.zip">Factory Image (ZIP)</a><sup>1</sup></td>
       <td>SHA256: 45d442a26832292df258d7be83de160f280681fa57a12932a3bccfbf088fc337</td>
