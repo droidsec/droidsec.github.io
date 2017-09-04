@@ -83,6 +83,13 @@ Jump to a specific device:<br />
       <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/sailfish-ota-opr6.170623.012-b48a822b.zip">Full OTA Image</a><sup>1</sup></td>
       <td>SHA256: b48a822b76b8739a019a679979c905f933c750ca7085ee21e4b49668c9549232</td>
     </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_sailfish_sailfish/e16e64eb52b7e1f23a616de2ebd703c0ce725d82.zip">Full OTA Image</a></td>
+      <td>SHA1: e16e64eb52b7e1f23a616de2ebd703c0ce725d82</td>
+    </tr>
     <tr class="first">
       <td><div class="current">OPR6.170623.011</div></td>
       <td>8.0.0</td>
@@ -877,6 +884,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/marlin-ota-opr6.170623.012-f265546b.zip">Full OTA Image</a><sup>1</sup></td>
       <td>SHA256: f265546b3f5bb19b6d18d61d59ef5a1c2720377c9f8351bf9d7afa3ea2ccbc69</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://ota.googlezip.net/packages/ota-api/google_marlin_marlin/8cfe91d60eafcec2c74e3eef4c2506473b2d7187.zip">Full OTA Image</a></td>
+      <td>SHA1: 8cfe91d60eafcec2c74e3eef4c2506473b2d7187</td>
     </tr>
     <tr class="first">
       <td><div class="current">OPR6.170623.011</div></td>
@@ -1733,6 +1747,13 @@ Jump to a specific device:<br />
       <td>&nbsp;</td>
       <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/ryu-ota-opr6.170623.010-6a4a2ae2.zip">Full OTA Image</a><sup>1</sup></td>
       <td>SHA256: 6a4a2ae2b2cb685fd3e741fb0f3f718bbb04892ab5b8bea01aa1cd7a1d18d582</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="https://android.googleapis.com/packages/ota-api/google_dragon_ryu/84492c777300aef418799687a9ccf0c4a2ad089d.zip">Full OTA Image</a></td>
+      <td>SHA1: 84492c777300aef418799687a9ccf0c4a2ad089d</td>
     </tr>
     <tr class="first">
       <td>N2G48C</td>
