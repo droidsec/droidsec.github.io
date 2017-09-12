@@ -6346,7 +6346,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">N4F27K</div></td>
+      <td><div class="current">N4F27O</div></td>
+      <td>7.1.1</td>
+      <td><a title="Sep 2017" href="https://dl.google.com/dl/android/aosp/volantisg-n4f27o-factory-6826050e.zip">Factory Image (ZIP)</a><sup>1</sup></td>
+      <td>SHA256: 6826050ed70173fcdde8cf861f4c3f081f638f2a12b98ee93f7271dc1c72ec08</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a title="Sep 2017" href="https://dl.google.com/dl/android/aosp/volantisg-ota-n4f27o-e7d43de7.zip">Full OTA Image</a><sup>1</sup></td>
+      <td>SHA256: e7d43de7f2beed7221cec63628308e0df985a97c1bf478c3fc169b52d4875d6f</td>
+    </tr>
+    <tr class="first">
+      <td>N4F27K</td>
       <td>7.1.1</td>
       <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/volantisg-n4f27k-factory-a69e5f5e.zip">Factory Image (ZIP)</a><sup>1</sup></td>
       <td>SHA256: a69e5f5e2535b9789998990f0138521d75761c463e70b0365f6c2ef78cd16574</td>
@@ -7103,7 +7116,20 @@ Jump to a specific device:<br />
   </thead>
   <tbody>
     <tr class="first">
-      <td><div class="current">N9F27H</div></td>
+      <td><div class="current">N9F27L</div></td>
+      <td>7.1.1</td>
+      <td><a title="Sep 2017" href="https://dl.google.com/dl/android/aosp/volantis-n9f27l-factory-f8ffc0da.zip">Factory Image (ZIP)</a><sup>1</sup></td>
+      <td>SHA256: f8ffc0dabae79a8ac7608c57973b4ba148152fa9e0c6820b81e6376087847f75</td>
+    </tr>
+
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a title="Sep 2017" href="https://dl.google.com/dl/android/aosp/volantis-ota-n9f27l-7fd5d6e6.zip">Full OTA Image</a><sup>1</sup></td>
+      <td>SHA256: 7fd5d6e6e7d486b6aaa7a0c59bb8e697f74c1a11b0647a4ef939cfef32206edd</td>
+    </tr>
+    <tr class="first">
+      <td>N9F27H</td>
       <td>7.1.1</td>
       <td><a title="Aug 2017" href="https://dl.google.com/dl/android/aosp/volantis-n9f27h-factory-d2ad51d6.zip">Factory Image (ZIP)</a><sup>1</sup></td>
       <td>SHA256: d2ad51d621a60f903e3080a3ea648e6eb53a1eab5c26662c0bf2970eacb002c3</td>
