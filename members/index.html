@@ -16,14 +16,18 @@ title: Members
     </a>
     <h2>{{ member.display_name }}, {{ member.title }}</h2>
     <ul>
+      {% if member.twitter %}
       <li>Twitter: <a href="https://twitter.com/{{ member.twitter }}">@{{ member.twitter }}</a></li>
+      {% endif %}
       {% if member.web %}
       <li>Web: <a href="{{ member.web }}">{{ member.web }}</a></li>
       {% endif %}
       {% if member.email %}
       <li>Email: <a href="mailto:{{ member.email }}">{{ member.email }}</a></li>
       {% endif %}
+      {% if member.github %}
       <li>Github: <a href="https://github.com/{{ member.github }}">{{ member.github }}</a></li>
+      {% endif %}
     </ul>
     {% if member.bio == blank or member.bio == nil %}
     {% else %}
