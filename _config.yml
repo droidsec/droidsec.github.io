@@ -409,3 +409,14 @@ members:
     github: citypw
     title: Security consultant, Coder
     bio: Doing FLOSS( Free/Libre & Open Source) security consulting by building defensive solution for GNU/Linux/Android security. Founder of HardenedLinux( https://github.com/hardenedlinux).
+
+  kkuehl:
+    name: Kirby Kuehl
+    display_name: kkuehl
+    gravatar: 2cd67f7cb9f4e29e3506aca804042471
+    email: kkuehl[at]gmail[dot]com
+    web: http://www.azimuthsecurity.com/
+    twitter: kkuehl
+    github: kkuehl
+    title:
+    bio: I was told there would be cake
